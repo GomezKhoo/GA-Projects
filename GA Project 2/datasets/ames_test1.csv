@@ -1,0 +1,879 @@
+,ms_subclass,ms_zoning,lot_frontage,lot_area,street,alley,neighborhood,year_remod/add,exterior_1st,exterior_2nd,mas_vnr_type,mas_vnr_area,foundation,bsmt_cond,1st_flr_sf,2nd_flr_sf,low_qual_fin_sf,gr_liv_area,bsmt_full_bath,bsmt_half_bath,full_bath,totrms_abvgrd,functional,garage_type,garage_cond,paved_drive,wood_deck_sf,sale_type,exter_qual_cond,overall_qual_cond,bsmt,heatingmod,kitchen_and_qual,fireplaces_and_qual,garage,porch_total,age
+0,190,RM,69.0,9142,Pave,Grvl,OldTown,1950,AsbShng,AsbShng,None,0.0,Stone,3.0,908,1020,0,1928,0,0,2,9,8,Detchd,1.0,Y,0,WD ,6,48,4080.0,GasAGasAGasAGasA,4,0.0,440.0,60,96
+1,90,RL,0.0,9662,Pave,0,Sawyer,1977,Plywood,Plywood,None,0.0,CBlock,3.0,1967,0,0,1967,0,0,2,10,8,Attchd,3.0,Y,170,WD ,9,20,15736.0,GasAGasAGasA,6,0.0,10440.0,0,29
+2,60,RL,58.0,17104,Pave,0,Gilbert,2006,VinylSd,VinylSd,None,0.0,PConc,4.0,664,832,0,1496,1,0,2,7,8,Attchd,3.0,Y,100,New,12,35,12372.0,GasAGasAGasAGasAGasA,4,4.0,5112.0,24,0
+3,30,RM,60.0,8520,Pave,0,OldTown,2006,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,968,0,0,968,0,0,1,5,8,Detchd,3.0,N,0,WD ,12,30,5808.0,GasAGasAGasA,3,0.0,1920.0,0,84
+4,20,RL,0.0,9500,Pave,0,NAmes,1963,Plywood,Plywood,BrkFace,247.0,CBlock,3.0,1394,0,0,1394,1,0,1,6,8,Attchd,3.0,Y,0,WD ,9,30,11152.0,GasAGasAGasAGasA,3,8.0,6168.0,261,46
+5,160,RM,21.0,1890,Pave,0,MeadowV,1972,CemntBd,CmentBd,None,0.0,CBlock,3.0,546,546,0,1092,0,0,1,5,8,Attchd,3.0,Y,0,WD ,9,24,3276.0,GasAGasAGasA,3,0.0,858.0,0,38
+6,20,RM,52.0,8516,Pave,0,OldTown,2006,MetalSd,MetalSd,None,0.0,CBlock,3.0,1093,0,0,1093,0,0,1,5,8,Detchd,3.0,Y,0,WD ,9,24,5214.0,GasAGasAGasA,3,0.0,924.0,0,50
+7,20,RL,0.0,9286,Pave,0,CollgCr,1989,HdBoard,Plywood,None,0.0,CBlock,4.0,1268,0,0,1268,0,0,1,5,8,Detchd,3.0,Y,173,WD ,9,35,29060.0,GasAGasAGasA,4,0.0,756.0,0,32
+8,160,FV,39.0,3515,Pave,Pave,Somerst,2004,VinylSd,VinylSd,None,0.0,PConc,3.0,840,840,0,1680,0,0,2,3,8,Attchd,3.0,Y,0,WD ,12,35,6720.0,GasAGasAGasAGasAGasA,4,0.0,7056.0,111,6
+9,20,RL,75.0,10125,Pave,0,Mitchel,1977,Plywood,Plywood,None,0.0,CBlock,3.0,1279,0,0,1279,0,1,2,6,8,Detchd,3.0,Y,238,WD ,9,36,8179.0,GasAGasAGasA,3,4.0,2838.0,83,31
+10,120,RL,50.0,7175,Pave,0,SawyerW,1991,Plywood,Plywood,None,0.0,PConc,3.0,1217,0,0,1217,0,0,2,5,8,Attchd,3.0,Y,0,WD ,12,30,10292.0,GasAGasAGasAGasA,4,0.0,5808.0,64,15
+11,30,RM,60.0,7200,Pave,0,IDOTRR,1992,VinylSd,VinylSd,None,0.0,CBlock,3.0,1040,0,0,1040,0,0,1,5,8,Detchd,3.0,Y,0,WD ,9,42,6240.0,GasAGasAGasAGasA,3,0.0,1920.0,132,83
+12,20,RL,75.0,11310,Pave,0,NAmes,1954,Wd Sdng,BrkFace,None,0.0,CBlock,3.0,1375,0,0,1375,0,0,1,5,8,Attchd,3.0,Y,0,WD ,9,30,8202.0,GasAGasAGasAGasAGasA,3,3.0,2706.0,30,52
+13,90,RL,0.0,7976,Pave,0,SawyerW,2000,VinylSd,VinylSd,BrkFace,23.0,PConc,3.0,1168,1619,0,2787,2,0,4,8,8,BuiltIn,3.0,Y,312,WD ,9,35,12500.0,GasAGasAGasAGasAGasA,6,6.0,29520.0,0,9
+14,70,RL,69.0,11737,Pave,0,BrkSide,1996,BrkComm,Stucco,None,0.0,BrkTil,3.0,1017,810,0,1827,0,0,1,9,8,Detchd,3.0,Y,27,WD ,9,42,5088.0,GasWGasWGasW,3,4.0,480.0,36,82
+15,20,RL,60.0,9060,Pave,0,Edwards,2006,Wd Sdng,Wd Sdng,BrkFace,98.0,PConc,0.0,1340,0,0,1340,0,0,1,7,8,Attchd,3.0,Y,116,WD ,9,30,0.0,GasAGasAGasAGasAGasA,3,4.0,1512.0,180,50
+16,190,RM,60.0,10800,Pave,Grvl,OldTown,1950,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,884,552,0,1436,0,0,2,8,8,Detchd,3.0,Y,0,Con,9,36,5894.0,GasAGasAGasA,6,8.0,4968.0,0,68
+17,20,RL,68.0,9571,Pave,0,Edwards,1956,MetalSd,MetalSd,None,0.0,CBlock,3.0,1073,0,0,1073,1,0,1,5,8,Attchd,3.0,Y,0,WD ,9,25,6438.0,GasAGasAGasA,3,0.0,1020.0,0,53
+18,20,RL,80.0,10800,Pave,0,NAmes,1992,HdBoard,HdBoard,BrkFace,104.0,CBlock,3.0,1773,0,0,1773,1,0,2,6,6,Attchd,3.0,Y,355,WD ,9,36,7878.0,GasAGasAGasA,3,6.0,5016.0,242,45
+19,70,RM,121.0,17671,Pave,Grvl,OldTown,1986,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,916,826,0,1742,0,0,1,8,8,Attchd,3.0,P,0,WD ,16,72,5712.0,GasAGasAGasAGasA,4,4.0,2544.0,169,127
+20,20,RL,0.0,8246,Pave,0,Sawyer,2001,Plywood,Plywood,None,0.0,CBlock,3.0,1060,0,0,1060,1,0,1,6,8,Attchd,3.0,Y,406,WD ,12,40,11488.0,GasAGasAGasAGasAGasA,4,3.0,810.0,90,42
+21,20,RL,0.0,8499,Pave,0,Sawyer,1961,MetalSd,MetalSd,None,0.0,CBlock,3.0,864,0,0,864,1,0,1,5,8,Detchd,3.0,Y,0,WD ,9,30,7164.0,GasAGasAGasAGasAGasA,3,0.0,4392.0,312,48
+22,120,RL,50.0,8012,Pave,0,SawyerW,1994,Plywood,Plywood,None,0.0,PConc,3.0,1617,0,0,1617,1,0,2,5,8,Attchd,3.0,Y,0,WD ,12,30,14184.0,GasAGasAGasAGasAGasA,4,2.0,6396.0,69,15
+23,80,RL,0.0,21453,Pave,0,ClearCr,1969,Plywood,Plywood,None,0.0,CBlock,3.0,988,0,0,988,1,0,1,4,8,Attchd,3.0,Y,0,WD ,9,30,15946.0,GasAGasAGasAGasAGasA,3,6.0,3240.0,260,37
+24,20,RL,80.0,9605,Pave,0,SawyerW,2007,VinylSd,VinylSd,None,0.0,PConc,3.0,1218,0,0,1218,0,0,1,6,8,Detchd,3.0,Y,0,WD ,12,42,9744.0,GasAGasAGasAGasAGasA,4,0.0,6912.0,178,2
+25,20,RL,60.0,7180,Pave,0,CollgCr,1972,HdBoard,HdBoard,None,0.0,CBlock,3.0,864,0,0,864,0,0,1,5,8,Detchd,3.0,Y,0,WD ,9,35,13992.0,GasAGasAGasA,3,0.0,1056.0,0,36
+26,50,RL,0.0,12513,Pave,0,NAmes,2007,VinylSd,VinylSd,None,0.0,BrkTil,2.0,1281,457,0,1738,0,0,2,7,8,Attchd,3.0,Y,55,WD ,12,16,4290.0,GasAGasAGasAGasA,3,4.0,1104.0,0,89
+27,70,RM,50.0,9000,Pave,Grvl,OldTown,1991,VinylSd,VinylSd,None,0.0,BrkTil,2.0,1089,661,0,1750,0,0,1,8,8,Detchd,1.0,N,0,WD ,9,30,2544.0,GasAGasAGasA,5,0.0,480.0,0,126
+28,85,RL,80.0,8800,Pave,0,NAmes,1963,MetalSd,MetalSd,BrkFace,156.0,PConc,3.0,1054,0,0,1054,1,0,1,6,8,Attchd,3.0,Y,120,WD ,12,42,17886.0,GasAGasAGasAGasAGasA,4,0.0,5760.0,0,47
+29,50,RL,51.0,3500,Pave,0,BrkSide,1950,MetalSd,MetalSd,None,0.0,CBlock,3.0,442,228,0,670,1,0,1,4,8,0,0.0,N,0,WD ,9,15,2076.0,GasAGasAGasA,2,0.0,0.0,21,62
+30,20,RL,0.0,7340,Pave,0,NAmes,1971,HdBoard,HdBoard,None,0.0,CBlock,3.0,858,0,0,858,0,0,1,4,8,Detchd,3.0,Y,0,WD ,9,24,5792.0,GasAGasAGasA,3,0.0,2052.0,0,36
+31,30,RM,52.0,6240,Pave,Grvl,IDOTRR,1950,MetalSd,MetalSd,None,0.0,CBlock,3.0,848,0,360,1208,0,0,1,5,8,Detchd,3.0,Y,0,WD ,9,20,4832.0,GasAGasAGasA,3,0.0,3234.0,23,84
+32,70,RM,65.0,11700,Pave,Pave,OldTown,2003,Stucco,Stucco,None,0.0,Stone,2.0,1320,1320,0,2640,0,0,1,8,8,Detchd,3.0,N,181,WD ,12,49,7440.0,GasWGasWGasW,4,4.0,10368.0,0,129
+33,20,RL,80.0,10000,Pave,0,NWAmes,2000,HdBoard,HdBoard,None,0.0,CBlock,3.0,1178,0,0,1178,0,1,1,5,8,Attchd,3.0,Y,224,WD ,9,30,9408.0,GasAGasAGasAGasA,4,2.0,2634.0,0,35
+34,20,RL,75.0,11166,Pave,0,CollgCr,2001,VinylSd,VinylSd,BrkFace,180.0,PConc,3.0,1492,0,0,1492,0,0,2,6,8,Attchd,3.0,Y,0,WD ,12,35,23824.0,GasAGasAGasAGasAGasA,4,3.0,7296.0,282,8
+35,60,RL,58.0,13204,Pave,0,Gilbert,2007,VinylSd,VinylSd,Stone,44.0,PConc,3.0,608,850,0,1458,0,0,2,6,8,BuiltIn,3.0,Y,100,New,9,35,4864.0,GasAGasAGasAGasAGasA,4,0.0,8172.0,33,1
+36,50,RM,60.0,5520,Pave,0,OldTown,1980,Wd Sdng,Wd Sdng,None,0.0,PConc,2.0,1147,510,0,1657,0,0,1,9,8,Detchd,2.0,N,0,WD ,9,24,6598.0,GasAGasAGasA,2,3.0,324.0,0,86
+37,20,RL,0.0,9000,Pave,0,Sawyer,1950,Wd Sdng,Wd Sdng,None,0.0,Slab,0.0,998,0,0,998,0,0,1,5,6,2Types,3.0,Y,0,WD ,6,28,0.0,GasAGasAGasA,3,0.0,1840.0,0,62
+38,20,RL,74.0,8892,Pave,0,NAmes,1996,WdShing,Wd Shng,None,0.0,Stone,3.0,910,0,0,910,0,0,1,5,8,Attchd,3.0,Y,196,WD ,12,35,1890.0,GasAGasAGasAGasA,4,0.0,2484.0,0,55
+39,20,FV,73.0,7321,Pave,Pave,Somerst,2000,CemntBd,CmentBd,None,0.0,PConc,3.0,1358,0,0,1358,0,0,2,5,8,Detchd,3.0,Y,176,COD,12,35,10712.0,GasAGasAGasAGasAGasA,4,0.0,3750.0,174,8
+40,160,FV,40.0,3951,Pave,Pave,Somerst,2009,VinylSd,VinylSd,Stone,76.0,PConc,3.0,612,612,0,1224,0,0,2,4,8,Detchd,3.0,Y,0,New,12,30,14688.0,GasAGasAGasAGasAGasA,4,0.0,6336.0,234,0
+41,60,RL,0.0,11214,Pave,0,Gilbert,1999,VinylSd,VinylSd,None,0.0,PConc,3.0,956,930,0,1886,0,0,2,10,8,Attchd,3.0,Y,89,WD ,12,35,7440.0,GasAGasAGasAGasA,4,3.0,7758.0,0,8
+42,20,RL,75.0,7388,Pave,0,NAmes,2002,MetalSd,MetalSd,None,0.0,CBlock,3.0,1327,0,0,1327,1,0,1,7,8,Detchd,3.0,Y,0,WD ,9,30,6378.0,GasAGasAGasAGasA,4,0.0,3744.0,0,48
+43,20,RL,75.0,14559,Pave,0,NAmes,2000,Wd Sdng,Wd Sdng,BrkCmn,70.0,CBlock,3.0,1363,0,0,1363,1,0,1,6,7,CarPort,3.0,Y,324,WD ,12,35,6698.0,GasAGasAGasAGasAGasA,3,6.0,864.0,210,58
+44,120,RL,46.0,4054,Pave,0,Timber,1987,VinylSd,VinylSd,BrkFace,352.0,BrkTil,3.0,1501,0,0,1501,1,0,2,5,8,Attchd,3.0,Y,240,WD ,12,42,30330.0,GasAGasAGasAGasAGasA,4,6.0,9216.0,0,20
+45,160,RM,21.0,1533,Pave,0,MeadowV,2008,CemntBd,CmentBd,None,0.0,CBlock,3.0,798,546,0,1344,0,0,1,6,8,0,0.0,Y,0,WD ,9,24,3276.0,GasAGasAGasA,3,3.0,0.0,0,39
+46,60,RL,68.0,11250,Pave,0,CollgCr,2002,VinylSd,VinylSd,BrkFace,162.0,PConc,3.0,920,866,0,1786,1,0,2,6,8,Attchd,3.0,Y,0,WD ,12,35,13748.0,GasAGasAGasAGasAGasA,4,3.0,7296.0,42,7
+47,20,RH,60.0,7800,Pave,0,SawyerW,1965,VinylSd,VinylSd,None,0.0,CBlock,3.0,965,0,0,965,1,0,1,6,8,Detchd,3.0,Y,421,WD ,9,25,5609.0,GasAGasAGasAGasA,3,0.0,900.0,0,41
+48,20,RL,74.0,5868,Pave,0,NAmes,2000,MetalSd,MetalSd,None,0.0,CBlock,3.0,936,0,0,936,1,0,1,4,8,Attchd,3.0,Y,0,WD ,9,35,5864.0,GasAGasAGasAGasAGasA,3,0.0,2772.0,160,54
+49,20,RL,75.0,7500,Pave,0,Sawyer,1963,HdBoard,HdBoard,None,0.0,CBlock,3.0,1040,0,0,1040,1,0,1,5,8,Attchd,3.0,Y,0,WD ,9,25,7888.0,GasAGasA,3,0.0,2772.0,0,47
+50,50,RM,52.0,9439,Pave,0,OldTown,1950,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,912,336,0,1248,0,0,1,6,8,Detchd,2.0,Y,0,WD ,9,25,5148.0,GasAGasAGasAGasA,3,0.0,320.0,0,77
+51,70,RM,50.0,9000,Pave,Grvl,OldTown,2002,Wd Sdng,Wd Sdng,None,0.0,Stone,2.0,1157,1111,0,2268,0,0,3,7,8,Detchd,3.0,N,0,WD ,16,72,1384.0,GasAGasAGasAGasAGasA,4,0.0,3744.0,108,120
+52,20,RL,65.0,9345,Pave,0,CollgCr,2007,VinylSd,VinylSd,Stone,156.0,PConc,3.0,1615,0,0,1615,0,0,2,7,8,Attchd,3.0,Y,168,WD ,12,40,38760.0,GasAGasAGasAGasAGasA,4,4.0,15552.0,30,1
+53,50,RM,60.0,7200,Pave,0,IDOTRR,1995,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,803,557,0,1360,0,0,1,6,8,Detchd,3.0,Y,0,WD ,9,30,4818.0,GasAGasAGasAGasAGasA,4,0.0,891.0,65,68
+54,50,RM,60.0,6000,Pave,0,BrkSide,1950,Stucco,Stucco,BrkFace,444.0,BrkTil,3.0,822,320,0,1142,0,0,1,6,8,Attchd,3.0,Y,0,WD ,9,25,2808.0,GasAGasAGasAGasA,3,0.0,2880.0,0,85
+55,20,RL,61.0,7930,Pave,0,NAmes,2005,Plywood,Plywood,None,0.0,CBlock,3.0,1026,0,0,1026,1,0,1,5,8,Detchd,3.0,Y,171,WD ,9,48,7001.0,GasAGasAGasAGasA,4,0.0,5280.0,48,40
+56,50,RL,60.0,9120,Pave,Pave,BrkSide,1950,Wd Sdng,Wd Sdng,None,0.0,PConc,3.0,1133,687,0,1820,1,0,2,8,8,Detchd,3.0,N,0,WD ,12,42,6156.0,GasAGasAGasAGasAGasA,3,0.0,720.0,100,83
+57,20,RL,0.0,9503,Pave,0,NAmes,1983,HdBoard,HdBoard,None,0.0,CBlock,3.0,1344,0,0,1344,1,0,1,6,7,Detchd,3.0,Y,316,WD ,9,25,7058.0,GasAGasAGasA,3,3.0,1452.0,28,49
+58,20,RL,85.0,11050,Pave,0,NWAmes,1975,Plywood,Plywood,None,0.0,CBlock,3.0,1193,0,0,1193,0,0,2,5,8,Attchd,3.0,Y,40,WD ,9,35,8328.0,GasAGasA,3,3.0,3036.0,0,34
+59,60,RL,0.0,10316,Pave,0,CollgCr,2000,VinylSd,VinylSd,None,0.0,PConc,3.0,992,873,0,1865,1,0,2,7,8,Attchd,3.0,Y,0,WD ,12,35,9406.0,GasAGasAGasAGasAGasA,4,3.0,15102.0,184,8
+60,20,RL,136.0,11675,Pave,0,NoRidge,1998,VinylSd,VinylSd,BrkFace,495.0,PConc,3.0,2006,0,0,2006,1,0,2,5,8,Attchd,3.0,Y,144,WD ,12,40,37608.0,GasAGasAGasAGasAGasA,4,3.0,25326.0,33,10
+61,190,RL,60.0,12900,Pave,0,Sawyer,1950,BrkFace,Stucco,None,0.0,PConc,2.0,1140,0,0,1140,1,0,1,6,8,CarPort,3.0,Y,0,WD ,9,20,9100.0,GasAGasA,3,0.0,2400.0,0,88
+62,20,RL,85.0,13770,Pave,0,Sawyer,1998,Plywood,Plywood,BrkFace,340.0,CBlock,3.0,1176,0,0,1176,1,0,1,6,8,Attchd,3.0,Y,0,VWD,9,30,11580.0,GasAGasAGasA,3,8.0,909.0,0,49
+63,60,RL,0.0,13355,Pave,0,NWAmes,1971,HdBoard,HdBoard,None,0.0,CBlock,4.0,845,825,0,1670,0,0,1,7,8,Attchd,3.0,Y,0,WD ,9,42,7183.0,GasAGasAGasA,3,0.0,8352.0,0,37
+64,60,RL,65.0,7153,Pave,0,SawyerW,1992,VinylSd,VinylSd,None,0.0,PConc,3.0,810,793,0,1603,0,0,2,7,8,Attchd,3.0,Y,0,WD ,16,30,6475.0,GasAGasAGasAGasAGasA,4,0.0,5808.0,124,14
+65,20,RL,0.0,10750,Pave,0,NoRidge,1995,Wd Sdng,Wd Sdng,BrkFace,634.0,PConc,3.0,2063,0,0,2063,1,0,2,7,8,Attchd,3.0,Y,182,WD ,12,40,37532.0,GasAGasAGasAGasAGasA,4,8.0,22005.0,56,15
+66,20,RL,0.0,8125,Pave,0,NAmes,1971,HdBoard,HdBoard,None,0.0,CBlock,3.0,858,0,0,858,0,0,1,5,8,0,0.0,Y,0,WD ,9,16,5762.0,GasAGasAGasA,3,0.0,0.0,0,35
+67,120,RL,34.0,3903,Pave,0,NridgHt,2006,VinylSd,VinylSd,Stone,182.0,PConc,3.0,1302,0,0,1302,1,0,1,5,8,Attchd,3.0,Y,110,WD ,12,30,24038.0,GasAGasAGasAGasAGasA,4,4.0,7572.0,50,2
+68,30,RH,70.0,4270,Pave,0,Edwards,2006,MetalSd,MetalSd,None,0.0,BrkTil,3.0,774,0,0,774,0,0,1,6,8,0,0.0,Y,0,WD ,9,18,3264.0,GasAGasAGasAGasAGasA,4,0.0,0.0,0,76
+69,120,RM,0.0,4426,Pave,0,CollgCr,2004,VinylSd,VinylSd,BrkFace,147.0,PConc,3.0,848,0,0,848,1,0,1,3,8,Attchd,3.0,Y,149,WD ,12,30,20166.0,GasAGasAGasAGasAGasA,4,3.0,5040.0,0,4
+70,30,RL,52.0,5825,Pave,0,BrkSide,1953,MetalSd,MetalSd,BrkFace,108.0,PConc,3.0,747,0,0,747,0,0,1,5,8,Detchd,3.0,Y,0,WD ,12,20,4800.0,GasAGasAGasAGasA,3,0.0,3168.0,0,80
+71,60,RL,59.0,23303,Pave,0,NridgHt,2007,VinylSd,VinylSd,Stone,20.0,PConc,3.0,1508,1012,0,2520,1,0,2,10,8,BuiltIn,3.0,Y,192,WD ,12,40,34170.0,GasAGasAGasAGasAGasA,5,4.0,17280.0,273,2
+72,20,RL,0.0,25485,Pave,0,Crawfor,1960,Wd Sdng,MetalSd,BrkFace,423.0,CBlock,4.0,1560,0,0,1560,0,0,1,6,8,Attchd,3.0,Y,0,WD ,6,24,13500.0,GasAGasAGasA,3,9.0,6960.0,75,47
+73,80,RL,0.0,10784,Pave,0,Gilbert,1992,HdBoard,HdBoard,BrkFace,76.0,PConc,3.0,802,670,0,1472,0,0,2,7,8,Attchd,3.0,Y,164,WD ,12,35,3072.0,GasAGasAGasAGasA,4,3.0,4824.0,0,16
+74,20,RL,0.0,8510,Pave,0,NAmes,1971,Plywood,Plywood,BrkFace,178.0,CBlock,3.0,1050,0,0,1050,1,0,1,6,8,Attchd,3.0,Y,0,WD ,9,35,8844.0,GasAGasAGasAGasAGasA,3,0.0,1008.0,0,38
+75,80,RL,0.0,17871,Pave,0,NWAmes,1976,HdBoard,HdBoard,BrkFace,359.0,CBlock,3.0,1724,0,0,1724,1,0,1,7,8,Attchd,3.0,Y,0,WD ,9,30,36624.0,GasAGasA,3,4.0,5760.0,0,42
+76,20,RL,100.0,21750,Pave,0,Mitchel,2006,HdBoard,HdBoard,BrkFace,75.0,Slab,0.0,1771,0,0,1771,0,0,1,9,7,Attchd,3.0,Y,0,WD ,6,20,0.0,GasAGasAGasA,3,3.0,2016.0,0,49
+77,20,RL,77.0,9510,Pave,0,NAmes,1985,HdBoard,HdBoard,BrkCmn,161.0,CBlock,3.0,1207,0,0,1207,0,0,1,6,8,Attchd,3.0,Y,0,WD ,9,30,8212.0,GasAGasAGasAGasAGasA,3,0.0,1584.0,240,44
+78,20,RL,0.0,8339,Pave,0,NAmes,1959,MetalSd,MetalSd,None,0.0,Slab,0.0,882,0,0,882,0,0,1,5,8,Attchd,3.0,Y,0,WD ,9,35,0.0,GasAGasAGasA,3,0.0,1764.0,0,48
+79,20,RL,131.0,14828,Pave,0,NridgHt,2005,MetalSd,MetalSd,BrkFace,674.0,PConc,3.0,1780,0,0,1780,1,0,2,7,8,Attchd,3.0,Y,144,WD ,15,45,51838.0,GasAGasAGasAGasAGasA,5,4.0,22032.0,68,2
+80,20,RL,70.0,8749,Pave,0,CollgCr,2002,VinylSd,VinylSd,BrkFace,100.0,PConc,3.0,1459,0,0,1459,0,0,2,6,8,Attchd,3.0,Y,192,WD ,12,35,11672.0,GasAGasAGasAGasAGasA,4,4.0,6324.0,39,5
+81,50,RM,50.0,9140,Pave,0,IDOTRR,1975,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,727,380,0,1107,0,0,1,5,8,Detchd,3.0,Y,0,COD,9,30,6932.0,GasAGasA,3,0.0,1875.0,256,89
+82,70,RM,60.0,3600,Pave,Grvl,OldTown,2005,VinylSd,VinylSd,None,0.0,BrkTil,2.0,687,671,0,1358,0,0,1,6,8,Detchd,3.0,Y,0,WD ,12,35,4122.0,GasAGasAGasAGasA,4,4.0,1008.0,32,77
+83,70,RL,67.0,8777,Pave,0,Edwards,2000,Plywood,Plywood,None,0.0,CBlock,3.0,760,676,0,1436,1,0,2,6,7,Attchd,3.0,Y,147,WD ,12,24,5235.0,GasAGasAGasAGasA,3,0.0,3168.0,0,96
+84,60,RL,79.0,12798,Pave,0,ClearCr,1997,VinylSd,VinylSd,None,0.0,PConc,3.0,616,1072,0,1688,1,0,2,8,8,Attchd,3.0,Y,403,WD ,9,30,15092.0,GasAGasAGasAGasA,4,0.0,7236.0,114,11
+85,20,RL,98.0,12704,Pave,0,NridgHt,2009,VinylSd,VinylSd,BrkFace,306.0,PConc,3.0,2042,0,0,2042,0,0,2,8,8,Attchd,3.0,Y,0,New,15,40,20420.0,GasAGasAGasAGasAGasA,5,4.0,25020.0,90,1
+86,20,RL,68.0,7480,Pave,0,CollgCr,1972,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,876,0,0,876,1,0,1,5,8,Detchd,3.0,Y,0,WD ,9,30,13848.0,GasAGasAGasA,3,0.0,2904.0,0,38
+87,85,RL,0.0,16500,Pave,0,NWAmes,1971,HdBoard,HdBoard,BrkFace,509.0,CBlock,3.0,1320,0,0,1320,0,1,2,5,8,Attchd,3.0,Y,0,WD ,9,30,23796.0,GasAGasA,3,4.0,5940.0,20,38
+88,20,RL,0.0,16669,Pave,0,Timber,1981,Plywood,Plywood,BrkFace,653.0,CBlock,3.0,1707,0,0,1707,0,0,2,6,8,Attchd,3.0,Y,574,WD ,12,48,13488.0,GasAGasAGasA,3,3.0,6132.0,64,25
+89,50,RL,60.0,8064,Pave,0,NAmes,1994,MetalSd,MetalSd,None,0.0,CBlock,3.0,1064,0,431,1495,0,0,1,6,8,Detchd,3.0,Y,180,COD,9,42,5064.0,GasAGasAGasA,3,0.0,3456.0,36,61
+90,20,RL,0.0,7758,Pave,0,Sawyer,2001,HdBoard,Plywood,None,0.0,CBlock,3.0,999,0,0,999,1,0,1,6,8,Detchd,3.0,Y,0,WD ,12,35,7170.0,GasAGasAGasAGasA,4,0.0,792.0,132,45
+91,50,RL,70.0,11767,Pave,0,Edwards,2000,MetalSd,HdBoard,None,0.0,CBlock,3.0,796,550,0,1346,0,0,1,6,6,Detchd,3.0,Y,168,WD ,9,28,2240.0,GasAGasAGasAGasA,3,0.0,768.0,24,97
+92,45,RM,50.0,6900,Pave,0,OldTown,2000,MetalSd,MetalSd,None,0.0,PConc,3.0,827,424,0,1251,0,0,1,6,8,Detchd,3.0,N,0,WD ,9,42,6616.0,GasAGasAGasAGasA,2,0.0,480.0,0,72
+93,120,RL,40.0,4671,Pave,0,StoneBr,1989,HdBoard,HdBoard,None,0.0,PConc,3.0,1228,0,0,1228,1,0,2,5,8,Attchd,3.0,Y,168,WD ,12,40,18114.0,GasAGasAGasAGasA,4,4.0,8496.0,120,20
+94,50,RM,50.0,6125,Pave,0,BrkSide,1998,MetalSd,MetalSd,None,0.0,CBlock,3.0,728,546,0,1274,0,0,2,6,8,Detchd,3.0,Y,0,CWD,12,35,4368.0,GasAGasAGasAGasAGasA,3,0.0,448.0,0,68
+95,70,RM,53.0,9863,Pave,Pave,OldTown,1950,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,914,728,0,1642,0,1,1,9,8,Detchd,3.0,Y,0,WD ,9,36,4172.0,GasAGasAGasA,3,4.0,1122.0,0,80
+96,20,RL,68.0,9571,Pave,0,Edwards,1956,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,1509,0,0,1509,1,0,1,6,8,Attchd,3.0,Y,158,WD ,9,30,21942.0,GasAGasAGasA,4,3.0,966.0,576,52
+97,120,RL,34.0,4590,Pave,0,NridgHt,2006,VinylSd,VinylSd,Stone,108.0,PConc,4.0,1554,0,0,1554,0,0,2,6,8,Attchd,3.0,Y,156,CWD,12,40,24816.0,GasAGasAGasAGasAGasA,4,4.0,7524.0,73,1
+98,60,RL,65.0,8450,Pave,0,SawyerW,2001,VinylSd,VinylSd,None,0.0,PConc,3.0,827,850,0,1677,1,0,2,7,8,Attchd,3.0,Y,0,WD ,12,30,7560.0,GasAGasAGasAGasAGasA,4,0.0,7524.0,68,7
+99,60,RL,70.0,8400,Pave,0,NWAmes,2001,VinylSd,VinylSd,None,0.0,PConc,3.0,810,855,0,1665,1,0,2,6,8,Attchd,3.0,Y,0,WD ,12,48,7766.0,GasAGasAGasAGasAGasA,4,0.0,9504.0,45,8
+100,20,RL,0.0,14694,Pave,0,Veenker,2008,MetalSd,MetalSd,BrkFace,450.0,CBlock,4.0,1694,0,0,1694,1,0,2,5,8,Attchd,3.0,Y,501,WD ,25,72,40192.0,GasAGasAGasAGasAGasA,5,4.0,11556.0,345,32
+101,20,RL,95.0,14250,Pave,0,NAmes,1957,Plywood,Plywood,BrkFace,360.0,CBlock,3.0,1790,0,0,1790,0,0,2,6,8,Attchd,3.0,Y,0,WD ,9,30,5988.0,GasAGasAGasA,3,8.0,9720.0,40,51
+102,20,RL,37.0,6951,Pave,0,Mitchel,1985,HdBoard,Plywood,None,0.0,CBlock,3.0,923,0,0,923,1,0,1,5,8,Attchd,3.0,Y,362,WD ,9,25,6572.0,GasAGasAGasA,3,0.0,792.0,0,24
+103,20,RL,106.0,12720,Pave,0,NridgHt,2003,MetalSd,MetalSd,Stone,680.0,PConc,3.0,2470,0,0,2470,2,0,1,7,8,Attchd,3.0,Y,154,WD ,15,50,69802.0,GasAGasAGasAGasAGasA,5,8.0,21303.0,281,5
+104,20,RL,90.0,11988,Pave,0,NAmes,1957,VinylSd,VinylSd,None,0.0,CBlock,3.0,1244,0,0,1244,0,0,1,6,8,Attchd,3.0,Y,0,WD ,9,36,7464.0,GasAGasAGasAGasAGasA,3,8.0,1008.0,40,50
+105,30,RM,40.0,3880,Pave,0,OldTown,1997,VinylSd,VinylSd,None,0.0,CBlock,3.0,866,0,0,866,0,0,1,4,8,0,0.0,Y,58,WD ,12,45,4774.0,GasAGasAGasAGasA,4,0.0,0.0,42,62
+106,60,RL,0.0,7685,Pave,0,Gilbert,1994,HdBoard,HdBoard,BrkFace,112.0,PConc,3.0,697,804,0,1501,0,0,2,6,8,Attchd,3.0,Y,190,WD ,9,30,6094.0,GasAGasAGasAGasA,4,3.0,7560.0,63,13
+107,50,RL,0.0,18837,Pave,0,NWAmes,1978,MetalSd,MetalSd,None,0.0,PConc,3.0,1287,604,0,1891,0,1,3,7,8,Attchd,3.0,Y,0,WD ,9,30,17247.0,GasAGasAGasA,3,3.0,8136.0,69,32
+108,90,RL,120.0,11136,Pave,0,Sawyer,1964,BrkFace,BrkFace,None,0.0,CBlock,3.0,1921,0,0,1921,0,0,2,8,8,Detchd,3.0,Y,0,WD ,9,30,11526.0,GasAGasAGasA,6,0.0,3456.0,180,42
+109,90,RL,72.0,10773,Pave,0,Sawyer,1967,Plywood,Plywood,BrkFace,72.0,CBlock,3.0,1832,0,0,1832,2,0,2,8,8,0,0.0,Y,0,WD ,4,12,12400.0,GasAGasAGasA,6,0.0,0.0,58,43
+110,20,RL,85.0,10200,Pave,0,NAmes,1974,Plywood,Plywood,BrkFace,440.0,CBlock,3.0,1434,0,0,1434,1,0,2,7,8,Attchd,3.0,Y,80,WD ,9,30,7760.0,GasAGasAGasA,3,4.0,6336.0,21,35
+111,60,FV,0.0,7500,Pave,0,Somerst,2001,VinylSd,VinylSd,None,0.0,PConc,3.0,1058,816,0,1874,0,0,2,7,8,Attchd,3.0,Y,0,WD ,12,40,8464.0,GasAGasAGasAGasAGasA,4,3.0,10584.0,134,9
+112,80,RM,76.0,11800,Pave,0,OldTown,2002,Stucco,Wd Sdng,None,0.0,Slab,0.0,1382,0,0,1382,0,0,2,6,5,Attchd,3.0,Y,0,WD ,9,28,0.0,GasAGasAGasAGasAGasA,3,3.0,2304.0,40,58
+113,20,RL,90.0,17217,Pave,0,Mitchel,2006,VinylSd,VinylSd,None,0.0,PConc,3.0,1140,0,0,1140,0,0,1,6,8,0,0.0,Y,36,WD ,9,25,9120.0,GasAGasAGasAGasAGasA,3,0.0,0.0,56,0
+114,20,RL,0.0,16196,Pave,0,SawyerW,1998,VinylSd,VinylSd,None,0.0,PConc,3.0,1494,0,0,1494,1,0,2,5,8,Attchd,3.0,Y,402,WD ,12,35,32994.0,GasAGasAGasAGasAGasA,4,2.0,6168.0,25,9
+115,60,RL,118.0,35760,Pave,0,NoRidge,1996,HdBoard,HdBoard,BrkFace,1378.0,PConc,3.0,1831,1796,0,3627,1,0,3,10,8,Attchd,3.0,Y,361,WD ,16,50,57782.0,GasAGasAGasAGasAGasA,4,3.0,21789.0,76,11
+116,190,RM,76.0,7630,Pave,0,OldTown,1996,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,1032,780,0,1812,0,0,2,8,8,Detchd,3.0,N,344,WD ,12,45,2880.0,GasAGasAGasAGasA,8,1.0,4032.0,0,110
+117,160,RM,24.0,2016,Pave,0,BrDale,1970,HdBoard,HdBoard,BrkFace,304.0,CBlock,3.0,630,672,0,1302,0,0,2,6,8,Detchd,3.0,Y,0,WD ,9,25,3780.0,GasAGasAGasA,3,0.0,2640.0,0,37
+118,20,RL,65.0,10816,Pave,0,CollgCr,2008,VinylSd,VinylSd,Stone,364.0,PConc,3.0,1720,0,0,1720,1,0,2,8,8,Attchd,3.0,Y,208,WD ,15,45,53344.0,GasAGasAGasAGasAGasA,5,4.0,15228.0,104,1
+119,60,RL,78.0,9978,Pave,0,Gilbert,1998,VinylSd,VinylSd,BrkFace,20.0,PConc,3.0,926,678,0,1604,0,0,2,7,8,Attchd,3.0,Y,360,WD ,9,36,7362.0,GasAGasAGasAGasAGasA,4,4.0,8460.0,36,12
+120,20,RL,98.0,12291,Pave,0,Somerst,2007,CemntBd,CmentBd,BrkFace,754.0,PConc,3.0,1966,0,0,1966,1,0,2,6,8,Attchd,3.0,Y,76,New,15,50,44832.0,GasAGasAGasAGasAGasA,5,4.0,29484.0,52,0
+121,60,RL,86.0,11065,Pave,0,NridgHt,2006,VinylSd,VinylSd,Stone,788.0,PConc,3.0,1120,850,0,1970,0,0,2,8,8,BuiltIn,3.0,Y,177,New,12,40,17360.0,GasAGasAGasAGasAGasA,5,4.0,20331.0,74,0
+122,120,RL,60.0,8147,Pave,0,StoneBr,2005,MetalSd,MetalSd,BrkFace,230.0,PConc,3.0,1714,0,0,1714,1,0,2,7,8,Attchd,3.0,Y,156,WD ,12,45,51886.0,GasAGasAGasAGasAGasA,4,4.0,9306.0,55,1
+123,60,RL,0.0,13869,Pave,0,Gilbert,1997,VinylSd,VinylSd,None,0.0,PConc,3.0,794,676,0,1470,0,1,2,6,8,Attchd,3.0,Y,0,WD ,9,36,17964.0,GasAGasAGasAGasA,3,0.0,6984.0,75,10
+124,75,RL,60.0,6204,Pave,0,SWISU,1950,Wd Sdng,Wd Sdng,None,0.0,PConc,2.0,954,795,481,2230,1,0,1,10,8,Detchd,4.0,Y,0,WD ,12,20,4770.0,GasAGasAGasA,3,0.0,1320.0,188,94
+125,60,RL,102.0,12151,Pave,0,NridgHt,2005,CemntBd,CmentBd,BrkFace,368.0,PConc,3.0,1414,917,0,2331,1,0,2,9,8,BuiltIn,3.0,Y,192,WD ,12,45,31179.0,GasAGasAGasAGasAGasA,5,4.0,27081.0,63,3
+126,20,RL,120.0,9560,Pave,0,CollgCr,1972,MetalSd,MetalSd,None,0.0,CBlock,3.0,864,0,0,864,0,0,1,5,8,Attchd,3.0,Y,0,WD ,12,35,9288.0,GasAGasAGasAGasAGasA,3,0.0,1728.0,0,34
+127,20,RL,66.0,8923,Pave,0,NAmes,2006,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,1008,0,0,1008,1,0,1,6,8,Attchd,3.0,Y,0,WD ,9,35,6691.0,GasAGasAGasAGasA,4,0.0,720.0,18,54
+128,50,RM,60.0,5520,Pave,0,BrkSide,1997,AsbShng,AsbShng,None,0.0,BrkTil,3.0,565,651,0,1216,1,0,1,6,8,BuiltIn,3.0,Y,0,WD ,12,35,3526.0,GasAGasAGasA,3,4.0,1420.0,0,88
+129,20,FV,112.0,12606,Pave,0,Somerst,2008,VinylSd,VinylSd,Stone,120.0,PConc,3.0,1530,0,0,1530,0,0,2,7,8,Attchd,3.0,Y,212,WD ,12,45,36720.0,GasAGasAGasAGasAGasA,4,4.0,17712.0,136,2
+130,80,RL,59.0,8660,Pave,0,CollgCr,1976,VinylSd,VinylSd,BrkFace,113.0,CBlock,3.0,1025,0,0,1025,0,0,2,6,8,Detchd,3.0,Y,127,WD ,12,25,21348.0,GasAGasAGasA,3,2.0,2220.0,0,31
+131,60,RL,59.0,9042,Pave,0,Gilbert,1998,VinylSd,VinylSd,None,0.0,PConc,3.0,943,695,0,1638,1,0,2,7,8,Attchd,3.0,Y,100,WD ,9,30,21896.0,GasAGasAGasAGasA,3,6.0,8496.0,38,10
+132,60,RL,86.0,11227,Pave,0,Sawyer,1968,HdBoard,HdBoard,None,0.0,CBlock,4.0,720,720,0,1440,0,0,1,7,8,Attchd,3.0,Y,192,WD ,12,25,5226.0,GasAGasAGasAGasAGasA,3,6.0,2880.0,38,42
+133,85,RL,75.0,11380,Pave,0,NAmes,2008,HdBoard,HdBoard,BrkFace,216.0,CBlock,3.0,1128,0,0,1128,1,0,1,5,8,Attchd,3.0,Y,238,WD ,9,48,20256.0,GasAGasAGasAGasA,4,4.0,945.0,0,44
+134,160,FV,24.0,2280,Pave,Pave,Somerst,1999,MetalSd,MetalSd,Stone,216.0,PConc,3.0,757,792,0,1549,1,0,2,6,8,Detchd,3.0,Y,0,WD ,9,30,7052.0,GasAGasAGasAGasA,3,0.0,2640.0,32,9
+135,50,RL,78.0,10452,Pave,0,Crawfor,1985,Wd Sdng,Wd Sdng,BrkFace,371.0,BrkTil,3.0,1225,908,0,2133,1,0,1,8,8,Attchd,3.0,Y,0,WD ,16,42,12650.0,GasAGasAGasAGasAGasA,3,6.0,936.0,0,69
+136,20,RL,75.0,9910,Pave,0,Somerst,2007,VinylSd,VinylSd,None,0.0,PConc,3.0,1369,0,0,1369,0,0,2,5,8,Attchd,3.0,Y,0,New,12,42,10952.0,GasAGasAGasAGasAGasA,4,0.0,3630.0,203,0
+137,20,RL,63.0,13072,Pave,0,SawyerW,2005,VinylSd,VinylSd,None,0.0,PConc,3.0,1114,0,0,1114,0,0,1,6,8,Detchd,3.0,Y,248,WD ,12,35,8912.0,GasAGasAGasAGasAGasA,4,0.0,3456.0,102,5
+138,120,RL,34.0,3901,Pave,0,NridgHt,2006,VinylSd,VinylSd,Stone,182.0,PConc,3.0,1302,0,0,1302,1,0,1,5,8,Attchd,3.0,Y,110,New,12,30,25186.0,GasAGasAGasAGasAGasA,4,4.0,7572.0,50,2
+139,20,RL,65.0,11625,Pave,0,Mitchel,1983,HdBoard,HdBoard,None,0.0,CBlock,3.0,816,0,0,816,1,0,1,4,8,Attchd,3.0,Y,330,WD ,9,35,7124.0,GasAGasAGasA,3,0.0,2376.0,0,24
+140,20,RL,78.0,9360,Pave,0,NWAmes,2006,Plywood,Plywood,None,0.0,CBlock,3.0,1381,0,0,1381,1,0,1,5,8,Attchd,3.0,Y,0,WD ,9,42,8930.0,GasAGasAGasA,4,3.0,8112.0,0,38
+141,20,RL,68.0,9717,Pave,0,NAmes,1996,MetalSd,MetalSd,None,0.0,CBlock,3.0,1078,0,0,1078,1,0,1,5,8,Attchd,3.0,Y,366,WD ,9,30,9849.0,GasAGasAGasAGasA,4,0.0,720.0,0,60
+142,50,RM,60.0,10320,Pave,Grvl,IDOTRR,1995,MetalSd,MetalSd,None,0.0,CBlock,3.0,756,713,0,1469,0,0,1,7,8,Detchd,3.0,Y,57,WD ,9,42,4536.0,GasAGasAGasAGasAGasA,3,0.0,648.0,0,102
+143,20,RL,0.0,31220,Pave,0,Gilbert,1952,BrkFace,BrkFace,None,0.0,CBlock,3.0,1474,0,0,1474,0,0,1,7,6,Attchd,3.0,Y,0,WD ,9,12,9792.0,GasAGasAGasA,3,8.0,2970.0,0,56
+144,50,RL,57.0,8050,Pave,0,Edwards,1993,MetalSd,MetalSd,None,0.0,Slab,0.0,929,208,0,1137,0,0,1,8,7,0,0.0,Y,0,WD ,12,40,0.0,GasAGasAGasAGasA,3,0.0,0.0,0,61
+145,90,RM,60.0,7596,Pave,Grvl,OldTown,1952,Wd Sdng,Wd Sdng,BrkFace,360.0,CBlock,3.0,960,1000,0,1960,0,0,2,10,8,Detchd,3.0,N,0,COD,9,25,5760.0,GasAGasAGasAGasA,6,0.0,2400.0,0,57
+146,70,RM,57.0,8094,Pave,Grvl,OldTown,1950,MetalSd,MetalSd,None,0.0,PConc,3.0,1048,720,0,1768,0,0,2,8,8,Detchd,2.0,Y,0,WD ,9,36,6288.0,GasAGasAGasAGasA,3,0.0,2304.0,0,94
+147,60,RL,0.0,10900,Pave,0,CollgCr,1977,HdBoard,HdBoard,BrkFace,153.0,CBlock,3.0,689,703,0,1392,0,0,1,6,8,Attchd,3.0,Y,0,WD ,9,42,6268.0,GasAGasAGasAGasAGasA,3,0.0,2691.0,36,33
+148,70,C (all),60.0,9000,Grvl,0,IDOTRR,1950,MetalSd,MetalSd,None,0.0,Stone,2.0,432,432,0,864,0,0,1,5,6,Detchd,2.0,N,0,WD ,9,24,4736.0,GasAGasAGasAGasAGasA,2,0.0,432.0,30,88
+149,20,RL,110.0,15417,Pave,0,Veenker,1981,BrkFace,BrkFace,None,0.0,CBlock,3.0,1740,0,0,1740,0,0,1,7,8,Attchd,3.0,Y,228,WD ,12,35,27114.0,GasAGasAGasA,4,0.0,6480.0,20,28
+150,60,RL,89.0,11645,Pave,0,CollgCr,2004,VinylSd,VinylSd,None,0.0,PConc,3.0,860,860,0,1720,0,0,2,7,8,Attchd,3.0,Y,0,WD ,12,35,6880.0,GasAGasAGasAGasAGasA,4,0.0,6780.0,70,2
+151,50,RL,70.0,10512,Pave,0,Edwards,1954,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,988,638,0,1626,0,0,1,6,8,Attchd,3.0,Y,366,WD ,9,36,6419.0,GasAGasAGasAGasAGasA,4,0.0,996.0,0,53
+152,50,RM,60.0,5586,Pave,0,OldTown,1998,MetalSd,MetalSd,None,0.0,BrkTil,3.0,1088,110,0,1198,0,0,1,7,8,0,0.0,N,0,ConLD,9,42,5406.0,GasAGasAGasAGasA,3,0.0,0.0,98,88
+153,85,RL,68.0,7838,Pave,0,NAmes,1967,HdBoard,HdBoard,None,0.0,CBlock,3.0,900,0,0,900,1,0,1,6,8,Attchd,3.0,Y,175,WD ,9,25,12476.0,GasAGasAGasA,3,1.0,1728.0,144,39
+154,30,RL,52.0,9022,Pave,0,OldTown,2006,VinylSd,VinylSd,None,0.0,BrkTil,3.0,792,0,0,792,0,0,1,5,8,Detchd,2.0,N,316,WD ,12,40,4608.0,GasAGasAGasAGasAGasA,4,0.0,480.0,0,85
+155,20,RL,0.0,7390,Pave,0,NAmes,1955,Wd Sdng,Wd Sdng,BrkFace,151.0,CBlock,3.0,1098,0,0,1098,1,0,1,6,8,Attchd,3.0,Y,0,WD ,9,35,8392.0,GasAGasAGasA,3,0.0,780.0,0,53
+156,160,RM,21.0,1900,Pave,0,MeadowV,1970,CemntBd,CmentBd,None,0.0,CBlock,3.0,546,546,0,1092,0,0,1,5,8,0,0.0,Y,0,WD ,9,16,3276.0,GasAGasAGasAGasAGasA,3,0.0,0.0,0,40
+157,20,RL,73.0,8760,Pave,0,NAmes,1999,VinylSd,VinylSd,None,0.0,CBlock,3.0,936,0,0,936,1,0,1,4,8,Attchd,3.0,Y,0,WD ,9,42,7362.0,GasAGasAGasA,4,0.0,1890.0,219,50
+158,60,RL,103.0,13125,Pave,0,SawyerW,1991,HdBoard,HdBoard,None,0.0,PConc,3.0,912,1215,0,2127,1,0,2,8,8,Attchd,3.0,Y,72,WD ,12,35,19256.0,GasAGasAGasAGasAGasA,4,3.0,14994.0,192,16
+159,60,RL,0.0,9240,Pave,0,CollgCr,2002,VinylSd,VinylSd,BrkFace,396.0,PConc,3.0,1055,1208,0,2263,0,0,2,7,8,BuiltIn,3.0,Y,0,WD ,12,40,8440.0,GasAGasAGasAGasAGasA,4,3.0,16290.0,234,7
+160,20,RL,75.0,13125,Pave,0,CollgCr,1998,VinylSd,VinylSd,BrkFace,215.0,PConc,3.0,1493,0,0,1493,1,0,2,7,8,Attchd,3.0,Y,140,WD ,9,30,37356.0,GasAGasAGasAGasAGasA,4,3.0,9144.0,39,11
+161,50,RL,70.0,11767,Pave,0,Edwards,1995,MetalSd,MetalSd,None,0.0,CBlock,3.0,768,432,0,1200,0,0,1,6,8,Detchd,3.0,Y,0,WD ,9,30,4960.0,GasAGasAGasAGasAGasA,3,0.0,720.0,0,62
+162,20,RL,80.0,9250,Pave,0,NAmes,2005,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,1056,0,0,1056,0,1,1,6,8,Attchd,3.0,Y,390,WD ,9,35,6348.0,GasAGasAGasA,3,0.0,780.0,0,53
+163,20,RL,105.0,13693,Pave,0,NridgHt,2007,VinylSd,VinylSd,Stone,472.0,PConc,3.0,2674,0,0,2674,2,0,2,8,8,Attchd,3.0,Y,360,WD ,15,50,73168.0,GasAGasAGasAGasAGasA,5,8.0,20574.0,50,2
+164,120,RL,48.0,6472,Pave,0,NridgHt,2008,VinylSd,VinylSd,BrkFace,500.0,PConc,3.0,1456,0,0,1456,0,0,2,6,8,Attchd,3.0,Y,192,WD ,15,45,14510.0,GasAGasAGasAGasAGasA,5,4.0,6468.0,42,1
+165,20,RL,78.0,10206,Pave,0,Somerst,2007,VinylSd,VinylSd,Stone,468.0,PConc,3.0,1563,0,0,1563,0,0,2,6,8,Attchd,3.0,Y,144,WD ,9,40,12570.0,GasAGasAGasAGasAGasA,4,4.0,13644.0,99,1
+166,20,RL,66.0,13695,Pave,0,SawyerW,2004,VinylSd,VinylSd,None,0.0,PConc,3.0,1114,0,0,1114,1,0,1,6,8,Detchd,3.0,Y,0,WD ,9,30,10540.0,GasAGasAGasAGasAGasA,4,0.0,3456.0,78,5
+167,120,RL,43.0,3203,Pave,0,Blmngtn,2006,VinylSd,VinylSd,BrkFace,14.0,PConc,3.0,1145,0,0,1145,0,0,2,6,8,Attchd,3.0,Y,100,WD ,12,35,27384.0,GasAGasAGasAGasAGasA,4,0.0,7866.0,116,4
+168,60,FV,75.0,9512,Pave,0,Somerst,2006,VinylSd,VinylSd,None,0.0,PConc,3.0,960,1358,0,2318,1,0,2,8,8,BuiltIn,3.0,Y,0,New,12,35,8468.0,GasAGasAGasAGasAGasA,4,5.0,9738.0,246,1
+169,20,RL,75.0,9750,Pave,0,CollgCr,2004,VinylSd,VinylSd,Stone,50.0,PConc,3.0,1445,0,0,1445,0,0,2,6,8,Attchd,3.0,Y,0,WD ,12,35,23072.0,GasAGasAGasAGasAGasA,4,0.0,2820.0,35,4
+170,60,RL,160.0,15623,Pave,0,NoRidge,1996,Wd Sdng,ImStucc,None,0.0,PConc,3.0,2411,2065,0,4476,1,0,3,10,8,Attchd,3.0,Y,171,WD ,12,50,53016.0,GasAGasAGasAGasAGasA,5,6.0,21951.0,78,11
+171,20,RL,60.0,8072,Pave,0,CollgCr,1995,VinylSd,VinylSd,None,0.0,PConc,4.0,990,0,0,990,1,0,1,5,8,Detchd,3.0,Y,0,WD ,12,25,8666.0,GasAGasAGasAGasAGasA,3,0.0,2880.0,64,15
+172,80,RL,78.0,11679,Pave,0,Edwards,1962,Plywood,Plywood,Stone,96.0,CBlock,3.0,1560,0,0,1560,0,1,2,6,6,Attchd,3.0,Y,453,WD ,9,25,27864.0,GasAGasAGasAGasAGasA,3,2.0,9504.0,253,44
+173,160,FV,24.0,2544,Pave,Pave,Somerst,2005,MetalSd,MetalSd,None,0.0,PConc,3.0,520,623,80,1223,0,0,2,4,8,Detchd,3.0,Y,0,WD ,12,35,4800.0,GasAGasAGasAGasAGasA,4,0.0,5760.0,166,1
+174,60,RL,0.0,10832,Pave,0,Gilbert,1996,MetalSd,MetalSd,None,0.0,PConc,3.0,1086,809,0,1895,0,0,2,7,8,Attchd,3.0,Y,143,WD ,12,35,5696.0,GasAGasAGasAGasAGasA,4,3.0,7362.0,46,14
+175,50,RL,77.0,9786,Pave,0,NAmes,1981,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,1085,649,0,1734,0,0,1,7,8,Attchd,3.0,Y,0,WD ,9,42,5472.0,GasAGasAGasA,4,4.0,5280.0,128,44
+176,30,RL,60.0,5400,Pave,0,OldTown,1950,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,691,0,0,691,0,0,1,4,8,Detchd,3.0,N,0,WD ,9,30,2764.0,GasAGasAGasAGasAGasA,5,0.0,432.0,20,87
+177,90,RL,75.0,8235,Pave,0,Sawyer,1977,Plywood,Plywood,BrkFace,99.0,CBlock,3.0,1949,0,0,1949,0,0,2,10,8,Attchd,3.0,Y,32,WD ,9,20,11694.0,GasAGasAGasA,6,0.0,7032.0,0,29
+178,160,RM,21.0,1894,Pave,0,MeadowV,1970,CemntBd,CmentBd,None,0.0,CBlock,3.0,546,546,0,1092,0,0,1,6,8,CarPort,3.0,Y,0,WD ,9,20,3276.0,GasAGasAGasA,3,0.0,858.0,24,36
+179,20,RL,70.0,7903,Pave,0,NAmes,1960,BrkFace,BrkFace,None,0.0,CBlock,3.0,1242,0,0,1242,1,0,1,6,8,Attchd,3.0,Y,0,WD ,9,25,7452.0,GasAGasAGasAGasA,3,0.0,1944.0,0,47
+180,50,RL,51.0,9839,Pave,0,SWISU,1950,VinylSd,VinylSd,None,0.0,PConc,2.0,894,772,0,1666,1,0,1,7,8,0,0.0,N,0,WD ,9,10,5364.0,GasAGasAGasAGasAGasA,3,4.0,0.0,156,79
+181,60,RL,0.0,9900,Pave,0,NWAmes,1968,MetalSd,MetalSd,BrkFace,342.0,CBlock,3.0,1098,880,0,1978,0,0,2,9,8,Attchd,3.0,Y,0,WD ,9,35,5544.0,GasAGasAGasAGasA,3,4.0,5832.0,43,40
+182,60,RL,0.0,17542,Pave,0,Veenker,2003,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,1516,651,0,2167,1,0,2,9,8,Attchd,3.0,Y,220,WD ,12,49,20141.0,GasAGasAGasA,4,8.0,6216.0,47,33
+183,60,RL,75.0,9073,Pave,0,Gilbert,2006,VinylSd,VinylSd,None,0.0,PConc,3.0,738,754,0,1492,0,0,2,8,8,Attchd,3.0,Y,100,New,12,35,5904.0,GasAGasAGasAGasAGasA,4,0.0,7920.0,32,0
+184,20,RL,78.0,10140,Pave,0,NWAmes,1974,HdBoard,HdBoard,BrkFace,174.0,CBlock,3.0,1350,0,0,1350,0,0,2,7,8,Attchd,3.0,Y,0,WD ,9,30,8512.0,GasAGasAGasA,3,3.0,5736.0,0,35
+185,50,RL,60.0,9060,Pave,0,Edwards,1950,WdShing,Wd Shng,None,0.0,BrkTil,3.0,698,560,0,1258,0,0,1,6,8,Detchd,3.0,P,0,WD ,9,30,6108.0,GasAGasAGasA,3,0.0,840.0,0,70
+186,60,RL,0.0,8965,Pave,0,Gilbert,2003,VinylSd,VinylSd,None,0.0,PConc,3.0,806,683,0,1489,1,0,2,8,8,Attchd,3.0,Y,0,WD ,12,35,7560.0,GasAGasAGasAGasAGasA,4,4.0,7200.0,75,6
+187,75,RL,0.0,7793,Pave,0,BrkSide,2005,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,1160,908,0,2068,0,0,1,8,8,Detchd,3.0,Y,0,WD ,9,49,8864.0,GasAGasAGasA,4,4.0,945.0,0,88
+188,20,RL,63.0,9750,Pave,0,Sawyer,1962,HdBoard,Plywood,None,0.0,CBlock,3.0,980,0,0,980,1,0,1,5,8,Detchd,3.0,Y,0,WD ,9,25,6696.0,GasAGasAGasAGasA,3,0.0,2400.0,28,47
+189,20,RL,74.0,10206,Pave,0,Edwards,1952,BrkComm,Brk Cmn,None,0.0,Slab,0.0,944,0,0,944,0,0,1,4,7,Detchd,2.0,Y,0,WD ,9,9,0.0,GasWGasW,2,0.0,3168.0,0,57
+190,60,RL,78.0,10140,Pave,0,NWAmes,1976,HdBoard,HdBoard,None,0.0,PConc,3.0,832,832,0,1664,0,0,2,8,8,Attchd,3.0,Y,0,WD ,9,35,7044.0,GasAGasAGasA,3,3.0,6336.0,287,30
+191,120,RM,31.0,2394,Pave,0,MeadowV,1973,CemntBd,CmentBd,None,0.0,CBlock,3.0,945,0,0,945,1,1,1,5,8,Attchd,3.0,Y,174,WD ,9,30,21090.0,GasAGasAGasAGasAGasA,3,1.0,1518.0,108,37
+192,30,RL,55.0,10267,Pave,0,BrkSide,2000,Stucco,Wd Shng,None,0.0,BrkTil,4.0,838,0,0,838,1,0,1,5,8,Detchd,3.0,N,0,WD ,12,42,8556.0,GasAGasAGasAGasAGasA,2,0.0,2475.0,0,90
+193,20,RL,60.0,6360,Pave,0,Sawyer,1963,Wd Sdng,HdBoard,None,0.0,CBlock,4.0,864,0,0,864,0,0,1,5,8,Attchd,3.0,Y,0,COD,9,25,7401.0,GasAGasAGasA,3,0.0,828.0,0,45
+194,60,RL,65.0,10237,Pave,0,Gilbert,2007,VinylSd,VinylSd,None,0.0,PConc,3.0,783,701,0,1484,0,0,2,8,8,Attchd,3.0,Y,0,New,12,30,6264.0,GasAGasAGasAGasAGasA,4,4.0,7074.0,72,2
+195,85,RL,0.0,7540,Pave,0,Mitchel,1978,VinylSd,VinylSd,None,0.0,CBlock,3.0,912,0,0,912,1,0,1,5,8,Attchd,3.0,Y,0,WD ,9,36,16674.0,GasAGasAGasAGasAGasA,3,3.0,5640.0,192,29
+196,60,RL,80.0,9428,Pave,0,Somerst,2008,VinylSd,VinylSd,Stone,310.0,PConc,3.0,955,919,0,1874,1,0,2,8,8,Attchd,3.0,Y,168,New,12,40,18546.0,GasAGasAGasAGasAGasA,4,4.0,23760.0,108,1
+197,50,RL,84.0,10164,Pave,0,SWISU,1950,VinylSd,VinylSd,None,0.0,CBlock,2.0,992,473,0,1465,0,0,2,6,8,Detchd,3.0,Y,0,WD ,9,25,13334.0,GasAGasA,3,6.0,720.0,126,67
+198,80,RL,85.0,13825,Pave,0,Sawyer,1987,MetalSd,MetalSd,None,0.0,CBlock,3.0,1021,580,0,1601,0,1,1,6,6,BuiltIn,3.0,Y,280,WD ,12,30,3198.0,GasAGasAGasA,3,0.0,1800.0,34,50
+199,80,RL,55.0,7700,Pave,0,NAmes,1956,VinylSd,VinylSd,None,0.0,CBlock,3.0,1145,0,0,1145,0,0,1,6,6,Detchd,3.0,Y,0,WD ,9,35,2408.0,GasAGasAGasAGasAGasA,3,0.0,4104.0,0,50
+200,60,RL,60.0,17433,Pave,0,NoRidge,1998,VinylSd,VinylSd,BrkFace,114.0,PConc,3.0,1645,830,0,2475,0,0,2,7,8,Attchd,3.0,Y,23,WD ,12,40,16290.0,GasAGasAGasAGasAGasA,4,3.0,25974.0,428,12
+201,75,RM,70.0,6300,Pave,0,OldTown,2005,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,1226,878,0,2104,0,0,2,9,8,Detchd,3.0,P,0,WD ,9,42,7356.0,GasAGasAGasAGasAGasA,3,0.0,1728.0,341,96
+202,80,RL,80.0,10366,Pave,0,Sawyer,1964,HdBoard,Plywood,None,0.0,CBlock,3.0,934,0,0,934,0,1,1,4,8,Attchd,3.0,Y,77,WD ,12,42,15048.0,GasAGasAGasA,3,0.0,1008.0,0,42
+203,60,RL,76.0,9291,Pave,0,SawyerW,1993,HdBoard,HdBoard,BrkFace,120.0,PConc,3.0,832,878,0,1710,0,0,2,7,8,Attchd,3.0,Y,144,WD ,12,30,7508.0,GasAGasAGasAGasAGasA,4,0.0,6072.0,70,15
+204,70,RM,0.0,5775,Pave,0,OldTown,2002,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,741,686,0,1427,0,0,1,7,8,Attchd,3.0,Y,0,WD ,9,42,2898.0,GasAGasAGasAGasAGasA,4,0.0,1137.0,24,94
+205,20,RL,60.0,7200,Pave,0,NAmes,1950,BrkFace,Wd Sdng,None,0.0,Slab,0.0,1040,0,0,1040,0,0,1,4,8,Detchd,3.0,Y,0,WD ,9,20,0.0,GasAGasAGasA,3,0.0,2520.0,29,56
+206,160,RL,24.0,2179,Pave,0,NPkVill,1976,Plywood,Brk Cmn,None,0.0,CBlock,3.0,855,601,0,1456,0,0,2,6,8,Attchd,3.0,Y,0,WD ,9,30,6910.0,GasAGasAGasAGasA,3,3.0,5520.0,28,30
+207,60,RL,50.0,9360,Pave,0,Edwards,2001,VinylSd,VinylSd,BrkCmn,216.0,CBlock,3.0,621,648,0,1269,0,0,1,7,8,Detchd,3.0,Y,0,WD ,12,48,3726.0,GasAGasAGasA,3,0.0,840.0,236,46
+208,120,RL,44.0,6442,Pave,0,NridgHt,2006,VinylSd,VinylSd,Stone,178.0,PConc,4.0,1370,0,0,1370,0,0,2,6,8,Attchd,3.0,Y,120,WD ,12,40,21872.0,GasAGasAGasAGasAGasA,4,4.0,5808.0,49,1
+209,60,RL,86.0,14598,Pave,0,Somerst,2007,VinylSd,VinylSd,Stone,74.0,PConc,3.0,894,1039,0,1933,0,0,2,9,8,BuiltIn,3.0,Y,100,WD ,12,30,14304.0,GasAGasAGasAGasAGasA,4,4.0,18036.0,18,1
+210,60,RL,0.0,8637,Pave,0,Gilbert,2000,VinylSd,VinylSd,None,0.0,PConc,3.0,947,767,0,1714,1,0,2,7,8,Attchd,3.0,Y,256,WD ,9,30,8255.0,GasAGasAGasAGasA,3,3.0,8118.0,48,8
+211,60,RL,76.0,9120,Pave,0,NWAmes,1974,HdBoard,HdBoard,BrkFace,270.0,CBlock,3.0,943,933,0,1876,0,0,2,8,8,Attchd,3.0,Y,0,WD ,12,36,6290.0,GasAGasAGasA,4,3.0,8640.0,69,34
+212,30,RL,67.0,5142,Pave,0,Edwards,2008,Wd Sdng,Wd Sdng,None,0.0,PConc,3.0,949,343,0,1292,0,0,1,6,8,Detchd,3.0,N,0,WD ,9,28,6142.0,GasAGasAGasA,4,0.0,615.0,0,85
+213,20,RL,150.0,215245,Pave,0,Timber,1965,BrkFace,BrkFace,None,0.0,CBlock,3.0,2036,0,0,2036,2,0,2,8,8,Attchd,3.0,Y,0,WD ,9,35,44096.0,GasWGasWGasW,3,8.0,6156.0,0,44
+214,120,FV,35.0,4109,Pave,0,Somerst,2000,VinylSd,VinylSd,BrkFace,260.0,PConc,3.0,1557,0,0,1557,1,0,2,5,8,Attchd,3.0,Y,124,WD ,12,45,30522.0,GasAGasAGasAGasAGasA,5,3.0,5808.0,113,9
+215,60,RL,75.0,8285,Pave,0,SawyerW,1992,HdBoard,HdBoard,None,0.0,PConc,3.0,844,893,0,1737,0,1,2,7,8,Attchd,3.0,Y,192,WD ,12,35,7482.0,GasAGasAGasAGasA,4,0.0,9108.0,85,16
+216,20,RL,0.0,20355,Pave,0,ClearCr,1967,Plywood,Plywood,BrkFace,123.0,CBlock,3.0,1830,0,0,1830,1,0,1,6,8,Attchd,3.0,Y,0,WD ,9,42,31688.0,GasAGasAGasA,3,8.0,3126.0,115,39
+217,60,RM,60.0,3378,Pave,Grvl,OldTown,1992,HdBoard,HdBoard,None,0.0,CBlock,3.0,707,682,0,1389,0,0,1,6,8,Detchd,3.0,P,0,WD ,12,56,3906.0,GasAGasAGasAGasA,3,8.0,720.0,0,63
+218,85,RM,86.0,5160,Pave,Grvl,IDOTRR,1950,MetalSd,MetalSd,None,0.0,PConc,2.0,892,0,0,892,1,0,1,5,6,0,0.0,N,0,COD,12,24,14033.0,GasAGasAGasA,4,0.0,0.0,160,86
+219,20,RL,0.0,7500,Pave,0,NAmes,2003,BrkFace,BrkFace,None,0.0,CBlock,3.0,1040,0,0,1040,1,0,1,6,8,Attchd,3.0,Y,0,WD ,9,35,7962.0,GasAGasAGasAGasAGasA,4,0.0,1716.0,0,48
+220,160,FV,35.0,3735,Pave,0,Somerst,1999,MetalSd,MetalSd,BrkFace,218.0,PConc,3.0,713,739,0,1452,1,0,2,6,8,Detchd,3.0,Y,0,WD ,12,35,6428.0,GasAGasAGasAGasAGasA,4,0.0,3036.0,34,7
+221,90,RL,64.0,6979,Pave,0,OldTown,1980,Plywood,Plywood,None,0.0,CBlock,3.0,1056,0,0,1056,2,0,0,4,8,Detchd,3.0,Y,264,WD ,9,30,9504.0,GasAGasAGasAGasA,6,0.0,3456.0,56,30
+222,60,RL,71.0,7056,Pave,0,NAmes,1963,HdBoard,HdBoard,BrkFace,415.0,CBlock,3.0,983,813,0,1796,1,0,1,8,8,Attchd,3.0,Y,0,WD ,9,30,5080.0,GasAGasAGasA,3,3.0,5796.0,50,45
+223,60,RL,122.0,11911,Pave,0,Gilbert,2005,VinylSd,VinylSd,None,0.0,PConc,3.0,684,876,0,1560,0,0,2,6,8,BuiltIn,3.0,Y,100,WD ,12,30,16416.0,GasAGasAGasAGasAGasA,4,4.0,7200.0,38,4
+224,30,RL,0.0,7890,Pave,0,SWISU,1950,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,856,0,0,856,1,0,1,4,8,Detchd,3.0,Y,0,WD ,9,36,5136.0,GasAGasAGasA,3,4.0,2394.0,166,71
+225,30,RL,60.0,10800,Pave,Grvl,OldTown,1950,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,846,0,0,846,0,0,1,4,8,Detchd,3.0,N,0,WD ,9,35,4320.0,GasAGasAGasA,4,0.0,10368.0,0,89
+226,60,RL,0.0,11250,Pave,0,CollgCr,2002,CemntBd,CmentBd,None,0.0,PConc,3.0,1149,1141,0,2290,0,0,2,9,8,Attchd,3.0,Y,0,WD ,12,40,18048.0,GasAGasAGasAGasAGasA,4,4.0,4674.0,0,6
+227,60,RL,70.0,9605,Pave,0,Somerst,2006,VinylSd,VinylSd,None,0.0,PConc,3.0,982,995,0,1977,0,0,2,7,8,Attchd,3.0,Y,240,WD ,12,35,7856.0,GasAGasAGasAGasAGasA,4,0.0,10332.0,53,1
+228,20,RL,80.0,14680,Pave,Grvl,Crawfor,1960,MetalSd,MetalSd,None,0.0,CBlock,3.0,1273,0,0,1273,0,0,1,5,8,Attchd,3.0,Y,483,WD ,9,20,7638.0,GasAGasAGasAGasAGasA,3,0.0,921.0,115,49
+229,60,RL,79.0,10208,Pave,0,NoRidge,1997,VinylSd,VinylSd,BrkFace,921.0,PConc,3.0,1277,1067,0,2344,0,0,2,7,8,Attchd,3.0,Y,220,WD ,12,35,10112.0,GasAGasAGasAGasAGasA,4,3.0,16002.0,0,13
+230,30,RL,85.0,19550,Pave,0,Edwards,2007,PreCast,PreCast,None,0.0,PConc,3.0,1518,0,0,1518,1,0,1,5,8,0,0.0,Y,0,WD ,9,35,30675.0,GasAGasAGasAGasAGasA,2,8.0,0.0,39,68
+231,180,RM,21.0,1491,Pave,0,MeadowV,1972,CemntBd,CmentBd,None,0.0,CBlock,3.0,630,0,0,630,1,0,1,3,8,0,0.0,Y,96,WD ,9,24,10740.0,GasAGasAGasAGasAGasA,3,0.0,0.0,24,38
+232,50,RM,60.0,4800,Pave,0,OldTown,1954,Wd Sdng,Wd Sdng,BrkFace,771.0,PConc,3.0,1157,687,0,1844,1,0,1,9,6,Basment,3.0,Y,84,COD,9,20,4350.0,GasAGasAGasA,3,8.0,720.0,0,110
+233,20,RL,60.0,8172,Pave,0,Edwards,1955,MetalSd,MetalSd,None,0.0,CBlock,3.0,768,0,0,768,0,0,1,4,8,Detchd,3.0,Y,0,WD ,9,20,5152.0,GasAGasAGasA,3,2.0,1065.0,0,52
+234,75,RL,174.0,25419,Pave,0,NAmes,1990,Stucco,Stucco,None,0.0,PConc,3.0,1360,1360,392,3112,1,1,2,8,8,Detchd,3.0,Y,0,WD ,16,32,11084.0,GasAGasAGasAGasA,4,5.0,4770.0,16,88
+235,60,RL,0.0,13031,Pave,0,Gilbert,1996,HdBoard,HdBoard,None,0.0,PConc,3.0,691,807,0,1498,0,0,2,6,8,Attchd,3.0,Y,315,WD ,9,30,6120.0,GasAGasAGasAGasA,3,3.0,7362.0,44,11
+236,30,RM,50.0,5633,Pave,Pave,OldTown,1950,MetalSd,Stucco,None,0.0,BrkTil,2.0,844,0,0,844,0,0,1,5,8,Detchd,3.0,N,50,WD ,9,35,5064.0,GasAGasAGasA,3,0.0,648.0,81,81
+237,60,RL,110.0,14257,Pave,0,NridgHt,2007,VinylSd,VinylSd,Stone,726.0,PConc,3.0,1794,978,0,2772,1,0,3,10,8,BuiltIn,3.0,Y,135,WD ,15,45,19120.0,GasAGasAGasAGasAGasA,5,12.0,20358.0,64,2
+238,20,RL,49.0,20896,Pave,0,Somerst,2006,VinylSd,VinylSd,None,0.0,PConc,3.0,2097,0,0,2097,1,0,1,8,8,Attchd,3.0,Y,192,New,12,40,34656.0,GasAGasAGasAGasAGasA,5,5.0,30618.0,267,1
+239,120,FV,47.0,4230,Pave,Pave,Somerst,2007,VinylSd,VinylSd,None,0.0,PConc,4.0,1352,0,0,1352,0,0,2,5,8,Attchd,3.0,Y,0,New,12,35,13520.0,GasAGasAGasAGasAGasA,4,4.0,5592.0,241,1
+240,60,RL,120.0,15611,Pave,0,CollgCr,2006,VinylSd,VinylSd,None,0.0,PConc,3.0,1079,840,0,1919,0,0,2,8,8,Attchd,3.0,Y,0,New,12,40,25896.0,GasAGasAGasAGasAGasA,4,4.0,10960.0,51,0
+241,20,RL,0.0,10960,Pave,0,NWAmes,1984,HdBoard,HdBoard,None,0.0,CBlock,3.0,1284,0,0,1284,1,0,2,5,8,Attchd,3.0,Y,0,COD,9,30,10784.0,GasAGasAGasA,3,0.0,2880.0,0,23
+242,60,RL,93.0,11999,Pave,0,NridgHt,2004,VinylSd,VinylSd,BrkFace,340.0,PConc,3.0,1234,1140,0,2374,0,0,2,10,8,BuiltIn,3.0,Y,104,WD ,12,40,9448.0,GasAGasAGasAGasAGasA,5,4.0,17712.0,100,4
+243,60,RL,90.0,11060,Pave,0,Edwards,2005,VinylSd,VinylSd,None,0.0,PConc,3.0,1164,1150,0,2314,0,0,2,9,8,BuiltIn,3.0,Y,0,ConLD,12,35,11500.0,GasAGasAGasAGasAGasA,4,5.0,9036.0,274,3
+244,20,RL,89.0,13214,Pave,0,Timber,2009,Stucco,CmentBd,None,0.0,PConc,3.0,2018,0,0,2018,0,0,2,10,8,Attchd,3.0,Y,144,WD ,15,45,80080.0,GasAGasAGasAGasAGasA,5,4.0,20142.0,76,2
+245,20,RL,66.0,10235,Pave,0,CollgCr,2007,VinylSd,VinylSd,Stone,306.0,PConc,3.0,1651,0,0,1651,0,0,2,7,8,Attchd,3.0,Y,192,New,12,40,39432.0,GasAGasAGasAGasAGasA,4,4.0,15660.0,64,0
+246,20,RL,74.0,13008,Pave,0,NAmes,1956,MetalSd,MetalSd,None,0.0,CBlock,2.0,882,0,0,882,0,0,1,5,8,Attchd,3.0,Y,0,WD ,9,30,4092.0,GasAGasAGasA,3,0.0,1506.0,0,53
+247,20,RL,60.0,7436,Pave,0,NAmes,1960,VinylSd,VinylSd,None,0.0,CBlock,3.0,894,0,0,894,1,0,1,5,8,Detchd,3.0,Y,0,WD ,9,28,6832.0,GasAGasAGasAGasA,3,1.0,2376.0,360,49
+248,60,RL,60.0,8123,Pave,0,Gilbert,2000,VinylSd,VinylSd,BrkFace,16.0,PConc,3.0,1007,793,0,1800,0,0,2,7,8,Attchd,3.0,Y,100,WD ,9,30,7856.0,GasAGasAGasAGasAGasA,3,3.0,8334.0,63,9
+249,120,RL,68.0,7820,Pave,0,NridgHt,2007,MetalSd,MetalSd,BrkFace,362.0,PConc,3.0,1869,0,0,1869,0,0,2,6,8,Attchd,3.0,Y,210,New,15,45,18690.0,GasAGasAGasAGasAGasA,5,4.0,7404.0,54,0
+250,120,RM,59.0,5568,Pave,0,Crawfor,2007,CemntBd,CmentBd,Stone,473.0,PConc,3.0,1625,0,0,1625,1,1,2,5,8,Attchd,3.0,Y,123,New,12,40,34606.0,GasAGasAGasAGasA,4,4.0,8910.0,153,1
+251,50,RL,60.0,8400,Pave,0,SWISU,2000,Wd Sdng,MetalSd,None,0.0,CBlock,3.0,1192,403,0,1595,0,0,1,6,8,Attchd,3.0,Y,0,WD ,9,30,5252.0,GasAGasAGasAGasAGasA,3,8.0,720.0,0,66
+252,60,RL,80.0,9828,Pave,0,SawyerW,1995,VinylSd,VinylSd,None,0.0,PConc,3.0,1142,878,0,2020,0,0,2,8,8,Attchd,3.0,Y,0,WD ,12,40,10192.0,GasAGasAGasAGasAGasA,4,3.0,5592.0,155,14
+253,60,FV,75.0,9375,Pave,0,Somerst,2004,VinylSd,VinylSd,None,0.0,PConc,3.0,912,1182,0,2094,0,0,2,8,8,BuiltIn,3.0,Y,182,WD ,12,35,7296.0,GasAGasAGasAGasAGasA,4,4.0,11070.0,182,6
+254,20,RL,130.0,11457,Pave,0,Timber,1988,HdBoard,HdBoard,None,0.0,CBlock,3.0,1412,0,0,1412,1,0,2,6,8,Attchd,3.0,Y,0,WD ,9,30,20262.0,GasAGasAGasA,4,3.0,3456.0,0,21
+255,50,RM,51.0,6120,Pave,0,BrkSide,1950,AsbShng,AsbShng,None,0.0,CBlock,3.0,728,434,0,1162,1,0,1,6,8,Detchd,1.0,Y,0,ConLI,12,15,4368.0,GasAGasAGasAGasAGasA,3,0.0,516.0,24,76
+256,50,RM,55.0,8800,Pave,Grvl,OldTown,2004,Wd Sdng,Wd Sdng,None,0.0,BrkTil,2.0,792,348,0,1140,0,0,1,7,6,0,0.0,N,0,WD ,9,28,3456.0,GasAGasAGasAGasA,3,0.0,0.0,160,100
+257,60,RL,56.0,20431,Pave,0,NridgHt,2006,CemntBd,CmentBd,BrkFace,870.0,PConc,3.0,1848,880,0,2728,1,0,2,10,8,Attchd,3.0,Y,0,New,15,45,19890.0,GasAGasAGasAGasAGasA,5,10.0,19062.0,0,1
+258,60,RL,85.0,10560,Pave,0,SawyerW,1994,VinylSd,VinylSd,None,0.0,PConc,4.0,1079,800,0,1879,1,0,2,8,8,Attchd,3.0,Y,400,WD ,16,35,9580.0,GasAGasAGasAGasAGasA,4,3.0,5676.0,100,16
+259,20,RL,149.0,19958,Pave,0,Timber,1995,HdBoard,HdBoard,BrkFace,1224.0,CBlock,3.0,2279,0,0,2279,0,0,2,7,8,Attchd,3.0,Y,274,WD ,12,48,3510.0,GasAGasAGasAGasA,4,4.0,5532.0,138,49
+260,80,RL,87.0,11084,Pave,0,Gilbert,2004,VinylSd,VinylSd,None,0.0,PConc,3.0,744,630,0,1374,1,0,2,8,8,BuiltIn,3.0,Y,100,WD ,12,35,3456.0,GasAGasAGasAGasAGasA,4,4.0,7200.0,0,3
+261,70,RM,60.0,10266,Pave,0,IDOTRR,1952,MetalSd,MetalSd,None,0.0,CBlock,3.0,768,768,0,1536,0,0,1,7,8,Detchd,3.0,Y,0,COD,9,36,4608.0,GasAGasAGasA,3,0.0,924.0,216,56
+262,160,RM,21.0,1890,Pave,0,BrDale,1973,HdBoard,HdBoard,BrkFace,285.0,CBlock,3.0,672,546,0,1218,0,0,1,7,8,Detchd,3.0,Y,144,WD ,9,30,4388.0,GasAGasAGasA,3,0.0,792.0,28,34
+263,20,RL,85.0,10452,Pave,0,Edwards,1953,Wd Sdng,Wd Sdng,Stone,216.0,CBlock,3.0,1094,0,0,1094,0,0,1,5,8,Attchd,3.0,Y,0,WD ,9,30,11628.0,GasAGasAGasAGasAGasA,3,8.0,5940.0,287,55
+264,60,RL,168.0,23257,Pave,0,Gilbert,2006,VinylSd,VinylSd,None,0.0,PConc,4.0,887,1134,0,2021,0,0,2,9,8,BuiltIn,3.0,Y,0,New,12,35,8680.0,GasAGasAGasAGasAGasA,4,4.0,5064.0,100,0
+265,60,RL,76.0,7570,Pave,0,NAmes,1964,HdBoard,HdBoard,BrkFace,420.0,CBlock,3.0,993,813,0,1806,0,0,1,8,8,Attchd,3.0,Y,0,WD ,9,30,4680.0,GasAGasAGasA,3,0.0,2898.0,55,45
+266,20,RL,70.0,8400,Pave,0,NAmes,1957,MetalSd,MetalSd,None,0.0,CBlock,3.0,1314,0,0,1314,1,0,1,5,8,Attchd,3.0,Y,250,WD ,12,30,7884.0,GasAGasAGasA,3,0.0,1764.0,0,53
+267,60,RL,75.0,9317,Pave,0,SawyerW,1993,HdBoard,HdBoard,BrkFace,137.0,PConc,3.0,1006,769,0,1775,1,0,2,7,8,Attchd,3.0,Y,234,WD ,12,35,6433.0,GasAGasAGasAGasAGasA,4,3.0,2550.0,72,16
+268,80,RL,82.0,9020,Pave,0,NAmes,1964,Plywood,Wd Sdng,BrkFace,259.0,CBlock,3.0,1350,0,0,1350,1,0,1,6,8,Attchd,3.0,Y,176,WD ,9,30,23184.0,GasAGasAGasA,3,0.0,6240.0,0,44
+269,180,RM,35.0,3675,Pave,0,Edwards,2006,VinylSd,VinylSd,BrkFace,82.0,PConc,3.0,1072,0,0,1072,1,0,1,5,8,Basment,3.0,Y,0,New,9,30,12034.0,GasAGasAGasAGasA,3,0.0,9450.0,44,1
+270,190,C (all),60.0,7200,Pave,0,OldTown,1998,MetalSd,MetalSd,None,0.0,BrkTil,2.0,1260,1031,0,2291,0,1,2,9,8,Detchd,3.0,Y,0,WD ,9,36,11430.0,GasWGasWGasWGasWGasW,6,4.0,3036.0,99,97
+271,60,FV,65.0,8125,Pave,0,Somerst,2006,VinylSd,VinylSd,None,0.0,PConc,4.0,778,798,0,1576,0,0,2,6,8,Attchd,3.0,Y,0,New,12,35,6160.0,GasAGasAGasAGasAGasA,4,0.0,7368.0,50,0
+272,70,RM,60.0,7200,Pave,0,OldTown,1950,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,998,764,0,1762,1,0,1,8,8,Detchd,3.0,N,36,WD ,9,49,2384.0,GasAGasAGasAGasAGasA,4,0.0,3456.0,0,86
+273,50,RL,0.0,14100,Pave,0,Crawfor,1997,Stucco,Stucco,BrkFace,632.0,CBlock,3.0,1968,1479,0,3447,0,0,3,11,8,BuiltIn,3.0,Y,314,WD ,12,72,8160.0,GasAGasAGasAGasAGasA,4,8.0,9126.0,12,73
+274,20,RL,60.0,7038,Pave,0,NAmes,1970,VinylSd,VinylSd,None,0.0,CBlock,3.0,864,0,0,864,1,0,1,5,8,Detchd,3.0,Y,210,WD ,9,24,6636.0,GasAGasAGasA,3,0.0,3456.0,0,39
+275,20,RL,73.0,16133,Pave,0,Edwards,1969,HdBoard,Plywood,None,0.0,CBlock,3.0,1176,0,0,1176,1,0,1,5,8,Attchd,3.0,Y,0,WD ,9,20,16275.0,GasAGasAGasA,3,0.0,1080.0,204,37
+276,120,RM,36.0,4435,Pave,0,CollgCr,2003,VinylSd,VinylSd,BrkFace,170.0,PConc,3.0,848,0,0,848,1,0,1,3,8,Attchd,3.0,Y,140,WD ,12,30,16398.0,GasAGasAGasAGasAGasA,4,0.0,7560.0,0,4
+277,80,RL,0.0,16157,Pave,0,Veenker,1978,Plywood,Plywood,None,0.0,PConc,3.0,1432,0,0,1432,1,0,1,5,8,Attchd,3.0,Y,168,WD ,9,35,30957.0,GasAGasAGasAGasAGasA,4,3.0,3528.0,180,29
+278,20,RL,60.0,7200,Pave,0,NAmes,1950,MetalSd,MetalSd,None,0.0,CBlock,0.0,1048,0,0,1048,0,0,1,7,7,Detchd,3.0,Y,0,WD ,9,25,0.0,GasAGasAGasAGasA,3,0.0,2520.0,27,58
+279,20,RL,75.0,9000,Pave,0,NAmes,1954,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,1128,0,0,1128,0,0,1,5,7,Attchd,3.0,Y,0,WD ,9,25,4804.0,GasAGasAGasA,3,0.0,858.0,0,52
+280,60,RL,72.0,10463,Pave,0,Gilbert,2005,VinylSd,VinylSd,None,0.0,PConc,3.0,901,900,0,1801,0,0,2,8,8,Attchd,3.0,Y,0,WD ,12,40,7144.0,GasAGasAGasAGasAGasA,4,4.0,21600.0,116,1
+281,70,RH,0.0,12155,Pave,0,SWISU,1950,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,810,672,0,1482,0,0,2,7,8,Detchd,3.0,P,0,WD ,9,48,4188.0,GasAGasAGasA,2,0.0,1200.0,0,83
+282,20,RL,63.0,10712,Pave,0,Mitchel,1992,HdBoard,HdBoard,None,0.0,PConc,3.0,974,0,0,974,0,0,1,5,8,0,0.0,Y,0,Oth,9,25,14736.0,GasAGasAGasA,3,0.0,0.0,28,16
+283,50,RM,69.0,9143,Pave,Grvl,OldTown,2003,VinylSd,VinylSd,None,0.0,CBlock,3.0,709,308,0,1017,0,0,1,5,8,Detchd,3.0,N,0,WD ,9,35,2076.0,GasAGasAGasAGasAGasA,3,0.0,924.0,0,108
+284,50,RM,60.0,6000,Pave,0,BrkSide,1950,Wd Sdng,Wd Sdng,None,0.0,BrkTil,4.0,869,349,0,1218,0,1,1,6,8,Detchd,3.0,Y,0,WD ,12,36,5160.0,GasAGasAGasAGasAGasA,3,4.0,2640.0,0,66
+285,60,RL,0.0,29959,Pave,0,NoRidge,1994,HdBoard,HdBoard,None,0.0,PConc,3.0,979,871,0,1850,0,0,2,7,8,BuiltIn,3.0,Y,168,WD ,12,42,8974.0,GasAGasAGasAGasAGasA,4,4.0,8406.0,98,15
+286,70,RL,80.0,16560,Pave,0,Crawfor,1950,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,1170,1175,0,2345,0,0,2,9,8,Detchd,3.0,Y,0,WD ,9,48,7113.0,GasAGasAGasA,3,4.0,2160.0,0,74
+287,160,RM,21.0,1953,Pave,0,BrDale,1973,HdBoard,HdBoard,BrkFace,408.0,CBlock,2.0,483,504,0,987,0,0,1,5,8,Detchd,3.0,Y,72,WD ,9,30,3207.0,GasAGasAGasA,3,0.0,792.0,0,33
+288,45,RH,60.0,9000,Pave,0,SawyerW,1950,Wd Sdng,Wd Sdng,None,0.0,BrkTil,2.0,784,0,0,784,0,0,1,5,8,Detchd,2.0,N,0,WD ,9,18,3136.0,GasAGasAGasA,3,0.0,1440.0,0,81
+289,20,RL,68.0,9571,Pave,0,Edwards,1956,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,1144,0,0,1144,1,0,1,6,8,Attchd,3.0,Y,44,WD ,9,30,16897.0,GasAGasAGasA,3,0.0,1788.0,0,54
+290,20,RL,75.0,8700,Pave,0,NAmes,1961,HdBoard,HdBoard,BrkFace,53.0,CBlock,3.0,888,0,0,888,0,1,1,5,8,Attchd,3.0,Y,0,COD,9,35,5904.0,GasAGasAGasAGasA,3,0.0,720.0,0,46
+291,90,RM,68.0,8927,Pave,0,Sawyer,1977,VinylSd,VinylSd,None,0.0,CBlock,0.0,1286,368,0,1654,0,0,2,10,8,Attchd,3.0,Y,0,WD ,12,36,0.0,GasAGasAGasA,6,0.0,6336.0,0,29
+292,160,RM,21.0,1890,Pave,0,MeadowV,1976,CemntBd,CmentBd,None,0.0,CBlock,3.0,546,546,0,1092,0,0,1,6,8,Attchd,3.0,Y,0,COD,9,12,3276.0,GasAGasAGasAGasAGasA,3,0.0,858.0,0,31
+293,20,RL,70.0,7000,Pave,0,NAmes,1961,BrkFace,Wd Sdng,None,0.0,Slab,0.0,925,0,0,925,0,0,1,7,8,Attchd,3.0,Y,0,WD ,9,30,0.0,GasAGasAGasAGasA,3,0.0,2700.0,0,46
+294,20,RL,0.0,14175,Pave,0,Sawyer,1987,CemntBd,Wd Sdng,None,0.0,CBlock,3.0,1437,0,0,1437,1,0,1,6,6,Detchd,3.0,Y,304,WD ,9,30,7128.0,GasAGasAGasAGasA,3,3.0,3456.0,0,50
+295,120,RM,0.0,4426,Pave,0,CollgCr,2004,VinylSd,VinylSd,BrkFace,147.0,PConc,3.0,848,0,0,848,1,0,1,3,8,Attchd,3.0,Y,149,WD ,12,30,16170.0,GasAGasAGasAGasAGasA,4,3.0,5040.0,0,4
+296,60,RL,78.0,9316,Pave,0,CollgCr,2005,VinylSd,VinylSd,BrkFace,532.0,PConc,3.0,784,812,0,1596,0,0,2,6,8,Attchd,3.0,Y,144,WD ,12,35,18816.0,GasAGasAGasAGasAGasA,4,0.0,7320.0,45,1
+297,60,RL,79.0,9085,Pave,0,NoRidge,1996,VinylSd,VinylSd,BrkFace,286.0,PConc,3.0,1094,967,0,2061,1,0,2,7,8,Attchd,3.0,Y,296,WD ,12,35,10192.0,GasAGasAGasAGasAGasA,4,3.0,11646.0,102,14
+298,20,RL,82.0,11202,Pave,0,Timber,2003,VinylSd,VinylSd,BrkFace,206.0,PConc,3.0,1440,0,0,1440,1,0,2,7,8,Attchd,3.0,Y,185,WD ,12,40,33699.0,GasAGasAGasAGasAGasA,4,3.0,8406.0,95,5
+299,70,RL,0.0,9650,Pave,0,Crawfor,1950,Wd Sdng,Plywood,None,0.0,BrkTil,3.0,819,784,0,1603,0,0,1,7,8,Attchd,3.0,Y,0,WD ,9,18,4704.0,GasAGasAGasA,3,4.0,3594.0,217,85
+300,90,RH,82.0,7136,Pave,0,Crawfor,1950,MetalSd,MetalSd,BrkFace,423.0,CBlock,3.0,979,979,0,1958,0,0,2,8,8,Attchd,3.0,Y,0,WD ,9,36,7348.0,GasAGasAGasA,6,0.0,2952.0,0,61
+301,120,RL,44.0,7390,Pave,0,NridgHt,2009,MetalSd,MetalSd,BrkFace,308.0,PConc,3.0,1884,0,0,1884,1,0,2,6,8,Attchd,3.0,Y,231,New,15,45,19640.0,GasAGasAGasAGasAGasA,5,4.0,11682.0,90,1
+302,20,RL,71.0,7064,Pave,0,Sawyer,1977,Plywood,Plywood,BrkFace,153.0,CBlock,3.0,980,0,0,980,0,0,1,6,8,Detchd,3.0,Y,192,WD ,9,30,6440.0,GasAGasAGasA,3,0.0,2904.0,0,32
+303,70,RM,51.0,6120,Pave,0,OldTown,1950,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,1226,676,0,1902,0,0,2,7,8,Detchd,3.0,Y,0,WD ,9,25,6397.0,GasAGasAGasA,3,0.0,3456.0,139,85
+304,30,RM,60.0,4800,Pave,0,OldTown,1950,MetalSd,MetalSd,None,0.0,CBlock,3.0,672,0,0,672,0,0,1,4,8,Detchd,3.0,Y,0,WD ,9,20,2688.0,GasAGasAGasA,3,0.0,768.0,0,68
+305,20,RL,0.0,9000,Pave,0,Sawyer,1959,Wd Sdng,Plywood,None,0.0,CBlock,3.0,1006,0,0,1006,0,0,1,5,8,0,0.0,Y,0,WD ,9,15,6900.0,GasAGasAGasA,3,0.0,0.0,24,49
+306,190,RL,0.0,164660,Grvl,0,Timber,1965,Plywood,Plywood,None,0.0,CBlock,3.0,1619,167,0,1786,2,0,2,7,8,Attchd,3.0,Y,670,WD ,9,30,26057.0,GasAGasAGasAGasAGasA,3,8.0,9522.0,0,43
+307,20,RL,64.0,6762,Pave,0,CollgCr,2006,VinylSd,VinylSd,None,0.0,PConc,4.0,1294,0,0,1294,0,0,2,6,8,Attchd,3.0,Y,168,New,12,35,30864.0,GasAGasAGasAGasAGasA,4,4.0,7944.0,55,0
+308,90,RL,0.0,10547,Pave,0,Edwards,1978,Plywood,Plywood,None,0.0,PConc,4.0,1152,0,0,1152,2,0,2,6,8,Detchd,2.0,N,0,WD ,9,25,25344.0,GasAGasAGasA,6,0.0,756.0,0,31
+309,20,RL,0.0,13052,Pave,0,Sawyer,1965,HdBoard,HdBoard,None,0.0,CBlock,3.0,1024,0,0,1024,0,0,1,5,8,Attchd,3.0,Y,0,WD ,9,30,6144.0,GasAGasAGasA,3,0.0,924.0,0,41
+310,60,RL,78.0,15600,Pave,0,Crawfor,1963,Wd Sdng,Wd Sdng,BrkFace,405.0,CBlock,3.0,1278,1037,0,2315,1,0,2,9,8,Attchd,3.0,Y,0,WD ,12,35,10864.0,GasAGasAGasAGasA,3,12.0,3078.0,192,56
+311,120,RL,41.0,4920,Pave,0,StoneBr,2001,CemntBd,CmentBd,None,0.0,PConc,3.0,1338,0,0,1338,1,0,2,6,8,Attchd,3.0,Y,0,WD ,12,40,20176.0,GasAGasAGasAGasAGasA,4,0.0,10476.0,0,9
+312,20,RL,74.0,13253,Pave,0,Somerst,2006,VinylSd,VinylSd,BrkFace,128.0,PConc,3.0,1578,0,0,1578,1,0,2,7,8,Attchd,3.0,Y,0,WD ,12,35,16876.0,GasAGasAGasAGasA,4,4.0,5778.0,26,2
+313,60,RL,96.0,11631,Pave,0,Gilbert,2005,VinylSd,VinylSd,BrkFace,236.0,PConc,3.0,1052,1321,0,2373,0,0,2,9,8,BuiltIn,3.0,Y,120,New,12,40,25248.0,GasAGasAGasAGasAGasA,4,4.0,17064.0,46,2
+314,90,RH,60.0,7200,Pave,Pave,SWISU,1967,Plywood,CBlock,None,0.0,Slab,0.0,862,1788,0,2650,0,0,3,10,6,0,0.0,Y,0,WD ,9,24,0.0,GasAGasAGasA,6,0.0,0.0,0,43
+315,20,RL,88.0,11394,Pave,0,StoneBr,2010,VinylSd,VinylSd,Stone,350.0,PConc,3.0,1856,0,0,1856,1,0,1,8,8,Attchd,3.0,Y,113,New,12,18,42675.0,GasAGasAGasAGasAGasA,5,5.0,22518.0,0,0
+316,20,RL,83.0,10159,Pave,0,NridgHt,2010,VinylSd,VinylSd,Stone,450.0,PConc,3.0,1940,0,0,1940,1,0,2,8,8,Attchd,3.0,Y,168,New,15,45,43086.0,GasAGasAGasAGasAGasA,5,4.0,16362.0,95,1
+317,120,RL,45.0,6264,Pave,0,StoneBr,1997,CemntBd,CmentBd,None,0.0,PConc,3.0,1682,0,0,1682,1,0,1,6,7,Attchd,3.0,Y,0,WD ,12,40,30656.0,GasAGasAGasAGasAGasA,4,3.0,9504.0,0,11
+318,60,RL,66.0,8738,Pave,0,Gilbert,1999,VinylSd,VinylSd,BrkFace,302.0,PConc,3.0,1005,1286,0,2291,0,0,2,8,8,BuiltIn,3.0,Y,192,WD ,12,35,7800.0,GasAGasAGasAGasAGasA,4,3.0,7722.0,0,7
+319,50,RL,0.0,7015,Pave,0,BrkSide,1950,MetalSd,MetalSd,BrkCmn,161.0,CBlock,3.0,979,224,0,1203,1,0,1,5,8,Detchd,3.0,Y,0,WD ,9,20,4069.0,GasAGasAGasA,4,3.0,1056.0,0,59
+320,50,RM,52.0,6240,Pave,0,BrkSide,1950,AsbShng,AsbShng,None,0.0,Slab,0.0,672,240,0,912,0,0,1,3,8,0,0.0,N,0,WD ,9,20,0.0,GasAGasAGasAGasA,3,0.0,0.0,0,59
+321,50,RL,50.0,8405,Pave,Grvl,Edwards,1950,MetalSd,MetalSd,None,0.0,BrkTil,4.0,961,406,0,1367,1,0,1,7,8,Detchd,3.0,Y,0,WD ,9,40,5557.0,GasAGasAGasAGasAGasA,3,0.0,1152.0,130,108
+322,50,RL,50.0,5000,Pave,Pave,SWISU,1950,BrkFace,Wd Sdng,None,0.0,BrkTil,3.0,1026,665,0,1691,0,0,2,6,8,Detchd,3.0,Y,0,WD ,9,30,5938.0,GasAGasAGasA,4,4.0,924.0,0,86
+323,20,RL,94.0,12883,Pave,0,NridgHt,2010,VinylSd,VinylSd,Stone,256.0,PConc,3.0,1544,0,0,1544,0,0,2,7,8,Attchd,3.0,Y,0,New,12,40,12352.0,GasAGasAGasAGasAGasA,4,0.0,15624.0,35,1
+324,20,RL,60.0,7200,Pave,0,CollgCr,1972,MetalSd,MetalSd,None,0.0,CBlock,3.0,894,0,0,894,0,0,1,6,8,Detchd,3.0,Y,215,WD ,9,25,11430.0,GasAGasAGasA,3,0.0,7200.0,0,37
+325,120,RL,0.0,4928,Pave,0,NPkVill,1976,Plywood,Plywood,None,0.0,CBlock,3.0,958,0,0,958,0,0,2,5,8,Attchd,3.0,Y,0,WD ,9,36,5748.0,GasAGasAGasA,3,0.0,5280.0,60,33
+326,20,RL,64.0,8712,Pave,0,NAmes,2000,MetalSd,MetalSd,None,0.0,CBlock,3.0,1306,0,0,1306,1,0,1,5,8,Detchd,3.0,Y,0,WD ,12,35,10184.0,GasAGasAGasA,3,0.0,2268.0,0,52
+327,120,RL,43.0,3010,Pave,0,Blmngtn,2006,VinylSd,VinylSd,BrkFace,14.0,PConc,3.0,1142,0,0,1142,0,0,2,6,8,Attchd,3.0,Y,90,New,12,35,36384.0,GasAGasAGasAGasAGasA,4,0.0,7920.0,0,1
+328,60,RM,60.0,9780,Pave,Grvl,IDOTRR,2005,VinylSd,VinylSd,None,0.0,CBlock,3.0,976,976,0,1952,0,0,1,8,8,Detchd,3.0,Y,285,WD ,15,63,5502.0,GasAGasAGasAGasAGasA,4,6.0,2691.0,216,57
+329,60,RL,79.0,9462,Pave,0,NAmes,1973,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,1024,704,0,1728,0,0,1,7,7,Attchd,3.0,Y,245,WD ,9,30,4224.0,GasAGasAGasAGasA,3,4.0,702.0,60,57
+330,90,RL,76.0,9482,Pave,0,NAmes,1958,Wd Sdng,Wd Sdng,BrkFace,657.0,PConc,3.0,1866,0,0,1866,0,0,2,8,8,Detchd,2.0,Y,0,WD ,9,20,11196.0,GasAGasAGasAGasAGasA,6,0.0,2970.0,0,51
+331,60,RL,0.0,14067,Pave,0,Gilbert,1991,HdBoard,HdBoard,BrkFace,194.0,PConc,3.0,851,858,0,1709,1,0,2,7,8,Attchd,3.0,Y,0,WD ,9,30,7192.0,GasAGasAGasAGasA,4,0.0,7488.0,40,17
+332,90,RL,95.0,11345,Pave,0,NAmes,1950,AsbShng,AsbShng,Stone,567.0,CBlock,3.0,928,992,0,1920,0,0,2,10,8,Detchd,2.0,Y,0,WD ,9,25,5568.0,GasAGasAGasAGasA,6,0.0,2400.0,0,59
+333,120,RL,0.0,3760,Pave,0,Greens,1980,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,1235,0,0,1235,1,0,1,4,8,Attchd,3.0,Y,133,WD ,12,40,26882.0,GasAGasAGasAGasA,3,9.0,8712.0,78,26
+334,30,RM,60.0,10320,Pave,0,IDOTRR,1991,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,759,0,0,759,0,0,1,5,8,Detchd,3.0,N,40,ConLD,9,40,1804.0,GasAGasAGasA,3,0.0,3456.0,0,96
+335,70,RL,54.0,7588,Pave,0,Crawfor,1950,Stucco,Stucco,None,0.0,BrkTil,3.0,901,901,0,1802,0,0,1,9,8,Detchd,3.0,Y,0,WD ,9,42,3172.0,GasAGasAGasAGasA,3,4.0,432.0,0,86
+336,30,RM,60.0,8520,Pave,0,OldTown,1950,Stucco,Stucco,None,0.0,PConc,3.0,792,0,0,792,0,0,1,5,8,Detchd,3.0,Y,0,WD ,12,40,2496.0,GasAGasAGasA,3,0.0,861.0,0,86
+337,50,RL,60.0,14190,Pave,0,OldTown,2006,VinylSd,VinylSd,None,0.0,CBlock,3.0,1000,544,0,1544,0,0,2,7,8,0,0.0,N,231,WD ,16,28,3700.0,GasAGasAGasAGasA,3,0.0,0.0,0,117
+338,20,RL,60.0,11664,Pave,0,NAmes,1950,MetalSd,MetalSd,BrkFace,206.0,CBlock,2.0,1082,0,0,1082,0,0,1,5,8,Detchd,3.0,Y,0,WD ,9,30,6828.0,GasAGasAGasA,3,4.0,720.0,130,59
+339,120,RL,30.0,4420,Pave,0,Greens,1980,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,788,0,0,788,1,0,1,3,8,Detchd,3.0,Y,133,WD ,12,40,16016.0,GasAGasAGasA,4,3.0,8712.0,42,30
+340,20,RL,61.0,33983,Pave,0,Mitchel,1994,Plywood,Plywood,None,0.0,PConc,3.0,1676,0,0,1676,1,0,1,6,5,Attchd,3.0,P,690,WD ,6,30,12808.0,GasAGasAGasA,4,6.0,8064.0,90,30
+341,50,RM,56.0,10134,Pave,Grvl,OldTown,1950,MetalSd,MetalSd,None,0.0,BrkTil,3.0,801,646,0,1447,0,0,1,6,8,0,0.0,N,80,WD ,9,25,3204.0,GasAGasAGasAGasA,3,0.0,0.0,0,99
+342,40,RL,60.0,12144,Pave,0,NAmes,1950,HdBoard,HdBoard,None,0.0,CBlock,3.0,1036,0,232,1268,0,0,1,6,8,Attchd,3.0,Y,0,WD ,12,35,4992.0,GasAGasAGasAGasA,3,4.0,864.0,28,60
+343,60,RL,70.0,8750,Pave,0,CollgCr,1998,VinylSd,VinylSd,BrkFace,116.0,PConc,3.0,804,878,0,1682,0,0,2,7,8,Attchd,3.0,Y,0,WD ,9,30,7442.0,GasAGasAGasAGasAGasA,4,0.0,6276.0,77,12
+344,60,RL,88.0,11134,Pave,0,NoRidge,1993,HdBoard,HdBoard,BrkFace,180.0,PConc,3.0,1402,823,0,2225,1,0,2,7,8,Attchd,3.0,Y,198,WD ,12,40,13378.0,GasAGasAGasAGasAGasA,4,3.0,12834.0,30,18
+345,60,FV,68.0,7379,Pave,0,Somerst,2000,VinylSd,VinylSd,None,0.0,PConc,3.0,975,873,0,1848,1,0,2,7,8,Attchd,3.0,Y,280,WD ,12,40,8768.0,GasAGasAGasAGasAGasA,4,3.0,7104.0,184,10
+346,60,RL,54.0,9783,Pave,0,Gilbert,1996,HdBoard,HdBoard,None,0.0,PConc,3.0,821,955,0,1776,0,0,2,7,8,BuiltIn,3.0,Y,286,WD ,9,30,6568.0,GasAGasAGasAGasA,3,3.0,7974.0,116,10
+347,20,RL,0.0,9477,Pave,0,NAmes,1966,HdBoard,HdBoard,BrkFace,65.0,CBlock,3.0,892,0,0,892,0,0,1,5,8,Attchd,3.0,Y,0,WD ,9,25,5184.0,GasAGasAGasA,3,0.0,1584.0,0,42
+348,60,RL,60.0,15384,Pave,0,Gilbert,2005,VinylSd,VinylSd,None,0.0,PConc,3.0,788,702,0,1490,1,0,2,8,8,Attchd,3.0,Y,100,WD ,12,35,14568.0,GasAGasAGasAGasAGasA,4,4.0,6984.0,75,4
+349,20,RL,0.0,11327,Pave,0,Sawyer,1967,HdBoard,HdBoard,BrkFace,305.0,CBlock,3.0,1064,0,0,1064,0,1,1,6,8,Attchd,3.0,Y,314,WD ,9,30,16036.0,GasAGasAGasA,3,3.0,3168.0,48,39
+350,190,RM,41.0,5852,Pave,0,OldTown,2000,MetalSd,MetalSd,Stone,188.0,BrkTil,2.0,978,886,0,1864,0,0,2,9,8,0,0.0,N,0,WD ,6,35,6120.0,GasAGasAGasA,3,0.0,0.0,188,107
+351,60,RL,72.0,7200,Pave,0,Edwards,2001,Plywood,Plywood,None,0.0,CBlock,3.0,684,714,0,1398,0,0,1,6,8,Attchd,3.0,Y,0,WD ,9,42,11160.0,GasAGasAGasA,3,3.0,7920.0,0,32
+352,160,RM,21.0,1680,Pave,0,BrDale,1972,HdBoard,HdBoard,BrkFace,281.0,CBlock,3.0,672,546,0,1218,0,1,1,7,8,Detchd,3.0,Y,0,WD ,9,42,4349.0,GasAGasAGasAGasA,3,0.0,792.0,28,34
+353,20,RL,85.0,10182,Pave,0,Somerst,2006,VinylSd,VinylSd,Stone,420.0,PConc,3.0,1660,0,0,1660,1,0,2,8,8,Attchd,3.0,Y,322,New,12,40,28320.0,GasAGasAGasAGasAGasA,4,4.0,6000.0,50,0
+354,20,RL,75.0,9375,Pave,0,Edwards,1954,MetalSd,MetalSd,None,0.0,CBlock,3.0,1350,0,0,1350,0,0,1,6,8,Attchd,3.0,Y,237,WD ,12,20,5802.0,GasAGasAGasAGasAGasA,3,4.0,6048.0,0,52
+355,80,RL,96.0,11275,Pave,0,NAmes,2007,Wd Sdng,Wd Sdng,BrkFace,300.0,CBlock,3.0,1898,1080,0,2978,0,0,2,11,8,BuiltIn,3.0,Y,240,WD ,16,49,5680.0,GasAGasAGasAGasAGasA,4,4.0,10152.0,0,43
+356,70,RM,60.0,9720,Pave,Grvl,OldTown,2002,MetalSd,MetalSd,None,0.0,PConc,3.0,780,741,0,1521,0,0,1,8,8,Detchd,3.0,Y,0,WD ,9,42,4446.0,GasAGasAGasAGasAGasA,4,0.0,5760.0,0,99
+357,20,RL,68.0,9017,Pave,0,CollgCr,1999,VinylSd,VinylSd,None,0.0,PConc,3.0,1431,0,0,1431,1,0,2,6,8,Attchd,3.0,Y,0,WD ,12,35,30984.0,GasAGasAGasAGasAGasA,4,0.0,11988.0,35,10
+358,60,RL,75.0,10125,Pave,0,Mitchel,2001,CemntBd,CmentBd,None,0.0,PConc,3.0,1040,1012,0,2052,0,0,2,7,8,BuiltIn,3.0,Y,210,WD ,12,40,9301.0,GasAGasAGasAGasAGasA,4,3.0,17334.0,91,9
+359,50,RM,85.0,8500,Pave,0,IDOTRR,2005,CemntBd,CmentBd,None,0.0,CBlock,3.0,997,520,0,1517,0,0,2,7,8,0,0.0,N,0,WD ,9,35,4758.0,GasWGasWGasW,2,0.0,0.0,0,88
+360,50,RL,79.0,9490,Pave,0,NAmes,1950,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,958,620,0,1578,1,0,1,5,8,Attchd,3.0,Y,0,WD ,9,42,5239.0,GasAGasAGasA,2,6.0,720.0,0,65
+361,20,RL,124.0,27697,Pave,0,Mitchel,1961,Plywood,Plywood,CBlock,198.0,CBlock,3.0,1608,0,0,1608,0,0,1,6,8,Attchd,2.0,Y,152,COD,9,12,9187.0,GasAGasAGasA,3,0.0,1332.0,38,46
+362,50,RL,72.0,10632,Pave,0,ClearCr,1950,Wd Sdng,Wd Sdng,None,0.0,BrkTil,2.0,725,499,0,1224,0,0,1,6,5,Detchd,2.0,N,0,COD,9,15,5512.0,GasAGasAGasAGasA,1,0.0,360.0,0,93
+363,90,RL,85.0,11475,Pave,0,NAmes,1958,VinylSd,VinylSd,BrkFace,95.0,CBlock,3.0,1776,0,0,1776,1,0,2,9,8,Detchd,3.0,Y,0,COD,9,25,9504.0,GasAGasAGasA,6,0.0,7992.0,25,51
+364,20,RL,85.0,11049,Pave,0,CollgCr,2007,VinylSd,VinylSd,None,0.0,PConc,3.0,1234,0,0,1234,0,0,2,7,8,Attchd,3.0,Y,0,WD ,12,40,37020.0,GasAGasAGasAGasAGasA,4,0.0,5808.0,30,1
+365,120,RM,44.0,4750,Pave,0,Crawfor,2007,VinylSd,VinylSd,Stone,481.0,PConc,3.0,1625,0,0,1625,1,1,2,5,8,Attchd,3.0,Y,123,WD ,12,40,34606.0,GasAGasAGasAGasAGasA,4,4.0,9684.0,153,1
+366,20,RL,50.0,35133,Grvl,0,Timber,1963,MetalSd,MetalSd,BrkFace,226.0,CBlock,3.0,1572,0,0,1572,1,0,1,5,8,2Types,3.0,Y,0,WD ,9,20,27297.0,GasAGasAGasAGasA,3,6.0,17910.0,526,44
+367,20,RL,80.0,12984,Pave,0,Crawfor,1977,Plywood,Plywood,BrkFace,459.0,CBlock,3.0,1647,0,0,1647,1,0,2,7,8,Attchd,3.0,Y,0,WD ,9,30,18149.0,GasAGasAGasAGasAGasA,4,3.0,11178.0,0,29
+368,60,RL,75.0,9157,Pave,0,Timber,2003,VinylSd,VinylSd,None,0.0,PConc,3.0,1072,942,0,2014,0,0,2,9,8,Attchd,3.0,Y,124,WD ,12,35,7296.0,GasAGasAGasAGasAGasA,4,0.0,8748.0,114,6
+369,20,RM,49.0,5820,Pave,0,OldTown,2005,VinylSd,VinylSd,None,0.0,CBlock,3.0,1163,0,0,1163,1,0,1,6,8,Attchd,3.0,Y,142,WD ,12,24,7484.0,GasAGasAGasAGasAGasA,3,0.0,440.0,98,51
+370,90,RL,81.0,9671,Pave,0,NAmes,1969,MetalSd,MetalSd,Stone,480.0,CBlock,3.0,1248,1296,0,2544,0,0,2,12,8,Attchd,3.0,Y,0,WD ,9,30,7488.0,GasAGasAGasA,6,0.0,16326.0,0,40
+371,160,RM,21.0,1890,Pave,0,BrDale,1972,HdBoard,HdBoard,BrkFace,422.0,CBlock,3.0,483,504,0,987,0,0,1,5,8,Detchd,3.0,Y,411,WD ,9,36,2415.0,GasAGasAGasAGasA,3,0.0,1056.0,0,36
+372,70,RL,60.0,13515,Pave,Pave,BrkSide,1950,Wd Sdng,Wd Sdng,None,0.0,PConc,3.0,1060,764,0,1824,0,0,1,8,8,Detchd,3.0,N,0,WD ,9,36,4584.0,GasAGasAGasAGasAGasA,3,4.0,3120.0,0,88
+373,60,RL,0.0,9233,Pave,0,NoRidge,2000,VinylSd,VinylSd,BrkFace,877.0,PConc,3.0,1540,1315,0,2855,1,0,2,9,8,Attchd,3.0,Y,247,WD ,12,45,35562.0,GasAGasAGasAGasAGasA,5,3.0,13932.0,55,6
+374,85,RL,70.0,8400,Pave,0,Sawyer,1966,VinylSd,VinylSd,None,0.0,CBlock,3.0,913,0,0,913,1,0,1,6,8,Detchd,3.0,Y,0,WD ,9,30,12023.0,GasAGasAGasAGasA,3,0.0,720.0,0,41
+375,20,RL,93.0,15306,Pave,0,Timber,2007,VinylSd,VinylSd,Stone,100.0,PConc,3.0,1776,0,0,1776,1,0,2,7,8,Attchd,3.0,Y,0,New,12,40,68160.0,GasAGasAGasAGasAGasA,4,4.0,19224.0,0,1
+376,50,RL,55.0,7642,Pave,0,Crawfor,1998,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,912,514,0,1426,0,0,1,7,8,Detchd,3.0,Y,0,WD ,12,56,5472.0,GasAGasAGasAGasA,4,4.0,648.0,240,89
+377,120,RM,44.0,3842,Pave,0,Crawfor,2005,CemntBd,CmentBd,Stone,174.0,PConc,3.0,1646,0,0,1646,1,1,2,5,8,Attchd,3.0,Y,128,WD ,12,40,44538.0,GasAGasAGasAGasAGasA,4,4.0,8676.0,208,4
+378,120,RL,34.0,5063,Pave,0,NridgHt,2008,VinylSd,VinylSd,Stone,166.0,PConc,3.0,1314,0,0,1314,1,0,2,6,8,Attchd,3.0,Y,172,ConLw,12,35,12320.0,GasAGasAGasAGasAGasA,4,4.0,7512.0,62,2
+379,120,RL,42.0,4235,Pave,0,Edwards,1984,HdBoard,HdBoard,BrkFace,149.0,CBlock,3.0,1049,0,0,1049,1,0,2,5,8,Attchd,3.0,Y,0,WD ,12,25,14501.0,GasAGasAGasA,4,0.0,2394.0,105,25
+380,70,RL,63.0,15576,Pave,0,Crawfor,1976,Wd Sdng,Plywood,None,0.0,BrkTil,3.0,840,840,0,1680,0,0,2,8,8,Attchd,3.0,Y,0,WD ,9,42,6720.0,GasAGasAGasAGasAGasA,3,0.0,924.0,0,93
+381,190,RM,60.0,10120,Pave,0,OldTown,1950,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,964,925,0,1889,0,0,1,9,8,Detchd,3.0,N,0,WD ,6,28,5550.0,GasAGasAGasA,6,4.0,924.0,0,97
+382,20,RL,102.0,13514,Pave,0,NridgHt,2008,VinylSd,VinylSd,None,285.0,PConc,3.0,1808,0,0,1808,1,0,2,7,8,Attchd,3.0,Y,200,WD ,15,45,18882.0,GasAGasAGasAGasAGasA,5,4.0,22950.0,26,1
+383,60,RL,110.0,13440,Pave,0,NridgHt,2007,VinylSd,VinylSd,BrkFace,190.0,PConc,3.0,1148,1402,0,2550,0,0,2,11,8,BuiltIn,3.0,Y,120,New,12,40,11080.0,GasAGasAGasAGasAGasA,5,4.0,18090.0,39,1
+384,60,RL,70.0,8750,Pave,0,CollgCr,1995,VinylSd,VinylSd,None,0.0,PConc,3.0,933,975,0,1908,1,0,2,8,8,Attchd,3.0,Y,144,WD ,16,35,8604.0,GasAGasAGasAGasAGasA,4,3.0,2958.0,133,14
+385,20,RL,0.0,11500,Pave,0,ClearCr,1966,Plywood,Plywood,None,0.0,CBlock,4.0,1643,0,0,1643,1,0,2,6,8,Attchd,3.0,Y,339,WD ,9,36,26203.0,GasAGasAGasAGasAGasA,3,4.0,2628.0,0,42
+386,190,RL,60.0,10800,Pave,0,OldTown,1970,Wd Sdng,Wd Sdng,None,0.0,CBlock,2.0,1766,648,0,2414,0,0,2,10,5,Attchd,2.0,N,142,ConLD,6,20,6388.0,GasAGasAGasA,6,4.0,3120.0,0,106
+387,70,RL,54.0,7609,Pave,0,Crawfor,1997,Stucco,Stucco,None,0.0,PConc,3.0,798,714,0,1512,1,0,2,7,8,Detchd,3.0,P,85,WD ,16,72,4410.0,GasAGasAGasAGasAGasA,4,4.0,540.0,16,83
+388,20,RL,0.0,26142,Pave,0,Mitchel,1962,HdBoard,HdBoard,BrkFace,189.0,CBlock,3.0,1188,0,0,1188,0,0,1,6,8,Attchd,3.0,P,261,WD ,9,35,7128.0,GasAGasAGasA,3,0.0,936.0,39,48
+389,50,RM,57.0,9184,Pave,Grvl,OldTown,2005,WdShing,Wd Shng,None,0.0,BrkTil,3.0,948,375,0,1323,0,0,1,6,8,Detchd,3.0,Y,0,WD ,9,35,4680.0,GasAGasAGasAGasAGasA,3,0.0,2400.0,0,60
+390,160,RM,21.0,1680,Pave,0,BrDale,1971,HdBoard,HdBoard,BrkFace,492.0,CBlock,3.0,525,567,0,1092,0,0,1,6,8,Detchd,3.0,Y,0,WD ,9,25,3150.0,GasAGasAGasA,3,0.0,960.0,0,39
+391,20,RL,79.0,9416,Pave,0,Somerst,2007,CemntBd,CmentBd,Stone,205.0,PConc,3.0,1726,0,0,1726,1,0,2,8,8,Attchd,3.0,Y,171,New,15,35,18386.0,GasAGasAGasAGasAGasA,5,4.0,21222.0,404,0
+392,60,RL,70.0,8400,Pave,0,SawyerW,1981,HdBoard,HdBoard,BrkFace,130.0,CBlock,3.0,888,676,0,1564,0,0,2,7,8,Attchd,3.0,Y,0,WD ,9,36,5200.0,GasAGasAGasA,3,3.0,2856.0,254,30
+393,50,RL,60.0,12144,Pave,0,NAmes,1950,BrkComm,Wd Sdng,None,0.0,CBlock,3.0,910,611,0,1521,0,0,1,6,6,Detchd,3.0,Y,199,WD ,9,24,5460.0,GasAGasAGasAGasA,4,0.0,1194.0,0,56
+394,20,RL,94.0,10402,Pave,0,CollgCr,2009,VinylSd,VinylSd,None,0.0,PConc,3.0,1226,0,0,1226,0,0,2,6,8,Attchd,3.0,Y,0,WD ,9,35,9808.0,GasAGasAGasAGasAGasA,4,0.0,13320.0,36,1
+395,30,C (all),0.0,3300,Pave,0,OldTown,1950,Stucco,Stucco,None,0.0,BrkTil,3.0,816,0,0,816,0,0,1,5,8,0,0.0,N,0,WD ,9,12,3744.0,GasAGasAGasAGasAGasA,3,4.0,0.0,33,99
+396,20,RL,64.0,8334,Pave,0,CollgCr,2007,VinylSd,VinylSd,None,0.0,PConc,3.0,1330,0,0,1330,0,0,2,6,8,Attchd,3.0,Y,0,New,12,30,10640.0,GasAGasAGasAGasAGasA,4,4.0,7866.0,23,1
+397,60,RL,70.0,11207,Pave,0,Gilbert,1997,VinylSd,VinylSd,None,0.0,PConc,3.0,802,709,0,1511,1,0,2,8,8,Attchd,3.0,Y,95,WD ,9,30,14964.0,GasAGasAGasAGasA,3,3.0,7434.0,75,9
+398,85,RL,0.0,7252,Pave,0,Sawyer,1982,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,858,0,0,858,1,0,1,5,8,Detchd,3.0,Y,120,WD ,9,25,16482.0,GasAGasAGasA,3,0.0,3456.0,0,27
+399,30,C (all),120.0,18000,Grvl,0,IDOTRR,1950,MetalSd,MetalSd,None,0.0,CBlock,3.0,894,0,0,894,0,0,1,6,8,Detchd,3.0,Y,0,ConLD,6,12,5364.0,GasAGasAGasA,3,0.0,22464.0,20,73
+400,50,RL,152.0,12134,Pave,0,Gilbert,2005,Wd Sdng,Wd Sdng,None,0.0,Wood,3.0,1080,672,0,1752,0,0,2,8,8,Basment,3.0,Y,325,WD ,12,56,10854.0,GasAGasAGasAGasA,3,0.0,5904.0,12,22
+401,20,RL,85.0,14450,Pave,0,NWAmes,1979,Plywood,Plywood,BrkFace,194.0,CBlock,2.0,1782,0,0,1782,0,1,2,6,8,Attchd,3.0,Y,467,WD ,12,35,14222.0,GasAGasAGasA,4,3.0,9918.0,0,29
+402,50,RL,54.0,7681,Pave,0,Crawfor,1950,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,820,523,0,1343,0,0,1,7,8,Detchd,3.0,Y,192,WD ,9,30,4386.0,GasAGasAGasAGasAGasA,3,4.0,372.0,0,88
+403,20,RL,87.0,11146,Pave,0,NridgHt,2006,VinylSd,VinylSd,Stone,250.0,PConc,3.0,1717,0,0,1717,0,0,2,7,8,Attchd,3.0,Y,169,WD ,12,40,51270.0,GasAGasAGasAGasAGasA,4,4.0,16344.0,39,3
+404,80,RL,70.0,7910,Pave,0,NAmes,1960,BrkFace,HdBoard,None,0.0,CBlock,3.0,1507,0,0,1507,0,0,2,7,4,Basment,3.0,Y,0,WD ,9,25,7782.0,GasAGasAGasAGasA,3,0.0,1212.0,0,48
+405,20,RL,80.0,8000,Pave,0,NAmes,1962,BrkFace,MetalSd,None,0.0,CBlock,3.0,1027,0,0,1027,0,1,1,6,8,Attchd,3.0,Y,0,WD ,9,25,6682.0,GasAGasAGasA,3,0.0,897.0,0,46
+406,190,RH,60.0,6048,Pave,0,SWISU,1950,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,936,744,0,1680,1,0,2,7,8,Detchd,2.0,P,56,COD,12,35,7328.0,GasAGasAGasAGasA,6,4.0,2700.0,144,100
+407,60,RL,44.0,9548,Pave,0,CollgCr,2003,VinylSd,VinylSd,BrkFace,223.0,PConc,3.0,941,888,0,1829,1,0,2,7,8,Attchd,3.0,Y,192,WD ,12,42,8494.0,GasAGasAGasAGasAGasA,4,3.0,7356.0,39,7
+408,60,RL,74.0,10927,Pave,0,NridgHt,2005,VinylSd,VinylSd,BrkFace,280.0,PConc,3.0,1058,846,0,1904,1,0,2,8,8,BuiltIn,3.0,Y,179,WD ,12,40,22116.0,GasAGasAGasAGasAGasA,5,4.0,13248.0,60,1
+409,20,RL,60.0,7350,Pave,0,NAmes,1951,HdBoard,HdBoard,None,0.0,CBlock,3.0,952,0,0,952,1,0,1,4,8,Detchd,3.0,Y,0,COD,9,35,10572.0,GasAGasAGasA,3,0.0,5040.0,0,57
+410,30,RM,50.0,5925,Pave,0,OldTown,2000,Stucco,Stucco,BrkCmn,435.0,BrkTil,3.0,1131,0,0,1131,0,0,1,7,8,Detchd,3.0,Y,0,WD ,9,28,3796.0,GasAGasAGasA,3,0.0,4032.0,72,70
+411,50,RL,60.0,7200,Pave,0,NAmes,1967,MetalSd,MetalSd,None,0.0,CBlock,3.0,1024,564,0,1588,0,0,1,6,8,Detchd,3.0,Y,0,WD ,12,30,9216.0,GasAGasAGasAGasA,3,0.0,2880.0,0,53
+412,60,RL,0.0,12388,Pave,0,NWAmes,1991,Plywood,Plywood,BrkFace,229.0,CBlock,3.0,1539,1134,0,2673,0,0,2,9,8,BuiltIn,3.0,Y,178,WD ,9,49,8946.0,GasAGasAGasA,4,3.0,5292.0,84,29
+413,20,RL,71.0,8838,Pave,0,NAmes,1982,MetalSd,MetalSd,None,0.0,BrkTil,0.0,1764,0,0,1764,0,0,2,7,3,Attchd,3.0,Y,0,WD ,9,15,0.0,GasAGasAGasAGasA,3,3.0,2709.0,72,51
+414,60,RL,80.0,10000,Pave,0,CollgCr,1996,VinylSd,VinylSd,BrkFace,438.0,PConc,3.0,1220,870,0,2090,1,0,2,8,8,Attchd,3.0,Y,0,WD ,12,40,11918.0,GasAGasAGasAGasAGasA,4,3.0,6672.0,65,12
+415,60,RL,98.0,12203,Pave,0,NoRidge,1999,VinylSd,VinylSd,BrkFace,975.0,PConc,3.0,1276,1336,0,2612,1,0,2,8,8,Attchd,3.0,Y,250,WD ,12,40,11508.0,GasAGasAGasAGasAGasA,4,3.0,18252.0,0,11
+416,50,RL,115.0,21286,Pave,0,Sawyer,1950,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,720,551,0,1271,0,0,2,7,8,Attchd,3.0,Y,0,WD ,9,25,4320.0,GasAGasAGasA,3,4.0,936.0,0,60
+417,60,RL,0.0,11170,Pave,0,Timber,1991,MetalSd,MetalSd,None,0.0,Wood,3.0,1298,1216,0,2514,0,0,2,8,8,Attchd,3.0,Y,0,WD ,9,35,7296.0,GasAGasAGasAGasAGasA,3,0.0,12474.0,0,16
+418,20,RL,70.0,10500,Pave,0,NAmes,1971,HdBoard,HdBoard,None,0.0,CBlock,3.0,864,0,0,864,0,0,1,4,8,Detchd,3.0,Y,216,WD ,9,24,6052.0,GasAGasAGasAGasA,3,0.0,3456.0,0,38
+419,20,RL,88.0,13125,Pave,0,Sawyer,2000,Wd Sdng,Wd Sdng,BrkCmn,67.0,CBlock,3.0,1803,0,0,1803,1,0,2,8,4,Attchd,3.0,Y,0,WD ,9,20,7486.0,GasAGasAGasAGasAGasA,3,3.0,5808.0,0,49
+420,20,RL,102.0,12671,Pave,0,ClearCr,1994,MetalSd,MetalSd,Stone,300.0,CBlock,2.0,2422,0,0,2422,0,0,3,6,6,Attchd,3.0,Y,0,WD ,12,42,9598.0,GasAGasAGasAGasAGasA,4,8.0,9486.0,207,53
+421,20,RL,80.0,13600,Pave,0,NAmes,1955,HdBoard,HdBoard,None,0.0,CBlock,3.0,1056,0,0,1056,1,0,1,6,8,Attchd,3.0,Y,0,WD ,9,30,7248.0,GasAGasAGasAGasA,3,0.0,2700.0,0,51
+422,70,RL,113.0,21281,Pave,0,NAmes,2007,Wd Sdng,MetalSd,None,0.0,BrkTil,2.0,1308,1778,0,3086,0,0,3,9,7,BuiltIn,3.0,Y,0,WD ,9,20,3996.0,GasAGasAGasAGasA,4,0.0,10800.0,364,72
+423,70,RM,59.0,5870,Pave,0,BrkSide,2000,HdBoard,HdBoard,None,0.0,BrkTil,3.0,736,554,0,1290,0,0,1,6,8,Detchd,3.0,Y,38,WD ,12,54,3324.0,GasAGasAGasAGasAGasA,3,0.0,400.0,112,108
+424,20,RL,118.0,13704,Pave,0,CollgCr,2002,VinylSd,VinylSd,BrkFace,150.0,PConc,3.0,1541,0,0,1541,0,0,2,6,8,Attchd,3.0,Y,468,WD ,12,35,12328.0,GasAGasAGasAGasAGasA,4,3.0,15174.0,81,5
+425,20,RL,94.0,12220,Pave,0,NridgHt,2009,CemntBd,CmentBd,BrkFace,305.0,CBlock,3.0,2020,0,0,2020,1,0,2,9,8,Attchd,3.0,Y,156,New,15,50,21496.0,GasAGasAGasAGasAGasA,5,4.0,24300.0,54,0
+426,120,RL,61.0,3782,Pave,0,Greens,1981,Wd Sdng,Plywood,None,0.0,CBlock,3.0,1226,0,0,1226,1,0,1,4,8,Attchd,3.0,Y,133,WD ,12,40,29632.0,GasAGasAGasA,4,6.0,8712.0,78,28
+427,60,RL,65.0,8450,Pave,0,CollgCr,2003,VinylSd,VinylSd,BrkFace,196.0,PConc,3.0,856,854,0,1710,1,0,2,8,8,Attchd,3.0,Y,0,WD ,12,35,8260.0,GasAGasAGasAGasAGasA,4,0.0,6576.0,61,5
+428,80,RL,0.0,8750,Pave,0,Mitchel,1975,Plywood,Plywood,Stone,50.0,CBlock,3.0,918,0,0,918,0,1,1,4,8,Attchd,3.0,Y,192,WD ,9,42,12402.0,GasAGasAGasA,0,0.0,1080.0,84,32
+429,20,RL,90.0,11248,Pave,0,CollgCr,2002,VinylSd,VinylSd,Stone,215.0,PConc,3.0,1668,0,0,1668,1,0,2,7,8,Attchd,3.0,Y,257,WD ,12,45,32670.0,GasAGasAGasAGasAGasA,4,3.0,18954.0,45,5
+430,20,RL,67.0,8777,Pave,0,Edwards,2003,VinylSd,VinylSd,None,0.0,CBlock,0.0,1126,0,0,1126,0,0,2,5,8,Detchd,3.0,N,0,WD ,9,20,0.0,GasAGasAGasAGasAGasA,4,0.0,9360.0,96,60
+431,20,RL,53.0,8128,Pave,0,NAmes,1954,MetalSd,MetalSd,BrkFace,80.0,CBlock,3.0,1062,0,0,1062,1,0,1,6,8,Attchd,3.0,Y,0,WD ,9,42,7352.0,GasAGasAGasAGasA,3,0.0,891.0,0,55
+432,45,RL,60.0,9600,Pave,0,NAmes,2003,MetalSd,MetalSd,None,0.0,CBlock,3.0,893,0,0,893,0,1,1,4,8,Detchd,3.0,Y,0,WD ,9,35,5510.0,GasAGasAGasA,4,0.0,3456.0,0,58
+433,60,RL,61.0,10125,Pave,0,Gilbert,2004,VinylSd,VinylSd,None,0.0,PConc,3.0,846,748,0,1594,0,0,2,7,8,Attchd,3.0,Y,300,WD ,12,35,13536.0,GasAGasAGasAGasAGasA,4,4.0,7812.0,48,5
+434,50,RL,76.0,11388,Pave,0,Edwards,1993,VinylSd,Wd Sdng,None,0.0,BrkTil,3.0,1055,218,0,1273,0,0,1,5,6,Detchd,2.0,N,212,WD ,9,28,3696.0,GasAGasAGasA,4,0.0,825.0,0,96
+435,60,RL,101.0,14215,Pave,0,NridgHt,2006,VinylSd,VinylSd,BrkFace,380.0,PConc,3.0,1158,1218,0,2376,0,0,3,9,8,BuiltIn,3.0,Y,240,New,12,40,34740.0,GasAGasAGasAGasAGasA,4,4.0,15354.0,154,1
+436,120,RL,40.0,6792,Pave,0,NridgHt,2006,VinylSd,VinylSd,Stone,94.0,PConc,3.0,1368,0,0,1368,0,0,2,6,8,Attchd,3.0,Y,132,New,12,35,10944.0,GasAGasAGasAGasAGasA,4,4.0,5688.0,35,1
+437,60,RL,90.0,11700,Pave,0,NWAmes,1968,HdBoard,HdBoard,BrkFace,420.0,CBlock,3.0,708,708,0,1416,0,0,2,7,8,Attchd,3.0,Y,0,WD ,9,36,5056.0,GasAGasAGasAGasA,3,3.0,9312.0,288,38
+438,160,FV,0.0,4447,Pave,0,Somerst,2003,VinylSd,VinylSd,None,0.0,PConc,3.0,530,550,0,1080,0,0,2,4,8,Attchd,3.0,Y,0,WD ,12,35,4240.0,GasAGasAGasAGasAGasA,4,0.0,5952.0,50,3
+439,20,RL,120.0,13560,Pave,0,NAmes,1968,Wd Sdng,Wd Sdng,BrkFace,216.0,CBlock,2.0,1392,0,0,1392,1,0,1,5,3,Attchd,3.0,Y,0,WD ,9,18,5568.0,GasAGasAGasAGasA,3,6.0,6912.0,0,41
+440,60,RL,0.0,9453,Pave,0,SawyerW,2003,HdBoard,HdBoard,None,0.0,PConc,3.0,1014,730,0,1744,0,0,2,7,8,Attchd,3.0,Y,370,WD ,12,49,7968.0,GasAGasAGasAGasAGasA,4,0.0,5484.0,308,17
+441,20,RL,0.0,10355,Pave,0,NAmes,1967,MetalSd,MetalSd,BrkFace,196.0,CBlock,3.0,1214,0,0,1214,0,0,2,5,8,Attchd,3.0,Y,0,WD ,9,25,7979.0,GasAGasAGasA,3,2.0,1908.0,111,40
+442,50,RM,60.0,6000,Pave,0,IDOTRR,2006,VinylSd,VinylSd,None,0.0,CBlock,3.0,760,330,0,1090,0,0,1,5,8,Detchd,3.0,Y,0,WD ,9,48,2880.0,GasAGasAGasAGasA,3,0.0,720.0,0,68
+443,20,RL,0.0,11250,Pave,0,Veenker,1977,Plywood,Plywood,None,0.0,CBlock,3.0,1208,0,0,1208,1,0,1,6,8,Attchd,3.0,Y,198,WD ,12,36,10431.0,GasAGasAGasA,3,3.0,6552.0,42,29
+444,85,RL,0.0,10464,Pave,0,NWAmes,1980,HdBoard,HdBoard,BrkFace,130.0,CBlock,3.0,1102,0,0,1102,1,0,1,5,8,Attchd,3.0,Y,140,WD ,9,36,18612.0,GasAGasAGasA,3,3.0,6984.0,22,26
+445,20,RL,65.0,25095,Pave,0,ClearCr,2003,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,1473,0,0,1473,2,0,1,5,8,Attchd,3.0,Y,0,WD ,9,40,26544.0,GasAGasAGasAGasAGasA,5,8.0,1356.0,108,41
+446,70,RM,60.0,11340,Pave,0,OldTown,1950,AsbShng,AsbShng,None,0.0,BrkTil,2.0,723,363,0,1086,0,0,1,5,4,Detchd,1.0,N,0,ConLD,4,2,2892.0,GasAGasAGasA,3,0.0,1600.0,24,88
+447,30,RM,50.0,5000,Pave,0,BrkSide,1950,MetalSd,MetalSd,None,0.0,BrkTil,3.0,765,0,0,765,1,0,1,4,8,Detchd,3.0,P,135,WD ,9,28,4590.0,GasAGasAGasA,4,0.0,400.0,0,85
+448,60,RL,95.0,11787,Pave,0,NoRidge,1997,VinylSd,VinylSd,BrkFace,594.0,PConc,3.0,1383,1015,0,2398,1,0,2,8,8,Attchd,3.0,Y,239,WD ,12,35,12470.0,GasAGasAGasAGasAGasA,4,3.0,22518.0,60,11
+449,20,RL,60.0,7200,Pave,0,CollgCr,2000,VinylSd,VinylSd,None,0.0,CBlock,3.0,864,0,0,864,1,0,1,5,8,Detchd,5.0,Y,155,WD ,9,25,6526.0,GasAGasAGasAGasA,5,0.0,13824.0,0,35
+450,60,RL,0.0,13700,Pave,0,NAmes,1988,VinylSd,VinylSd,Stone,288.0,CBlock,3.0,902,918,0,1820,0,0,1,8,8,Attchd,3.0,Y,60,WD ,9,42,17558.0,GasAGasAGasA,4,8.0,2952.0,357,43
+451,20,RL,85.0,10130,Pave,0,Somerst,2007,VinylSd,VinylSd,Stone,260.0,PConc,3.0,1702,0,0,1702,1,0,2,7,8,Attchd,3.0,Y,0,WD ,12,40,33084.0,GasAGasAGasAGasAGasA,4,4.0,15192.0,69,2
+452,120,RL,44.0,6371,Pave,0,NridgHt,2010,VinylSd,VinylSd,Stone,128.0,PConc,3.0,1358,0,0,1358,1,0,2,6,8,Attchd,3.0,Y,192,New,12,35,20262.0,GasAGasAGasAGasAGasA,4,4.0,5808.0,35,1
+453,50,RM,51.0,6120,Pave,0,OldTown,1950,BrkFace,Wd Shng,None,0.0,BrkTil,3.0,1022,752,0,1774,0,0,2,8,7,Detchd,3.0,Y,90,WD ,9,35,5712.0,GasAGasAGasAGasA,6,6.0,1872.0,0,77
+454,60,FV,65.0,8125,Pave,0,Somerst,2006,VinylSd,VinylSd,None,0.0,PConc,3.0,756,797,0,1553,0,0,2,6,8,Attchd,3.0,Y,0,New,12,35,6048.0,GasAGasAGasAGasAGasA,4,0.0,7380.0,45,1
+455,60,FV,0.0,8470,Pave,0,Somerst,2002,VinylSd,VinylSd,None,0.0,PConc,3.0,972,839,0,1811,0,0,2,7,8,Attchd,3.0,Y,225,WD ,12,40,8502.0,GasAGasAGasAGasAGasA,4,4.0,6780.0,48,7
+456,20,RL,70.0,8750,Pave,0,CollgCr,1998,VinylSd,VinylSd,BrkFace,209.0,PConc,3.0,1417,0,0,1417,1,0,2,7,8,Attchd,3.0,Y,60,WD ,12,35,27342.0,GasAGasAGasAGasAGasA,4,3.0,3066.0,117,12
+457,20,RL,65.0,6860,Pave,0,NAmes,1956,Wd Sdng,Wd Sdng,BrkCmn,54.0,CBlock,3.0,1008,0,0,1008,1,0,1,6,8,Detchd,3.0,Y,0,WD ,9,30,8772.0,GasAGasAGasAGasAGasA,2,0.0,924.0,0,51
+458,60,RL,80.0,10041,Pave,0,SawyerW,1992,HdBoard,HdBoard,None,0.0,PConc,3.0,927,988,0,1915,1,0,2,8,8,Attchd,3.0,Y,120,WD ,12,40,12950.0,GasAGasAGasAGasAGasA,4,3.0,9108.0,150,14
+459,20,RL,64.0,6400,Pave,0,Edwards,2000,WdShing,Wd Shng,None,0.0,CBlock,3.0,960,0,0,960,1,0,1,4,8,Detchd,3.0,Y,144,WD ,9,35,13494.0,GasAGasAGasAGasAGasA,2,0.0,1176.0,0,48
+460,160,RM,24.0,1488,Pave,0,Blueste,1992,MetalSd,MetalSd,None,0.0,CBlock,3.0,561,668,0,1229,1,0,1,5,8,Attchd,3.0,Y,176,WD ,12,36,7563.0,GasAGasAGasA,4,3.0,8316.0,0,29
+461,20,RL,70.0,8176,Pave,0,NAmes,1992,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,1056,0,0,1056,1,0,1,6,8,Attchd,3.0,Y,0,WD ,9,30,6336.0,GasAGasA,3,0.0,1848.0,0,49
+462,60,RL,69.0,7590,Pave,0,NAmes,1966,VinylSd,VinylSd,BrkFace,266.0,CBlock,3.0,660,688,0,1348,0,0,1,6,8,Attchd,3.0,Y,188,WD ,9,30,4472.0,GasAGasAGasA,3,2.0,5436.0,108,40
+463,60,RL,104.0,21535,Pave,0,NoRidge,1995,HdBoard,HdBoard,BrkFace,1170.0,PConc,3.0,2444,1872,0,4316,0,1,3,10,8,Attchd,3.0,Y,382,WD ,15,60,77390.0,GasAGasAGasAGasAGasA,5,10.0,22464.0,50,13
+464,30,RM,40.0,4800,Pave,0,IDOTRR,1990,MetalSd,MetalSd,None,0.0,CBlock,3.0,1196,0,0,1196,1,0,1,5,8,Detchd,3.0,Y,0,WD ,9,28,6979.0,GasAGasAGasAGasAGasA,3,0.0,2640.0,0,91
+465,60,RL,59.0,11796,Pave,0,Gilbert,2005,VinylSd,VinylSd,None,0.0,PConc,3.0,847,1112,0,1959,0,0,2,8,8,BuiltIn,3.0,Y,100,WD ,12,35,20328.0,GasAGasAGasAGasAGasA,4,4.0,7812.0,48,3
+466,60,RL,0.0,16698,Pave,0,ClearCr,1993,VinylSd,VinylSd,None,0.0,PConc,3.0,944,815,0,1759,1,0,2,7,8,Attchd,3.0,Y,150,WD ,12,35,29976.0,GasAGasAGasAGasA,4,3.0,3150.0,193,17
+467,60,RL,0.0,10400,Pave,0,CollgCr,2001,VinylSd,VinylSd,BrkFace,227.0,PConc,3.0,1290,871,0,2161,0,0,2,8,8,Attchd,3.0,Y,0,WD ,12,35,10056.0,GasAGasAGasAGasAGasA,4,3.0,6840.0,84,7
+468,120,RL,50.0,7175,Pave,0,SawyerW,1984,Plywood,Plywood,None,0.0,CBlock,3.0,752,0,0,752,1,0,1,4,8,Attchd,3.0,Y,353,WD ,9,30,6333.0,GasAGasAGasA,3,0.0,792.0,90,26
+469,20,RL,76.0,8314,Pave,0,Mitchel,1982,HdBoard,ImStucc,None,0.0,CBlock,3.0,816,0,0,816,0,0,1,5,8,Attchd,3.0,Y,168,WD ,9,35,15762.0,GasAGasAGasA,3,0.0,792.0,0,25
+470,85,RL,0.0,9180,Pave,0,SawyerW,1983,HdBoard,HdBoard,None,0.0,CBlock,3.0,884,0,0,884,1,0,1,5,8,Attchd,4.0,Y,240,WD ,9,35,14001.0,GasAGasAGasAGasA,4,0.0,6048.0,0,24
+471,20,RL,86.0,11210,Pave,0,CollgCr,2006,VinylSd,VinylSd,BrkFace,240.0,PConc,3.0,1614,0,0,1614,0,0,2,7,8,Attchd,3.0,Y,144,New,12,35,38616.0,GasAGasAGasAGasAGasA,4,0.0,15570.0,59,1
+472,60,RL,0.0,8803,Pave,0,Gilbert,1995,HdBoard,HdBoard,None,0.0,PConc,3.0,707,809,0,1516,1,0,2,7,8,Attchd,3.0,Y,0,WD ,9,30,6856.0,GasAGasAGasAGasA,4,3.0,7362.0,46,15
+473,20,RL,86.0,8665,Pave,0,Sawyer,1968,HdBoard,HdBoard,BrkFace,89.0,CBlock,3.0,897,0,0,897,0,0,1,5,8,Attchd,3.0,Y,0,WD ,9,25,9432.0,GasAGasAGasA,3,0.0,1584.0,0,39
+474,60,RL,116.0,13474,Pave,0,SawyerW,1991,HdBoard,Plywood,BrkFace,246.0,CBlock,3.0,1122,1121,0,2243,1,0,2,8,8,Attchd,3.0,Y,127,WD ,12,35,6300.0,GasAGasAGasAGasA,4,3.0,13428.0,44,17
+475,20,FV,60.0,7180,Pave,Pave,Somerst,2002,CemntBd,CmentBd,None,0.0,PConc,3.0,1568,0,0,1568,0,0,2,6,8,Attchd,3.0,Y,0,WD ,12,40,12544.0,GasAGasAGasAGasAGasA,4,3.0,6768.0,266,5
+476,20,RL,60.0,10950,Pave,0,NAmes,1952,WdShing,Wd Shng,None,0.0,CBlock,3.0,1064,0,0,1064,0,1,1,4,8,Detchd,3.0,Y,0,WD ,9,35,5523.0,GasAGasAGasA,2,0.0,954.0,0,58
+477,60,RL,80.0,10793,Pave,0,NWAmes,1969,WdShing,HdBoard,BrkFace,263.0,CBlock,3.0,780,840,0,1620,0,0,2,7,7,Attchd,3.0,Y,208,WD ,9,25,4967.0,GasAGasAGasAGasAGasA,3,0.0,8316.0,0,38
+478,30,RH,70.0,9800,Pave,0,SawyerW,1950,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,1012,0,0,1012,0,0,1,5,8,Detchd,3.0,Y,121,WD ,6,25,4896.0,GasAGasAGasA,3,0.0,1287.0,0,90
+479,20,RL,65.0,10237,Pave,0,Gilbert,2006,VinylSd,VinylSd,None,0.0,PConc,3.0,1316,0,0,1316,0,0,2,6,8,Attchd,3.0,Y,100,New,12,30,10584.0,GasAGasAGasAGasAGasA,4,4.0,7146.0,23,1
+480,20,RL,0.0,11500,Pave,0,Edwards,1957,Wd Sdng,Wd Sdng,None,0.0,Slab,0.0,845,0,0,845,0,0,1,5,8,Detchd,3.0,N,186,WD ,12,12,0.0,GasAGasAGasAGasAGasA,3,0.0,870.0,0,52
+481,60,RL,0.0,13006,Pave,0,Gilbert,1997,HdBoard,HdBoard,BrkFace,285.0,PConc,3.0,993,1243,0,2236,0,0,2,8,8,BuiltIn,3.0,Y,0,WD ,9,35,7712.0,GasAGasAGasAGasA,4,3.0,11556.0,0,9
+482,180,RM,21.0,1533,Pave,0,MeadowV,1970,CemntBd,CmentBd,None,0.0,CBlock,3.0,630,0,0,630,1,0,1,3,8,0,0.0,Y,0,WD ,9,35,11802.0,GasAGasAGasAGasAGasA,5,0.0,0.0,0,36
+483,60,RL,63.0,7875,Pave,0,Gilbert,1996,HdBoard,HdBoard,None,0.0,PConc,3.0,691,862,0,1553,0,0,2,6,8,Attchd,3.0,Y,0,WD ,12,35,5114.0,GasAGasAGasAGasA,4,0.0,7560.0,44,11
+484,70,RL,78.0,12168,Pave,0,Crawfor,1998,BrkFace,Wd Sdng,None,0.0,PConc,3.0,1940,1254,0,3194,0,0,2,10,8,Basment,3.0,Y,0,WD ,9,48,13728.0,GasAGasAGasA,3,8.0,2280.0,0,73
+485,20,RL,80.0,9200,Pave,0,NAmes,1965,HdBoard,HdBoard,None,0.0,CBlock,3.0,1136,0,0,1136,1,0,1,5,8,Attchd,3.0,Y,426,WD ,9,36,6816.0,GasAGasAGasA,3,4.0,2304.0,0,43
+486,120,RM,0.0,4438,Pave,0,CollgCr,2004,VinylSd,VinylSd,BrkFace,169.0,PConc,3.0,848,0,0,848,1,0,1,4,8,Attchd,3.0,Y,140,ConLD,12,30,20516.0,GasAGasAGasAGasAGasA,4,4.0,7560.0,0,4
+487,20,RL,90.0,13068,Pave,0,NWAmes,1976,HdBoard,HdBoard,BrkFace,621.0,PConc,3.0,1211,0,0,1211,1,0,2,6,8,Attchd,3.0,Y,0,WD ,9,30,10530.0,GasAGasAGasA,4,1.0,8298.0,174,32
+488,120,FV,0.0,4217,Pave,Pave,Somerst,2008,VinylSd,VinylSd,Stone,252.0,PConc,3.0,1256,0,0,1256,1,0,1,5,8,Attchd,3.0,Y,0,WD ,12,30,11084.0,GasAGasAGasAGasAGasA,4,4.0,11538.0,169,1
+489,50,RM,50.0,7000,Pave,0,IDOTRR,1950,MetalSd,MetalSd,None,0.0,PConc,3.0,861,424,0,1285,0,1,1,6,8,Detchd,3.0,Y,96,WD ,9,42,5914.0,GasAGasAGasAGasAGasA,3,0.0,9108.0,0,80
+490,70,RM,60.0,6600,Pave,0,OldTown,1965,Wd Sdng,Wd Sdng,None,0.0,Stone,3.0,1378,994,0,2372,0,0,2,11,6,Attchd,3.0,Y,0,WD ,9,20,5964.0,GasAGasAGasA,6,0.0,2592.0,287,117
+491,20,RL,73.0,8990,Pave,0,CollgCr,2006,VinylSd,VinylSd,None,0.0,PConc,3.0,1498,0,0,1498,0,0,2,5,8,Attchd,3.0,Y,351,New,12,35,23968.0,GasAGasAGasAGasAGasA,4,0.0,8100.0,33,0
+492,70,RM,47.0,7755,Pave,0,OldTown,1995,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,1100,1164,0,2264,0,0,2,8,8,Detchd,3.0,Y,0,WD ,12,48,6600.0,GasAGasAGasAGasAGasA,3,0.0,1224.0,152,89
+493,60,RL,0.0,10382,Pave,0,NWAmes,1973,HdBoard,HdBoard,Stone,240.0,CBlock,3.0,1107,983,0,2090,1,0,2,7,8,Attchd,3.0,Y,235,WD ,9,42,15007.0,GasAGasAGasAGasAGasA,3,6.0,5808.0,204,36
+494,60,RL,85.0,11924,Pave,0,NridgHt,2006,WdShing,Wd Shng,Stone,286.0,PConc,3.0,1182,1142,0,2324,1,0,3,11,8,BuiltIn,3.0,Y,147,New,15,45,12748.0,GasAGasAGasAGasAGasA,5,8.0,19872.0,21,1
+495,120,RM,0.0,3072,Pave,0,Blmngtn,2004,VinylSd,VinylSd,BrkFace,18.0,PConc,3.0,1414,0,0,1414,0,0,2,6,8,Attchd,3.0,Y,144,WD ,12,35,11000.0,GasAGasAGasAGasAGasA,4,3.0,7164.0,20,2
+496,190,RL,60.0,9900,Pave,0,SWISU,1950,Wd Sdng,Wd Shng,None,0.0,BrkTil,3.0,1212,180,0,1392,1,0,1,6,8,0,0.0,N,0,ConLD,4,20,7272.0,GasAGasAGasA,3,0.0,0.0,0,95
+497,50,RM,50.0,6000,Pave,0,BrkSide,1997,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,884,464,0,1348,1,0,1,5,8,Detchd,3.0,N,0,WD ,9,40,5304.0,GasAGasAGasAGasAGasA,3,2.0,648.0,0,84
+498,60,RL,0.0,11075,Pave,0,Mitchel,1969,HdBoard,HdBoard,BrkFace,232.0,CBlock,3.0,1168,800,0,1968,0,1,2,7,6,Attchd,3.0,Y,305,WD ,9,20,10513.0,GasAGasAGasAGasAGasA,3,1.0,6360.0,189,39
+499,20,RL,80.0,10682,Pave,0,Edwards,1971,HdBoard,HdBoard,None,0.0,CBlock,3.0,1149,0,0,1149,1,0,1,7,7,2Types,3.0,Y,0,WD ,9,24,7281.0,GasAGasAGasA,3,0.0,4896.0,240,49
+500,60,RL,149.0,12589,Pave,0,Gilbert,2005,VinylSd,VinylSd,None,0.0,PConc,3.0,742,742,0,1484,0,0,2,8,8,Attchd,3.0,Y,36,WD ,12,30,5936.0,GasAGasAGasAGasAGasA,4,4.0,7020.0,24,4
+501,80,RL,80.0,9600,Pave,0,Veenker,1976,Plywood,Plywood,BrkFace,200.0,CBlock,3.0,1487,1012,0,2499,0,0,2,5,8,Attchd,3.0,Y,0,WD ,16,40,2352.0,GasAGasAGasAGasAGasA,3,4.0,3162.0,64,33
+502,80,RL,65.0,16219,Pave,0,Gilbert,2005,VinylSd,VinylSd,None,0.0,PConc,3.0,1119,0,0,1119,1,0,2,5,8,Attchd,3.0,Y,100,WD ,12,35,18930.0,GasAGasAGasAGasAGasA,4,0.0,7866.0,24,3
+503,120,RL,55.0,7892,Pave,0,SawyerW,1993,Plywood,Plywood,None,0.0,PConc,3.0,1199,0,0,1199,0,0,2,5,8,Attchd,3.0,Y,0,WD ,12,30,10192.0,GasAGasAGasAGasAGasA,4,0.0,6360.0,63,15
+504,20,RL,90.0,13377,Pave,0,CollgCr,2006,VinylSd,VinylSd,None,0.0,PConc,3.0,1846,0,0,1846,1,0,2,7,8,Attchd,3.0,Y,0,New,12,30,17840.0,GasAGasAGasAGasA,4,4.0,5940.0,32,0
+505,20,RL,0.0,7000,Pave,0,CollgCr,2005,VinylSd,VinylSd,BrkFace,90.0,CBlock,3.0,864,0,0,864,1,0,1,6,8,Attchd,3.0,Y,0,WD ,16,40,6476.0,GasAGasAGasAGasAGasA,3,0.0,1008.0,0,31
+506,70,RL,70.0,10570,Pave,0,Crawfor,1994,BrkFace,BrkFace,None,0.0,CBlock,4.0,1549,1178,0,2727,0,0,2,10,4,Detchd,3.0,Y,0,WD ,12,64,6527.0,GasAGasAGasA,4,6.0,2640.0,74,75
+507,30,RL,0.0,8854,Pave,0,BrkSide,1950,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,952,0,0,952,0,0,1,4,8,Detchd,1.0,P,0,WD ,9,36,5712.0,GravGrav,2,4.0,384.0,138,93
+508,160,RM,41.0,2665,Pave,0,MeadowV,1977,CemntBd,CmentBd,None,0.0,PConc,3.0,616,688,0,1304,0,0,1,5,8,BuiltIn,3.0,Y,141,WD ,9,30,4224.0,GasAGasAGasA,3,3.0,2016.0,0,29
+509,60,FV,75.0,9000,Pave,0,Somerst,2006,VinylSd,VinylSd,None,0.0,PConc,3.0,1088,871,0,1959,0,0,2,8,8,Attchd,3.0,Y,208,WD ,12,40,26112.0,GasAGasAGasAGasAGasA,4,4.0,18450.0,46,1
+510,50,RL,124.0,18600,Pave,0,Edwards,1990,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,1052,558,0,1610,0,1,2,8,8,Attchd,3.0,Y,0,WD ,9,12,8352.0,GasAGasAGasA,2,4.0,2880.0,0,72
+511,160,RM,24.0,2160,Pave,0,BrDale,1973,HdBoard,HdBoard,BrkFace,200.0,CBlock,3.0,765,600,0,1365,0,0,1,7,7,Attchd,3.0,Y,0,WD ,9,30,4188.0,GasAGasAGasAGasA,4,2.0,2640.0,36,33
+512,60,RL,75.0,9743,Pave,0,NWAmes,1969,VinylSd,VinylSd,None,0.0,CBlock,2.0,720,588,0,1308,0,0,1,7,8,Detchd,3.0,Y,0,WD ,9,30,4600.0,GasAGasAGasAGasA,3,0.0,2904.0,0,39
+513,20,RL,65.0,8125,Pave,0,NAmes,2005,HdBoard,HdBoard,None,0.0,CBlock,3.0,925,0,0,925,1,0,1,5,8,Detchd,3.0,Y,233,WD ,12,35,5992.0,GasAGasAGasAGasAGasA,3,0.0,3456.0,0,43
+514,20,RM,62.0,7311,Pave,0,OldTown,1950,VinylSd,VinylSd,None,0.0,BrkTil,3.0,407,0,0,407,0,0,1,3,8,Detchd,3.0,Y,76,WD ,12,10,2442.0,GasAGasAGasA,3,0.0,594.0,0,62
+515,20,RL,80.0,10032,Pave,0,NAmes,1959,Wd Sdng,Wd Sdng,Stone,432.0,CBlock,3.0,1580,0,0,1580,1,0,1,6,8,Attchd,3.0,Y,0,WD ,9,30,7464.0,GasAGasAGasAGasAGasA,3,8.0,2640.0,188,51
+516,20,RL,115.0,10500,Pave,0,NAmes,1964,HdBoard,HdBoard,Stone,144.0,CBlock,3.0,1292,0,0,1292,1,0,1,6,8,Detchd,3.0,Y,0,COD,12,25,6754.0,GasAGasAGasA,3,8.0,3120.0,124,45
+517,60,FV,114.0,8314,Pave,Pave,Somerst,1998,Wd Sdng,Wd Sdng,None,0.0,PConc,3.0,854,840,0,1694,0,0,2,6,8,BuiltIn,3.0,Y,0,WD ,12,35,4552.0,GasAGasAGasAGasAGasA,4,3.0,1302.0,492,9
+518,20,RL,61.0,10226,Pave,0,CollgCr,2008,VinylSd,VinylSd,Stone,270.0,PConc,3.0,1630,0,0,1630,1,0,2,8,8,Attchd,3.0,Y,172,WD ,12,40,64880.0,GasAGasAGasAGasAGasA,5,4.0,15480.0,42,1
+519,60,RL,121.0,16059,Pave,0,NoRidge,1992,HdBoard,HdBoard,BrkFace,284.0,CBlock,3.0,1301,1116,0,2417,0,0,2,9,8,Attchd,3.0,Y,127,WD ,12,40,10304.0,GasAGasAGasAGasAGasA,4,3.0,2772.0,82,15
+520,30,RM,51.0,6120,Pave,0,BrkSide,1999,MetalSd,MetalSd,None,0.0,BrkTil,3.0,995,0,0,995,0,0,1,5,8,Detchd,3.0,Y,0,WD ,9,30,5760.0,GasAGasAGasAGasA,3,0.0,792.0,15,84
+521,50,RM,51.0,6120,Pave,0,BrkSide,1950,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,1067,472,0,1539,0,0,1,5,8,Detchd,3.0,Y,112,WD ,6,30,5562.0,GasAGasAGasA,3,0.0,3456.0,0,73
+522,70,I (all),0.0,56600,Pave,0,IDOTRR,1950,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,1150,686,0,1836,0,0,2,7,4,Detchd,2.0,N,0,WD ,9,5,4116.0,GasAGasAGasAGasAGasA,3,0.0,864.0,0,108
+523,80,RL,75.0,9750,Pave,0,NAmes,1967,VinylSd,VinylSd,None,0.0,PConc,3.0,980,0,0,980,0,0,2,6,8,Attchd,3.0,Y,68,WD ,9,25,13160.0,GasAGasAGasAGasA,3,0.0,3456.0,0,39
+524,120,RL,0.0,3940,Pave,0,Blmngtn,2003,VinylSd,VinylSd,BrkFace,143.0,PConc,3.0,1455,0,0,1455,1,0,2,6,8,Attchd,3.0,Y,156,WD ,12,35,34550.0,GasAGasAGasAGasAGasA,4,3.0,17388.0,164,5
+525,60,RL,107.0,13641,Pave,0,NridgHt,2007,CemntBd,CmentBd,BrkFace,456.0,PConc,3.0,1943,713,0,2656,1,0,2,8,8,Attchd,3.0,Y,268,New,15,45,59104.0,GasAGasAGasAGasAGasA,5,4.0,18720.0,58,0
+526,120,RL,36.0,3640,Pave,0,Greens,1980,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,1036,0,0,1036,1,0,1,4,8,Detchd,3.0,Y,133,WD ,12,40,24552.0,GasAGasAGasA,4,3.0,8712.0,108,26
+527,90,RL,75.0,9825,Pave,0,Edwards,1965,AsphShn,AsphShn,None,0.0,CBlock,0.0,1664,0,0,1664,0,0,2,8,8,0,0.0,Y,0,WD ,9,25,0.0,GasAGasAGasA,6,0.0,0.0,0,45
+528,50,RM,60.0,9600,Pave,Grvl,OldTown,1994,VinylSd,VinylSd,None,0.0,PConc,3.0,842,630,0,1472,0,0,1,6,8,Detchd,2.0,P,0,WD ,9,40,8424.0,GasAGasAGasAGasA,4,0.0,750.0,0,82
+529,30,RL,90.0,5400,Pave,0,OldTown,1950,Stucco,Stucco,None,0.0,PConc,3.0,599,0,0,599,1,0,1,4,8,0,0.0,N,0,WD ,6,10,1664.0,GasAGasAGasAGasA,4,0.0,0.0,81,69
+530,120,RL,24.0,2104,Pave,0,NPkVill,1976,Plywood,Brk Cmn,None,0.0,CBlock,3.0,836,0,0,836,0,1,1,5,8,Attchd,3.0,Y,150,WD ,9,42,6088.0,GasAGasAGasA,3,0.0,1035.0,20,33
+531,60,RL,63.0,9729,Pave,0,Gilbert,2007,VinylSd,VinylSd,None,0.0,PConc,3.0,698,1048,0,1746,1,0,2,6,8,BuiltIn,3.0,Y,0,New,12,30,5584.0,GasAGasAGasAGasAGasA,4,4.0,3150.0,34,1
+532,20,RL,80.0,10000,Pave,0,NWAmes,1974,HdBoard,Plywood,BrkFace,176.0,CBlock,3.0,1103,0,0,1103,0,0,2,6,8,Attchd,3.0,Y,295,WD ,9,36,8128.0,GasAGasAGasA,3,0.0,2772.0,84,32
+533,20,RL,64.0,7360,Pave,0,CollgCr,2010,VinylSd,VinylSd,Stone,80.0,PConc,3.0,1222,0,0,1222,0,0,2,6,8,Attchd,3.0,Y,0,WD ,12,35,9824.0,GasAGasAGasAGasAGasA,4,0.0,7380.0,54,0
+534,75,RL,60.0,8400,Pave,0,SWISU,1997,Wd Sdng,Wd Sdng,None,0.0,PConc,3.0,1052,720,420,2192,0,0,2,8,8,Detchd,3.0,Y,262,WD ,9,40,3942.0,GasAGasAGasAGasAGasA,4,4.0,720.0,24,69
+535,50,RM,50.0,9000,Pave,0,IDOTRR,1950,Wd Sdng,Wd Sdng,None,0.0,PConc,3.0,780,595,0,1375,0,0,1,6,8,Detchd,3.0,P,0,WD ,12,36,4680.0,GasAGasAGasA,4,4.0,1632.0,288,70
+536,160,RM,21.0,1526,Pave,0,MeadowV,1970,CemntBd,CmentBd,None,0.0,CBlock,3.0,546,546,0,1092,0,0,1,5,8,0,0.0,Y,0,WD ,9,20,3276.0,GasAGasAGasA,3,0.0,0.0,34,36
+537,50,RL,70.0,12392,Pave,0,Crawfor,2000,VinylSd,VinylSd,None,0.0,CBlock,4.0,1218,943,0,2161,1,0,2,8,8,Attchd,3.0,Y,0,WD ,12,63,6297.0,GasAGasAGasAGasAGasA,4,6.0,9108.0,96,58
+538,20,RL,0.0,14217,Pave,0,CollgCr,1994,VinylSd,VinylSd,None,0.0,PConc,3.0,1022,0,0,1022,0,1,1,6,8,Detchd,3.0,Y,0,WD ,9,25,8726.0,GasAGasAGasAGasA,3,0.0,4482.0,0,13
+539,120,RH,33.0,4113,Pave,0,NAmes,2001,MetalSd,MetalSd,None,0.0,PConc,3.0,1337,0,0,1337,0,0,2,5,8,Attchd,3.0,Y,136,WD ,12,30,21392.0,GasAGasAGasAGasAGasA,4,3.0,9198.0,68,6
+540,80,RL,80.0,8816,Pave,0,ClearCr,1971,HdBoard,HdBoard,BrkFace,80.0,CBlock,3.0,1052,0,0,1052,1,0,1,6,8,Attchd,3.0,Y,0,WD ,9,42,16668.0,GasAGasAGasAGasA,3,0.0,2640.0,0,39
+541,20,RL,71.0,9353,Pave,0,NAmes,1970,MetalSd,MetalSd,None,0.0,CBlock,3.0,864,0,0,864,0,0,1,5,8,Attchd,3.0,Y,0,Oth,9,20,5184.0,GasAGasAGasAGasA,3,0.0,840.0,0,36
+542,180,RM,21.0,1477,Pave,0,MeadowV,1970,CemntBd,CmentBd,None,0.0,CBlock,3.0,630,0,0,630,1,0,1,3,8,Attchd,3.0,Y,0,WD ,9,16,12066.0,GasAGasAGasA,3,0.0,858.0,0,39
+543,120,RM,62.0,6710,Pave,0,Mitchel,1997,VinylSd,VinylSd,BrkFace,134.0,PConc,3.0,936,0,0,936,2,0,0,3,8,Attchd,3.0,Y,0,WD ,9,30,19272.0,GasAGasAGasAGasAGasA,3,0.0,8280.0,40,11
+544,60,RL,82.0,11287,Pave,0,SawyerW,1989,Plywood,Plywood,BrkFace,340.0,CBlock,3.0,1175,807,0,1982,0,0,2,7,8,Attchd,3.0,Y,0,WD ,12,42,16842.0,GasAGasAGasAGasA,4,3.0,10350.0,280,18
+545,60,RL,99.0,12099,Pave,0,NridgHt,2004,VinylSd,VinylSd,BrkFace,388.0,PConc,3.0,1136,1332,0,2468,1,0,2,10,8,BuiltIn,3.0,Y,184,WD ,12,40,25350.0,GasAGasAGasAGasAGasA,4,4.0,23544.0,154,3
+546,60,RL,75.0,9750,Pave,0,CollgCr,1998,VinylSd,VinylSd,None,0.0,PConc,3.0,1108,989,0,2097,1,0,2,8,8,Detchd,3.0,Y,253,WD ,9,42,20742.0,GasAGasAGasAGasAGasA,4,3.0,6996.0,170,8
+547,20,RL,60.0,11556,Pave,0,NAmes,1952,MetalSd,MetalSd,Stone,52.0,CBlock,3.0,882,0,0,882,1,0,1,4,8,Attchd,3.0,Y,0,WD ,9,30,4320.0,GasAGasAGasAGasAGasA,4,0.0,720.0,0,56
+548,160,RM,21.0,1680,Pave,0,BrDale,1972,HdBoard,HdBoard,BrkFace,297.0,CBlock,3.0,483,504,0,987,0,0,1,5,8,Attchd,3.0,Y,0,WD ,9,30,2898.0,GasAGasAGasA,3,1.0,864.0,0,34
+549,20,RL,98.0,12704,Pave,0,NridgHt,2007,VinylSd,VinylSd,Stone,302.0,PConc,3.0,1582,0,0,1582,1,0,2,7,8,Attchd,3.0,Y,209,New,12,40,16832.0,GasAGasAGasAGasAGasA,4,0.0,24435.0,95,1
+550,50,RM,51.0,6120,Pave,0,BrkSide,1950,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,903,378,0,1281,1,0,1,6,8,Detchd,3.0,Y,25,WD ,9,30,5238.0,GasAGasAGasAGasA,4,0.0,2274.0,0,81
+551,75,RL,84.0,9660,Pave,0,NoRidge,1997,HdBoard,HdBoard,BrkFace,1290.0,PConc,3.0,1182,1017,0,2199,0,0,2,9,8,Attchd,3.0,Y,0,WD ,12,40,9384.0,GasAGasAGasAGasAGasA,4,3.0,9288.0,131,11
+552,30,RM,0.0,6120,Pave,0,BrkSide,1995,Plywood,Plywood,None,0.0,CBlock,0.0,808,0,0,808,0,0,1,6,6,Attchd,3.0,P,0,WD ,12,30,0.0,GasAGasAGasAGasA,3,0.0,492.0,48,63
+553,60,RL,0.0,28698,Pave,0,ClearCr,1967,Plywood,Plywood,None,0.0,PConc,4.0,1160,966,0,2126,0,1,2,7,6,Attchd,3.0,Y,486,WD ,9,25,16474.0,GasAGasAGasA,3,0.0,9684.0,225,42
+554,20,RL,91.0,12274,Pave,0,Somerst,2008,VinylSd,VinylSd,Stone,256.0,PConc,3.0,1428,0,0,1428,0,0,2,6,8,Attchd,3.0,Y,0,New,12,35,11336.0,GasAGasAGasAGasAGasA,5,0.0,6648.0,60,0
+555,45,RM,55.0,4388,Pave,0,OldTown,1950,WdShing,Wd Sdng,None,0.0,BrkTil,3.0,840,0,0,840,0,0,1,5,8,0,0.0,N,0,WD ,12,35,3916.0,GasAGasAGasAGasAGasA,3,3.0,0.0,0,77
+556,120,RL,39.0,3869,Pave,0,Edwards,1984,Wd Sdng,Wd Sdng,BrkFace,149.0,CBlock,3.0,1038,0,0,1038,0,0,2,5,8,Attchd,3.0,Y,0,WD ,20,30,8210.0,GasAGasAGasAGasA,3,0.0,1584.0,105,23
+557,160,RL,24.0,2308,Pave,0,NPkVill,1976,Plywood,Brk Cmn,None,0.0,CBlock,3.0,804,744,0,1548,0,0,2,7,8,Detchd,3.0,Y,108,WD ,9,30,6738.0,GasAGasAGasA,3,3.0,5280.0,0,33
+558,50,RM,40.0,4400,Pave,0,OldTown,1950,Stucco,Stucco,None,0.0,BrkTil,3.0,734,384,0,1118,0,0,1,6,8,Detchd,3.0,Y,0,WD ,9,48,2592.0,GasAGasAGasA,3,0.0,2640.0,0,86
+559,70,RL,70.0,14210,Pave,0,Crawfor,1959,Wd Sdng,Wd Sdng,None,0.0,PConc,3.0,1104,697,0,1801,0,0,1,8,8,Attchd,3.0,Y,0,WD ,9,42,4182.0,GasAGasAGasAGasAGasA,3,4.0,1460.0,90,76
+560,20,RL,61.0,9758,Pave,0,NAmes,1971,HdBoard,MetalSd,None,0.0,CBlock,3.0,950,0,0,950,0,0,1,5,8,Detchd,3.0,Y,0,WD ,9,25,5825.0,GasAGasAGasA,3,0.0,840.0,0,36
+561,160,FV,35.0,4017,Pave,Pave,Somerst,2007,MetalSd,MetalSd,None,0.0,PConc,3.0,625,625,0,1250,0,0,2,5,8,Detchd,3.0,Y,0,WD ,12,35,5000.0,GasAGasAGasAGasAGasA,4,0.0,11250.0,54,2
+562,20,RL,105.0,11249,Pave,0,CollgCr,1995,VinylSd,VinylSd,None,0.0,PConc,4.0,1200,0,0,1200,1,0,2,6,8,Attchd,3.0,Y,0,WD ,16,30,9934.0,GasAGasAGasAGasAGasA,4,0.0,6252.0,26,12
+563,80,RL,80.0,9600,Pave,0,NAmes,1967,MetalSd,MetalSd,BrkFace,140.0,PConc,3.0,1141,0,0,1141,1,0,1,6,8,Attchd,3.0,Y,0,WD ,9,35,15718.0,GasAGasAGasAGasA,3,0.0,1704.0,78,39
+564,120,RL,53.0,4043,Pave,0,NPkVill,1977,Plywood,Plywood,None,0.0,CBlock,3.0,1069,0,0,1069,0,0,2,4,8,Attchd,3.0,Y,0,COD,9,36,9111.0,GasAGasAGasA,3,0.0,5280.0,255,31
+565,20,RL,0.0,9200,Pave,0,CollgCr,1980,VinylSd,VinylSd,None,0.0,CBlock,3.0,938,0,0,938,1,0,1,5,8,Detchd,3.0,Y,145,WD ,9,30,15784.0,GasAGasAGasA,3,0.0,924.0,0,33
+566,20,RL,63.0,13072,Pave,0,SawyerW,2004,VinylSd,VinylSd,None,0.0,PConc,3.0,1114,0,0,1114,0,0,1,6,8,0,0.0,Y,0,WD ,9,25,8912.0,GasAGasAGasAGasAGasA,4,0.0,0.0,39,5
+567,120,FV,0.0,3830,Pave,Pave,Somerst,2008,VinylSd,VinylSd,Stone,280.0,PConc,3.0,1726,0,0,1726,0,0,2,6,8,Attchd,3.0,Y,0,New,12,30,13808.0,GasAGasAGasAGasAGasA,4,4.0,10098.0,254,1
+568,45,RL,59.0,7227,Pave,0,NAmes,1954,MetalSd,MetalSd,None,0.0,CBlock,3.0,832,0,0,832,0,0,1,4,8,Detchd,3.0,Y,0,WD ,9,36,4992.0,GasAGasAGasAGasA,4,0.0,3168.0,0,54
+569,70,RL,53.0,7155,Pave,0,Crawfor,1990,Wd Sdng,Wd Sdng,None,0.0,BrkTil,2.0,628,600,0,1228,0,0,1,6,8,Detchd,3.0,Y,0,WD ,9,56,7200.0,GasAGasAGasAGasAGasA,3,4.0,430.0,308,91
+570,20,RL,0.0,11875,Pave,0,Mitchel,1999,VinylSd,VinylSd,None,0.0,PConc,3.0,1344,0,0,1344,0,0,2,7,8,Attchd,3.0,Y,328,WD ,9,25,10752.0,GasAGasAGasAGasAGasA,3,4.0,4116.0,0,11
+571,20,RL,71.0,8540,Pave,0,NAmes,2003,VinylSd,VinylSd,None,0.0,CBlock,3.0,925,0,0,925,1,0,1,5,8,Detchd,3.0,Y,152,WD ,12,40,6932.0,GasAGasAGasA,4,0.0,756.0,0,51
+572,20,RL,64.0,6410,Pave,0,Edwards,1959,AsbShng,AsbShng,None,0.0,CBlock,3.0,876,0,0,876,0,0,1,5,8,Detchd,3.0,Y,0,WD ,9,20,4924.0,GasAGasAGasA,3,0.0,960.0,0,50
+573,85,RL,82.0,11105,Pave,0,CollgCr,1996,VinylSd,VinylSd,None,0.0,PConc,2.0,965,0,0,965,1,0,1,4,8,Attchd,3.0,Y,71,WD ,12,25,15660.0,GasAGasAGasAGasA,3,0.0,4640.0,0,14
+574,20,RL,90.0,13200,Pave,0,NAmes,1958,Wd Sdng,Wd Sdng,BrkFace,187.0,CBlock,3.0,1570,0,0,1570,1,0,1,5,8,Attchd,3.0,Y,490,WD ,9,36,7412.0,GasAGasAGasAGasAGasA,3,3.0,5292.0,0,50
+575,30,RM,50.0,7000,Pave,0,IDOTRR,1998,VinylSd,VinylSd,None,0.0,BrkTil,3.0,919,0,0,919,1,0,1,5,8,Detchd,3.0,P,0,WD ,12,48,5484.0,GasAGasAGasA,3,0.0,585.0,0,82
+576,20,RL,80.0,11040,Pave,0,NWAmes,2004,VinylSd,VinylSd,BrkFace,144.0,CBlock,3.0,1258,0,0,1258,0,1,2,5,8,Attchd,3.0,Y,55,COD,16,42,8860.0,GasAGasAGasAGasAGasA,4,0.0,6336.0,216,37
+577,120,RM,0.0,4426,Pave,0,CollgCr,2004,VinylSd,VinylSd,BrkFace,169.0,PConc,3.0,848,0,0,848,1,0,1,3,8,Attchd,3.0,Y,160,WD ,12,30,16380.0,GasAGasAGasAGasAGasA,4,0.0,5040.0,0,6
+578,60,RL,99.0,16779,Pave,0,Sawyer,1996,Wd Sdng,Wd Sdng,BrkFace,356.0,CBlock,3.0,1567,1087,0,2654,0,0,3,11,5,Attchd,3.0,Y,128,WD ,6,20,5368.0,GasAGasA,3,4.0,3828.0,570,87
+579,50,RM,60.0,10440,Pave,Grvl,OldTown,1981,Wd Sdng,Wd Sdng,None,0.0,PConc,3.0,682,548,0,1230,0,0,1,5,8,Detchd,3.0,Y,74,WD ,9,30,2640.0,GasAGasAGasAGasA,3,0.0,2640.0,0,99
+580,50,RL,60.0,10836,Pave,Grvl,OldTown,1950,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,1254,182,0,1436,0,1,1,7,8,Detchd,3.0,N,0,WD ,9,25,5352.0,GasAGasAGasAGasAGasA,3,4.0,11904.0,0,86
+581,20,RL,80.0,13384,Pave,0,Mitchel,1979,Plywood,Plywood,BrkFace,194.0,PConc,3.0,1360,0,0,1360,1,0,1,8,8,Attchd,3.0,Y,160,WD ,9,25,17438.0,GasAGasA,3,3.0,2016.0,0,37
+582,60,RL,42.0,13751,Pave,0,Gilbert,2006,VinylSd,VinylSd,BrkFace,248.0,PConc,3.0,1700,512,0,2212,1,0,2,9,8,Attchd,3.0,Y,237,New,12,35,40440.0,GasAGasAGasAGasAGasA,4,4.0,20871.0,153,1
+583,30,RM,56.0,4480,Pave,0,OldTown,1950,AsbShng,AsbShng,None,0.0,PConc,2.0,1022,0,0,1022,1,0,1,4,8,Detchd,2.0,N,0,WD ,9,25,4088.0,GasAGasAGasA,2,4.0,552.0,122,85
+584,20,RL,0.0,11382,Pave,0,NAmes,1964,Wd Sdng,Plywood,BrkFace,212.0,CBlock,3.0,1374,0,0,1374,0,1,1,7,8,Attchd,3.0,Y,0,WD ,9,30,6888.0,GasAGasAGasA,3,3.0,1716.0,28,43
+585,20,RL,76.0,9120,Pave,0,NAmes,1958,MetalSd,MetalSd,None,0.0,CBlock,3.0,1261,0,0,1261,1,0,1,6,8,Attchd,3.0,Y,0,WD ,9,36,8890.0,GasAGasAGasAGasAGasA,3,3.0,5196.0,288,50
+586,85,RL,88.0,11782,Pave,0,Sawyer,1995,HdBoard,HdBoard,None,0.0,CBlock,3.0,1155,0,0,1155,1,0,1,6,6,Detchd,3.0,Y,192,WD ,9,35,16366.0,GasAGasAGasA,4,0.0,3456.0,0,49
+587,20,RL,85.0,6970,Pave,0,Sawyer,1961,VinylSd,VinylSd,None,0.0,CBlock,3.0,1120,0,0,1120,1,0,1,5,8,Attchd,3.0,Y,168,WD ,9,20,8104.0,GasAGasAGasA,2,0.0,6528.0,0,46
+588,20,RL,77.0,11422,Pave,0,CollgCr,2008,VinylSd,VinylSd,Stone,352.0,PConc,3.0,1838,0,0,1838,1,0,2,7,8,Attchd,3.0,Y,154,WD ,12,40,42909.0,GasAGasAGasAGasAGasA,4,8.0,6288.0,222,2
+589,20,FV,80.0,8000,Pave,0,Somerst,2002,VinylSd,VinylSd,None,0.0,PConc,3.0,1492,0,0,1492,1,0,2,6,8,Attchd,3.0,Y,277,WD ,12,35,13602.0,GasAGasAGasAGasAGasA,4,4.0,7152.0,137,8
+590,50,RM,90.0,15660,Pave,0,OldTown,2003,VinylSd,VinylSd,None,0.0,CBlock,3.0,810,496,0,1306,0,0,1,6,8,Detchd,3.0,N,0,WD ,12,40,1440.0,GasAGasAGasA,4,0.0,1888.0,0,99
+591,85,RL,50.0,6723,Pave,0,Mitchel,1971,Wd Sdng,HdBoard,None,0.0,CBlock,3.0,796,0,0,796,0,1,1,5,8,0,0.0,Y,129,WD ,9,35,14328.0,GasAGasAGasA,3,0.0,0.0,0,36
+592,20,RL,75.0,7875,Pave,0,NAmes,1961,VinylSd,VinylSd,BrkFace,136.0,CBlock,3.0,1144,0,0,1144,1,0,1,6,8,Attchd,3.0,Y,0,WD ,9,30,6864.0,GasAGasAGasAGasA,3,0.0,2736.0,0,47
+593,50,RL,0.0,9144,Pave,Pave,BrkSide,1982,MetalSd,MetalSd,None,0.0,CBlock,3.0,988,517,0,1505,1,0,1,8,8,Detchd,3.0,N,0,WD ,9,25,5298.0,GasAGasAGasAGasA,3,0.0,720.0,0,68
+594,20,RL,85.0,14601,Pave,0,Timber,2006,VinylSd,VinylSd,BrkFace,584.0,PConc,3.0,1838,0,0,1838,1,0,2,8,8,Attchd,3.0,Y,270,WD ,15,45,43800.0,GasAGasAGasAGasAGasA,5,4.0,20655.0,68,3
+595,60,RL,0.0,12732,Pave,0,NWAmes,1974,VinylSd,VinylSd,None,0.0,CBlock,3.0,1285,782,0,2067,0,0,2,7,8,Attchd,3.0,Y,297,WD ,9,42,8856.0,GasAGasAGasA,4,6.0,9408.0,40,35
+596,70,RM,60.0,6000,Pave,Grvl,OldTown,2005,MetalSd,MetalSd,None,0.0,BrkTil,3.0,884,656,0,1540,0,0,1,7,8,0,0.0,N,240,WD ,12,45,2288.0,GasAGasAGasAGasAGasA,4,0.0,0.0,77,103
+597,20,RL,60.0,6600,Pave,0,Mitchel,2003,HdBoard,HdBoard,None,0.0,PConc,4.0,816,0,0,816,1,0,1,4,8,Detchd,3.0,Y,0,WD ,12,40,7344.0,GasAGasAGasAGasAGasA,3,0.0,14688.0,0,26
+598,90,RM,110.0,8472,Grvl,0,IDOTRR,1963,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,816,0,0,816,1,0,1,5,8,CarPort,3.0,Y,106,WD ,6,25,17536.0,GasAGasAGasA,3,0.0,3096.0,0,47
+599,20,RL,96.0,12469,Pave,0,NridgHt,2007,VinylSd,VinylSd,Stone,378.0,PConc,3.0,1816,0,0,1816,1,0,2,7,8,Attchd,3.0,Y,186,New,15,45,55486.0,GasAGasAGasAGasAGasA,5,4.0,19710.0,36,1
+600,50,RM,52.0,6240,Pave,0,BrkSide,1992,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,1014,412,0,1426,0,0,1,6,8,Detchd,3.0,Y,174,WD ,9,35,5796.0,GasAGasAGasAGasAGasA,3,4.0,460.0,0,77
+601,60,RL,0.0,11250,Pave,0,CollgCr,2001,VinylSd,VinylSd,None,0.0,PConc,3.0,944,926,0,1870,0,0,2,6,8,Attchd,3.0,Y,256,WD ,12,35,7552.0,GasAGasAGasAGasAGasA,4,0.0,7296.0,43,8
+602,20,RL,97.0,11800,Pave,0,CollgCr,1974,HdBoard,HdBoard,None,0.0,CBlock,3.0,894,0,0,894,0,0,1,5,8,Attchd,3.0,Y,0,WD ,9,25,15432.0,GasAGasAGasA,3,0.0,2640.0,0,33
+603,60,RL,0.0,18800,Pave,0,NWAmes,1976,HdBoard,HdBoard,BrkFace,120.0,PConc,3.0,790,784,0,1574,1,0,2,6,8,Attchd,3.0,Y,306,WD ,9,30,11312.0,GasAGasAGasA,3,3.0,10188.0,111,30
+604,120,RL,53.0,4045,Pave,0,Blmngtn,2006,VinylSd,VinylSd,BrkFace,45.0,PConc,3.0,1500,0,0,1500,1,0,2,6,8,Attchd,3.0,Y,161,New,12,35,26124.0,GasAGasAGasAGasAGasA,4,4.0,17496.0,20,0
+605,45,RL,55.0,10594,Pave,0,Crawfor,1950,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,789,0,0,789,0,0,1,5,8,Detchd,1.0,Y,0,WD ,9,25,4608.0,GravGrav,3,0.0,200.0,0,81
+606,190,RM,50.0,6000,Pave,0,OldTown,1955,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,960,0,0,960,1,0,1,5,8,Detchd,3.0,Y,0,WD ,9,35,15552.0,GasAGasAGasA,3,0.0,3456.0,0,51
+607,20,RL,70.0,8400,Pave,0,NAmes,1970,Plywood,Plywood,None,0.0,CBlock,3.0,882,0,0,882,1,0,1,4,8,Attchd,3.0,Y,240,WD ,9,20,6900.0,GasAGasAGasA,3,0.0,9450.0,0,40
+608,20,RL,83.0,10420,Pave,0,Edwards,2009,VinylSd,VinylSd,None,0.0,PConc,3.0,1212,0,0,1212,0,0,2,6,8,Attchd,3.0,Y,100,WD ,9,30,19320.0,GasAGasAGasAGasAGasA,4,0.0,5520.0,22,1
+609,50,RH,70.0,6300,Pave,Pave,SWISU,1950,MetalSd,MetalSd,BrkFace,88.0,PConc,2.0,832,436,0,1268,0,0,1,7,8,Basment,3.0,Y,0,WD ,9,20,4160.0,GasAGasAGasA,3,8.0,750.0,0,71
+610,50,RL,60.0,12180,Pave,0,Edwards,2007,Wd Sdng,Wd Sdng,None,0.0,PConc,3.0,585,468,0,1053,0,0,1,5,8,0,0.0,N,42,WD ,9,35,3510.0,GasAGasAGasAGasA,5,0.0,0.0,0,70
+611,60,RL,77.0,9965,Pave,0,CollgCr,2007,VinylSd,VinylSd,Stone,340.0,PConc,3.0,1466,1362,0,2828,1,0,3,11,8,BuiltIn,3.0,Y,125,New,12,40,42540.0,GasAGasAGasAGasAGasA,4,3.0,18936.0,144,1
+612,20,RL,0.0,8696,Pave,0,CollgCr,1998,VinylSd,VinylSd,BrkFace,150.0,PConc,3.0,1418,0,0,1418,1,0,2,5,8,Attchd,3.0,Y,208,WD ,9,35,32296.0,GasAGasAGasAGasAGasA,4,3.0,6696.0,110,11
+613,20,RL,126.0,13108,Pave,0,Crawfor,1951,Wd Sdng,Wd Sdng,None,0.0,CBlock,0.0,1226,0,0,1226,0,0,1,7,7,Attchd,3.0,Y,174,WD ,9,25,0.0,GasAGasA,3,4.0,7200.0,252,56
+614,50,RL,60.0,8064,Pave,0,NAmes,1950,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,819,501,0,1320,0,0,2,5,8,Detchd,3.0,Y,108,WD ,9,36,5238.0,GasAGasAGasAGasAGasA,3,0.0,3456.0,0,60
+615,30,RM,51.0,6120,Pave,0,BrkSide,1950,AsbShng,AsbShng,None,0.0,BrkTil,2.0,800,0,0,800,0,0,1,4,4,0,0.0,N,0,ConLw,4,6,1584.0,GravGrav,2,1.0,0.0,0,73
+616,20,RL,73.0,8899,Pave,0,Gilbert,2007,VinylSd,VinylSd,None,0.0,PConc,3.0,1340,0,0,1340,0,0,2,6,8,Attchd,3.0,Y,100,New,12,35,32016.0,GasAGasAGasAGasAGasA,4,0.0,7128.0,30,0
+617,60,RL,67.0,10566,Pave,0,CollgCr,1999,VinylSd,VinylSd,BrkFace,261.0,PConc,3.0,1090,1124,0,2214,1,0,2,8,8,Attchd,3.0,Y,197,WD ,12,40,20640.0,GasAGasAGasAGasAGasA,4,3.0,17442.0,80,7
+618,90,RL,74.0,6882,Pave,0,Edwards,1955,AsbShng,Plywood,BrkCmn,128.0,PConc,0.0,1152,0,0,1152,0,0,2,6,8,0,0.0,N,0,WD ,9,12,0.0,GasAGasAGasA,4,0.0,0.0,0,52
+619,80,RL,0.0,7750,Pave,0,Gilbert,2000,VinylSd,VinylSd,None,0.0,PConc,3.0,774,656,0,1430,0,0,2,7,8,BuiltIn,3.0,Y,180,WD ,9,35,3572.0,GasAGasAGasAGasAGasA,3,3.0,7200.0,0,10
+620,20,RL,64.0,7314,Pave,0,CollgCr,2007,VinylSd,VinylSd,Stone,82.0,PConc,3.0,1232,0,0,1232,1,0,2,6,8,Attchd,3.0,Y,132,WD ,12,35,25224.0,GasAGasAGasAGasAGasA,4,0.0,7584.0,0,2
+621,90,RL,64.0,7018,Pave,0,SawyerW,1979,HdBoard,HdBoard,None,0.0,Slab,0.0,1535,0,0,1535,0,0,2,8,8,Attchd,3.0,Y,0,WD ,6,25,0.0,GasAGasAGasA,6,0.0,2460.0,0,30
+622,50,RL,60.0,7200,Pave,0,NAmes,1982,VinylSd,Wd Sdng,None,0.0,CBlock,3.0,1136,768,0,1904,1,0,1,7,7,Attchd,3.0,Y,0,WD ,9,20,7600.0,GasAGasAGasAGasA,3,0.0,720.0,0,59
+623,190,RL,65.0,8450,Pave,0,Sawyer,1968,HdBoard,HdBoard,None,0.0,CBlock,2.0,890,0,0,890,1,0,1,5,8,Detchd,3.0,Y,0,WD ,9,25,9790.0,GasAGasAGasAGasA,3,0.0,924.0,0,40
+624,75,RM,60.0,6000,Pave,0,OldTown,2005,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,728,728,0,1456,0,0,1,7,8,Detchd,2.0,N,0,WD ,12,42,4368.0,GasAGasAGasAGasA,4,0.0,616.0,0,93
+625,90,RH,60.0,8400,Pave,0,SawyerW,1977,Plywood,Plywood,BrkFace,320.0,Slab,0.0,2020,0,0,2020,0,0,2,10,8,Detchd,3.0,Y,0,WD ,9,25,0.0,GasAGasAGasA,6,6.0,3780.0,0,30
+626,60,RL,70.0,8145,Pave,0,CollgCr,2007,VinylSd,VinylSd,None,0.0,PConc,3.0,738,738,0,1476,0,0,2,7,8,Attchd,3.0,Y,0,New,12,35,5904.0,GasAGasAGasAGasAGasA,4,0.0,6624.0,35,0
+627,20,RL,80.0,8892,Pave,0,NAmes,1960,MetalSd,MetalSd,BrkCmn,66.0,CBlock,3.0,1065,0,0,1065,0,0,1,6,8,Detchd,3.0,Y,74,COD,9,25,6390.0,GasAGasAGasAGasA,3,0.0,2766.0,0,47
+628,120,RL,28.0,7296,Pave,0,StoneBr,2005,CemntBd,CmentBd,None,0.0,PConc,3.0,2522,0,0,2522,1,0,2,8,8,Attchd,3.0,Y,182,WD ,12,40,48555.0,GasAGasAGasAGasAGasA,4,4.0,10152.0,57,5
+629,20,RL,63.0,13072,Pave,0,SawyerW,2006,VinylSd,VinylSd,None,0.0,PConc,3.0,1131,0,0,1131,0,0,1,6,8,0,0.0,Y,0,New,9,30,9048.0,GasAGasAGasAGasAGasA,4,0.0,0.0,39,1
+630,90,RL,78.0,15600,Pave,0,Crawfor,1991,VinylSd,VinylSd,BrkFace,430.0,CBlock,3.0,1102,1075,0,2177,0,0,2,11,8,Detchd,3.0,Y,0,WD ,12,30,6942.0,GasAGasAGasAGasAGasA,6,0.0,2904.0,0,60
+631,50,RL,50.0,9638,Pave,0,SWISU,1990,Wd Sdng,Wd Shng,None,0.0,PConc,3.0,1699,748,0,2447,0,0,2,10,6,Detchd,3.0,Y,272,WD ,9,42,4824.0,GasAGasAGasAGasAGasA,4,4.0,1008.0,116,91
+632,20,RL,36.0,15523,Pave,0,CollgCr,1972,HdBoard,Plywood,None,0.0,CBlock,3.0,864,0,0,864,1,0,1,5,8,Attchd,3.0,Y,0,WD ,9,30,13252.0,GasAGasAGasAGasAGasA,3,2.0,1014.0,0,37
+633,30,RL,45.0,8212,Pave,Grvl,Edwards,1950,Stucco,Stucco,None,0.0,BrkTil,2.0,864,0,0,864,1,0,1,5,8,Detchd,2.0,Y,0,WD ,6,9,5184.0,GasAGasAGasA,3,0.0,600.0,0,96
+634,80,RL,73.0,9735,Pave,0,Timber,2007,VinylSd,VinylSd,None,0.0,PConc,3.0,754,640,0,1394,0,0,2,7,8,BuiltIn,3.0,Y,100,WD ,9,25,3072.0,GasAGasAGasAGasA,4,0.0,7200.0,0,2
+635,160,FV,0.0,2980,Pave,0,Somerst,2000,MetalSd,MetalSd,BrkFace,1159.0,PConc,3.0,756,756,0,1512,1,0,2,5,8,Detchd,3.0,Y,0,WD ,12,30,6980.0,GasAGasAGasAGasAGasA,4,0.0,2640.0,32,10
+636,160,RM,24.0,2522,Pave,0,Edwards,2006,VinylSd,VinylSd,Stone,50.0,PConc,3.0,970,739,0,1709,0,0,2,7,4,Detchd,3.0,Y,0,WD ,12,30,7760.0,GasAGasAGasAGasAGasA,4,0.0,2280.0,40,2
+637,20,RL,80.0,10400,Pave,0,NWAmes,1976,HdBoard,HdBoard,BrkFace,120.0,CBlock,3.0,1444,0,0,1444,0,0,2,5,8,Attchd,3.0,Y,0,WD ,9,30,8664.0,GasAGasAGasA,3,4.0,2838.0,24,32
+638,20,RL,80.0,10800,Pave,0,NAmes,1960,Wd Sdng,Wd Sdng,BrkFace,88.0,CBlock,3.0,1248,0,0,1248,1,0,1,6,8,Attchd,3.0,Y,0,WD ,9,35,8752.0,GasAGasAGasAGasAGasA,3,0.0,858.0,0,46
+639,70,RM,60.0,10440,Pave,Grvl,OldTown,2002,MetalSd,MetalSd,None,0.0,PConc,3.0,958,581,0,1539,0,0,2,8,8,Detchd,3.0,P,70,WD ,9,40,3900.0,GasAGasAGasAGasA,4,1.0,5488.0,78,104
+640,20,RL,89.0,12898,Pave,0,Timber,2008,VinylSd,VinylSd,Stone,70.0,PConc,3.0,1620,0,0,1620,1,0,2,6,8,Attchd,3.0,Y,228,WD ,12,45,50492.0,GasAGasAGasAGasAGasA,5,5.0,24624.0,0,2
+641,85,RL,74.0,8740,Pave,0,Sawyer,1982,HdBoard,HdBoard,None,0.0,CBlock,3.0,860,0,0,860,1,0,1,4,8,Detchd,3.0,Y,0,WD ,9,30,12432.0,GasAGasAGasA,3,0.0,3168.0,0,27
+642,20,FV,84.0,10440,Pave,0,Somerst,2005,VinylSd,VinylSd,None,0.0,PConc,3.0,1468,0,0,1468,1,0,2,6,8,Attchd,3.0,Y,0,WD ,12,30,16094.0,GasAGasAGasAGasAGasA,4,4.0,9504.0,318,5
+643,20,RL,89.0,10991,Pave,0,Timber,2007,VinylSd,VinylSd,BrkFace,80.0,PConc,3.0,1571,0,0,1571,0,0,2,7,8,Attchd,3.0,Y,100,New,12,40,50272.0,GasAGasAGasAGasAGasA,4,4.0,19494.0,36,0
+644,85,RL,0.0,8723,Pave,0,NWAmes,1969,HdBoard,HdBoard,None,0.0,PConc,3.0,1082,0,0,1082,1,0,1,6,8,Attchd,3.0,Y,160,WD ,9,36,15568.0,GasAGasAGasAGasAGasA,3,0.0,2880.0,0,38
+645,30,RM,50.0,7030,Pave,0,IDOTRR,1950,MetalSd,MetalSd,None,0.0,BrkTil,3.0,641,0,0,641,0,0,1,4,8,Detchd,3.0,N,184,WD ,9,24,3846.0,GasAGasAGasAGasA,2,0.0,816.0,0,81
+646,60,RL,0.0,9375,Pave,0,CollgCr,2002,VinylSd,VinylSd,BrkFace,149.0,PConc,3.0,1284,885,0,2169,0,0,2,7,8,Attchd,3.0,Y,192,WD ,12,40,10272.0,GasAGasAGasAGasAGasA,4,4.0,7764.0,87,5
+647,160,FV,24.0,2572,Pave,0,Somerst,1999,MetalSd,MetalSd,None,0.0,PConc,3.0,696,720,0,1416,1,0,2,6,8,Detchd,3.0,Y,0,WD ,12,35,6172.0,GasAGasAGasAGasAGasA,4,0.0,2904.0,44,11
+648,180,RM,35.0,3675,Pave,0,Edwards,2005,VinylSd,VinylSd,BrkFace,80.0,PConc,3.0,1072,0,0,1072,1,0,1,5,8,Basment,3.0,Y,0,WD ,9,30,12914.0,GasAGasAGasAGasAGasA,3,0.0,6300.0,28,3
+649,60,RL,0.0,24682,Pave,0,Gilbert,1999,VinylSd,VinylSd,None,0.0,PConc,3.0,892,783,0,1675,0,0,2,7,8,BuiltIn,3.0,Y,0,WD ,9,30,6728.0,GasAGasAGasAGasAGasA,3,3.0,9036.0,103,10
+650,20,RL,81.0,7635,Pave,0,NAmes,1960,BrkFace,Wd Sdng,None,0.0,CBlock,3.0,1175,0,0,1175,0,0,1,6,8,Detchd,3.0,Y,0,WD ,9,30,6700.0,GasAGasAGasAGasAGasA,3,0.0,5808.0,0,50
+651,20,RL,90.0,5400,Pave,0,OldTown,2000,MetalSd,MetalSd,None,0.0,CBlock,3.0,833,0,0,833,0,0,1,4,8,Detchd,3.0,Y,0,WD ,12,35,4998.0,GasAGasAGasAGasAGasA,4,0.0,978.0,0,52
+652,45,RM,58.0,6380,Pave,0,BrkSide,1950,MetalSd,MetalSd,None,0.0,BrkTil,2.0,1048,0,0,1048,0,0,1,5,8,Detchd,3.0,Y,0,WD ,9,30,5958.0,GasAGasAGasA,3,4.0,840.0,0,84
+653,20,RL,65.0,9750,Pave,0,NAmes,1969,HdBoard,HdBoard,None,0.0,CBlock,3.0,1054,0,0,1054,1,0,1,6,8,Attchd,3.0,Y,180,WD ,9,48,8158.0,GasAGasAGasAGasA,3,0.0,2760.0,80,39
+654,20,RL,0.0,6627,Pave,0,BrkSide,1950,VinylSd,VinylSd,None,0.0,CBlock,0.0,720,0,0,720,0,0,1,4,8,Detchd,2.0,Y,0,WD ,9,18,0.0,FloorFloorFloor,3,0.0,861.0,0,59
+655,70,RL,60.0,7200,Pave,Grvl,OldTown,1950,MetalSd,MetalSd,None,0.0,CBlock,3.0,774,821,0,1595,0,0,2,7,8,Detchd,3.0,Y,49,WD ,15,48,3978.0,GasAGasAGasAGasAGasA,3,4.0,3168.0,0,91
+656,60,RL,65.0,8200,Pave,0,CollgCr,2004,VinylSd,VinylSd,None,0.0,PConc,3.0,847,1081,0,1928,0,0,2,8,8,BuiltIn,3.0,Y,100,WD ,12,35,6776.0,GasAGasAGasAGasAGasA,4,4.0,7812.0,48,4
+657,90,RM,57.0,10307,Pave,Grvl,OldTown,1950,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,972,972,0,1944,1,0,2,12,8,Detchd,3.0,N,0,WD ,9,30,9132.0,GasAGasAGasAGasA,6,0.0,1296.0,28,99
+658,60,RL,81.0,10944,Pave,0,NoRidge,1994,VinylSd,VinylSd,BrkFace,448.0,PConc,3.0,1223,904,0,2127,1,0,2,5,8,Attchd,3.0,Y,171,WD ,12,35,11784.0,GasAGasAGasAGasAGasA,4,6.0,6300.0,132,14
+659,80,RL,120.0,19296,Pave,0,NAmes,1962,Wd Sdng,Wd Sdng,BrkFace,399.0,CBlock,3.0,1382,0,0,1382,1,0,1,6,8,Attchd,3.0,Y,0,WD ,9,30,21810.0,GasAGasAGasA,3,3.0,5304.0,0,47
+660,80,RL,0.0,10395,Pave,0,NWAmes,1978,HdBoard,HdBoard,BrkFace,233.0,CBlock,3.0,1032,0,0,1032,0,1,2,6,8,Attchd,3.0,Y,0,WD ,9,36,20533.0,GasAGasAGasA,3,3.0,3384.0,0,29
+661,50,RL,104.0,23920,Pave,0,SawyerW,1984,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,1105,717,0,1822,0,0,2,7,6,Attchd,3.0,P,0,WD ,9,30,6630.0,GasAGasAGasAGasAGasA,4,1.0,3090.0,195,23
+662,20,RL,85.0,11050,Pave,0,NWAmes,1968,HdBoard,HdBoard,None,0.0,CBlock,3.0,1740,0,0,1740,0,0,1,8,8,Attchd,3.0,Y,25,WD ,9,30,10440.0,GasAGasA,3,3.0,6144.0,192,40
+663,60,RL,0.0,16659,Pave,0,NWAmes,1994,Plywood,Plywood,BrkFace,34.0,CBlock,3.0,1468,795,0,2263,1,0,2,9,8,Attchd,3.0,Y,0,WD ,9,49,6360.0,GasAGasA,4,3.0,9702.0,250,29
+664,60,RL,108.0,13418,Pave,0,NridgHt,2006,VinylSd,VinylSd,BrkFace,270.0,PConc,3.0,1850,898,0,2748,1,0,2,9,8,BuiltIn,3.0,Y,212,WD ,12,45,54120.0,GasAGasAGasAGasAGasA,5,4.0,22950.0,182,2
+665,60,RL,133.0,11003,Pave,0,CollgCr,2006,VinylSd,VinylSd,None,0.0,PConc,3.0,1308,568,0,1876,0,0,2,7,8,BuiltIn,3.0,Y,0,New,12,35,10464.0,GasAGasAGasAGasAGasA,4,0.0,15264.0,40,1
+666,50,RL,68.0,9724,Pave,0,NAmes,2002,MetalSd,MetalSd,BrkFace,265.0,CBlock,3.0,1929,532,0,2461,0,0,2,7,6,Detchd,3.0,Y,0,WD ,12,35,6170.0,GasAGasAGasAGasA,3,8.0,2400.0,0,58
+667,90,RL,64.0,7804,Pave,0,SWISU,1950,Stucco,Stucco,None,0.0,BrkTil,3.0,960,960,0,1920,2,0,2,10,8,Detchd,3.0,Y,248,WD ,9,42,6322.0,GasAGasAGasAGasAGasA,6,8.0,2880.0,0,78
+668,20,RL,160.0,20000,Pave,0,Mitchel,1996,VinylSd,VinylSd,None,0.0,CBlock,3.0,1224,0,0,1224,1,0,1,7,8,Detchd,3.0,Y,474,WD ,9,35,9792.0,GasAGasAGasAGasAGasA,3,3.0,3456.0,0,46
+669,20,RL,80.0,10386,Pave,0,CollgCr,2005,CemntBd,CmentBd,Stone,246.0,PConc,3.0,2000,0,0,2000,1,0,2,8,8,Attchd,3.0,Y,168,WD ,12,40,18928.0,GasAGasAGasAGasAGasA,4,0.0,23976.0,0,3
+670,20,FV,72.0,8640,Pave,0,Somerst,2008,VinylSd,VinylSd,None,0.0,PConc,3.0,1372,0,0,1372,0,0,2,6,8,Attchd,3.0,Y,192,New,12,40,10952.0,GasAGasAGasAGasAGasA,4,0.0,7056.0,113,1
+671,160,FV,32.0,2880,Pave,Pave,Somerst,2005,MetalSd,MetalSd,None,0.0,PConc,3.0,1376,1629,0,3005,0,0,2,9,5,BuiltIn,3.0,Y,0,WD ,12,35,11008.0,GasAGasAGasAGasAGasA,4,3.0,19008.0,177,5
+672,60,RL,0.0,11949,Pave,0,NoRidge,2008,VinylSd,VinylSd,BrkFace,196.0,PConc,3.0,975,780,0,1755,0,1,2,7,8,Attchd,3.0,Y,502,WD ,16,56,9218.0,GasAGasAGasAGasAGasA,4,3.0,3144.0,60,18
+673,50,RL,0.0,7010,Pave,0,BrkSide,1950,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,1144,594,0,1738,0,0,2,6,8,Detchd,3.0,P,0,WD ,9,25,6144.0,GasAGasAGasA,3,4.0,720.0,30,73
+674,85,RL,62.0,10441,Pave,0,Mitchel,1992,HdBoard,Wd Shng,None,0.0,PConc,3.0,970,0,0,970,0,1,1,6,8,0,0.0,Y,80,WD ,9,25,19866.0,GasAGasAGasA,3,0.0,0.0,32,14
+675,20,RL,85.0,10200,Pave,0,NAmes,2003,Wd Sdng,Wd Sdng,BrkFace,104.0,CBlock,3.0,1086,0,0,1086,1,0,1,6,8,Attchd,3.0,Y,0,WD ,9,35,7518.0,GasAGasAGasAGasA,3,0.0,2940.0,0,56
+676,50,RL,60.0,11409,Pave,0,Edwards,2008,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,1148,568,0,1716,0,0,1,8,6,Attchd,3.0,Y,0,WD ,9,20,4316.0,GasAGasAGasAGasA,3,4.0,843.0,160,60
+677,160,RM,0.0,1974,Pave,0,MeadowV,1973,CemntBd,CmentBd,None,0.0,CBlock,3.0,546,546,0,1092,0,0,1,6,8,Attchd,3.0,Y,120,WD ,9,20,3610.0,GasAGasAGasA,3,0.0,1716.0,96,37
+678,50,RL,66.0,21780,Pave,0,Crawfor,1950,Wd Sdng,Wd Shng,None,0.0,PConc,2.0,940,610,0,1550,0,0,1,7,6,Detchd,3.0,P,0,WD ,9,30,4902.0,GasAGasAGasAGasA,3,3.0,954.0,0,86
+679,20,RL,60.0,7200,Pave,0,CollgCr,1972,HdBoard,HdBoard,None,0.0,CBlock,3.0,780,0,0,780,0,0,1,4,8,Detchd,3.0,Y,196,WD ,9,35,11512.0,GasAGasAGasAGasAGasA,3,0.0,1056.0,0,36
+680,60,RL,100.0,12191,Pave,0,NoRidge,1998,VinylSd,VinylSd,BrkFace,515.0,PConc,3.0,1779,772,0,2551,1,0,2,8,8,Attchd,3.0,Y,76,WD ,12,40,35610.0,GasAGasAGasAGasAGasA,4,6.0,24975.0,61,10
+681,20,RL,108.0,11358,Pave,0,NWAmes,1987,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,1610,0,0,1610,0,0,2,8,8,Attchd,3.0,Y,202,WD ,9,49,7090.0,GasAGasAGasA,4,3.0,6180.0,256,35
+682,60,RL,59.0,9649,Pave,0,Gilbert,2000,VinylSd,VinylSd,None,0.0,PConc,3.0,961,683,0,1644,0,0,2,7,8,Attchd,3.0,Y,460,WD ,9,30,7528.0,GasAGasAGasAGasAGasA,3,3.0,5520.0,42,8
+683,20,RL,75.0,11957,Pave,0,Somerst,2006,VinylSd,VinylSd,BrkFace,53.0,PConc,3.0,1574,0,0,1574,0,0,2,7,8,Attchd,3.0,Y,144,WD ,12,40,12640.0,GasAGasAGasAGasAGasA,4,4.0,14832.0,104,2
+684,60,RL,0.0,11613,Pave,0,SawyerW,1997,VinylSd,VinylSd,None,0.0,PConc,3.0,920,900,0,1820,0,0,2,7,8,Attchd,3.0,Y,144,WD ,12,30,7392.0,GasAGasAGasAGasAGasA,4,0.0,5904.0,85,14
+685,60,RL,80.0,9600,Pave,0,NWAmes,1971,MetalSd,MetalSd,None,0.0,CBlock,3.0,930,715,0,1645,0,0,1,7,8,Attchd,3.0,Y,0,WD ,9,36,4948.0,GasAGasAGasA,3,0.0,5292.0,78,39
+686,20,RL,65.0,8125,Pave,0,SawyerW,1998,HdBoard,HdBoard,BrkFace,258.0,PConc,3.0,1679,0,0,1679,1,0,2,7,8,Attchd,3.0,Y,224,WD ,9,30,13540.0,GasAGasAGasAGasAGasA,4,2.0,6900.0,42,14
+687,20,RL,90.0,18261,Pave,0,StoneBr,2005,VinylSd,VinylSd,BrkFace,420.0,PConc,3.0,2000,0,0,2000,1,0,2,8,8,Attchd,3.0,Y,351,WD ,15,45,56576.0,GasAGasAGasAGasAGasA,5,8.0,6498.0,225,1
+688,20,RL,70.0,9100,Pave,0,Crawfor,1954,BrkFace,BrkFace,None,0.0,BrkTil,3.0,1112,0,0,1112,1,0,1,6,8,Attchd,3.0,Y,0,WD ,12,30,12188.0,GasAGasAGasAGasAGasA,3,4.0,1170.0,0,55
+689,60,RL,70.0,8304,Pave,0,SawyerW,1998,VinylSd,VinylSd,None,0.0,PConc,3.0,941,896,0,1837,0,0,2,7,8,Attchd,3.0,Y,150,WD ,9,30,7528.0,GasAGasAGasAGasAGasA,3,0.0,8256.0,165,9
+690,20,RL,53.0,5470,Pave,0,OldTown,1958,MetalSd,MetalSd,None,0.0,CBlock,3.0,792,0,0,792,0,0,1,4,8,Attchd,3.0,Y,0,WD ,9,15,4752.0,GasAGasAGasAGasA,3,0.0,732.0,90,51
+691,20,RL,0.0,8169,Pave,0,Sawyer,1966,Plywood,Plywood,None,0.0,CBlock,3.0,912,0,0,912,1,0,1,6,8,Detchd,3.0,Y,204,WD ,12,35,6342.0,GasAGasAGasAGasAGasA,4,0.0,945.0,0,41
+692,20,RL,124.0,16158,Pave,0,StoneBr,2005,VinylSd,VinylSd,Stone,16.0,PConc,3.0,1530,0,0,1530,1,0,2,7,8,Attchd,3.0,Y,168,WD ,12,35,33160.0,GasAGasAGasAGasAGasA,4,4.0,7740.0,36,4
+693,30,RM,59.0,8263,Pave,0,IDOTRR,1950,BrkFace,BrkFace,None,0.0,BrkTil,3.0,1012,0,0,1012,0,0,1,6,8,Detchd,3.0,Y,0,WD ,9,30,6072.0,GasAGasAGasA,3,4.0,924.0,22,87
+694,120,RL,0.0,5271,Pave,0,ClearCr,1986,Wd Sdng,Wd Sdng,None,0.0,PConc,3.0,1453,0,0,1453,1,0,1,6,8,Attchd,3.0,Y,0,WD ,9,35,35676.0,GasAGasAGasAGasA,4,3.0,5340.0,264,20
+695,20,RL,79.0,11850,Pave,0,NWAmes,1984,Plywood,Plywood,BrkFace,98.0,CBlock,3.0,1177,0,0,1177,0,0,2,6,8,Attchd,3.0,Y,204,WD ,9,36,10005.0,GasAGasAGasA,4,0.0,8910.0,103,23
+696,60,RL,83.0,13159,Pave,0,Timber,2009,VinylSd,VinylSd,None,0.0,PConc,3.0,846,846,0,1692,0,0,2,6,8,Attchd,3.0,Y,208,New,9,35,25380.0,GasAGasAGasAGasA,4,0.0,7800.0,114,0
+697,60,RL,82.0,11643,Pave,0,NridgHt,2006,MetalSd,MetalSd,BrkFace,142.0,PConc,3.0,1544,814,0,2358,1,0,2,10,8,BuiltIn,3.0,Y,120,New,12,40,37800.0,GasAGasAGasAGasAGasA,5,4.0,21168.0,34,1
+698,90,RL,50.0,9350,Pave,0,Edwards,1975,HdBoard,HdBoard,None,0.0,PConc,3.0,864,0,0,864,1,0,1,4,8,0,0.0,Y,0,WD ,9,25,15552.0,GasAGasA,3,0.0,0.0,0,33
+699,20,RL,48.0,10635,Pave,0,CollgCr,2003,VinylSd,VinylSd,BrkFace,171.0,PConc,3.0,1668,0,0,1668,1,0,2,8,8,Attchd,3.0,Y,0,WD ,12,40,30976.0,GasAGasAGasAGasAGasA,4,3.0,9036.0,262,7
+700,120,RM,0.0,4438,Pave,0,CollgCr,2004,VinylSd,VinylSd,BrkFace,205.0,PConc,3.0,848,0,0,848,1,0,1,3,8,Attchd,3.0,Y,149,WD ,12,30,16380.0,GasAGasAGasAGasAGasA,4,4.0,5040.0,0,4
+701,20,RL,60.0,7024,Pave,0,Edwards,2005,VinylSd,VinylSd,None,0.0,PConc,3.0,1132,0,0,1132,1,0,1,5,8,Attchd,3.0,Y,252,WD ,9,20,11104.0,GasAGasAGasAGasAGasA,4,0.0,8118.0,64,3
+702,90,RL,75.0,8250,Pave,0,SawyerW,1981,Wd Sdng,Wd Shng,None,0.0,Slab,0.0,964,918,0,1882,0,0,2,8,8,Attchd,3.0,Y,0,WD ,9,42,0.0,GasAGasAGasA,6,6.0,3672.0,0,28
+703,20,RH,80.0,11622,Pave,0,NAmes,1961,VinylSd,VinylSd,None,0.0,CBlock,3.0,896,0,0,896,0,0,1,5,8,Attchd,3.0,Y,140,WD ,9,30,5148.0,GasAGasAGasA,3,0.0,2190.0,120,49
+704,20,RL,80.0,12000,Pave,0,Veenker,1980,VinylSd,MetalSd,BrkFace,600.0,CBlock,3.0,2362,0,0,2362,1,0,2,8,8,Attchd,3.0,Y,180,WD ,12,42,19480.0,GasAGasAGasAGasAGasA,4,3.0,8736.0,16,27
+705,20,RL,93.0,11160,Pave,0,NAmes,1968,BrkFace,BrkFace,None,0.0,CBlock,3.0,2110,0,0,2110,1,0,2,8,8,Attchd,3.0,Y,0,WD ,12,35,14790.0,GasAGasAGasAGasAGasA,5,6.0,9396.0,0,42
+706,80,RL,0.0,11333,Pave,0,Mitchel,1976,HdBoard,HdBoard,None,0.0,PConc,3.0,1062,0,0,1062,1,0,1,5,8,Attchd,3.0,Y,120,WD ,9,30,20923.0,GasAGasAGasA,3,6.0,6468.0,0,31
+707,20,RL,78.0,7800,Pave,0,NAmes,1954,HdBoard,HdBoard,BrkFace,200.0,PConc,3.0,1268,0,0,1268,0,0,1,7,8,Attchd,3.0,Y,0,WD ,9,30,7068.0,GasAGasAGasAGasA,3,4.0,2196.0,98,56
+708,20,RL,60.0,10434,Pave,0,NAmes,1955,Plywood,Plywood,None,0.0,CBlock,3.0,1005,0,0,1005,0,0,1,5,8,Detchd,2.0,Y,0,WD ,9,20,6030.0,GasAGasAGasA,2,3.0,2688.0,0,54
+709,20,RL,90.0,11520,Pave,0,NridgHt,2005,VinylSd,VinylSd,BrkFace,615.0,PConc,3.0,1698,0,0,1698,0,0,2,7,8,Attchd,3.0,Y,192,WD ,12,45,17090.0,GasAGasAGasAGasAGasA,5,4.0,19710.0,74,5
+710,20,FV,68.0,8736,Pave,0,Somerst,2004,VinylSd,Wd Shng,None,0.0,PConc,3.0,1553,0,0,1553,1,0,2,6,8,Attchd,3.0,Y,192,WD ,12,35,14326.0,GasAGasAGasAGasAGasA,4,0.0,7056.0,88,6
+711,190,RM,33.0,4456,Pave,0,OldTown,2008,MetalSd,MetalSd,None,0.0,BrkTil,3.0,736,716,0,1452,0,0,2,8,8,0,0.0,N,0,New,9,20,4416.0,GasAGasAGasAGasA,9,0.0,0.0,0,89
+712,20,RL,80.0,9600,Pave,0,NAmes,1951,HdBoard,HdBoard,Stone,144.0,CBlock,3.0,1216,0,0,1216,1,0,1,7,8,Attchd,3.0,Y,0,WD ,9,25,8328.0,GasAGasAGasAGasAGasA,3,0.0,1680.0,0,55
+713,20,RL,0.0,15870,Pave,0,NAmes,1969,VinylSd,Plywood,None,0.0,CBlock,3.0,1096,0,0,1096,1,0,1,6,8,Attchd,3.0,Y,240,WD ,9,25,10629.0,GasAGasAGasAGasAGasA,3,0.0,2691.0,32,37
+714,50,RM,50.0,5000,Pave,0,BrkSide,2006,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,832,378,0,1210,0,0,1,6,8,Detchd,3.0,P,0,WD ,12,35,5232.0,GasAGasAGasAGasAGasA,4,0.0,720.0,0,67
+715,50,RL,75.0,45600,Pave,0,ClearCr,1997,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,1307,1051,0,2358,0,0,3,10,8,Detchd,3.0,Y,486,WD ,9,48,5442.0,GasAGasAGasA,3,4.0,1440.0,215,100
+716,60,RL,42.0,26178,Pave,0,Timber,1990,MetalSd,MetalSd,BrkFace,293.0,PConc,3.0,1238,1281,0,2519,1,0,2,9,8,Attchd,3.0,Y,320,WD ,12,35,29070.0,GasAGasAGasAGasAGasA,4,8.0,7536.0,27,17
+717,160,FV,24.0,2645,Pave,Pave,Somerst,2000,MetalSd,MetalSd,BrkFace,456.0,PConc,3.0,983,756,0,1739,1,0,2,7,8,Attchd,3.0,Y,115,WD ,12,40,9058.0,GasAGasAGasAGasAGasA,4,0.0,8640.0,0,10
+718,80,RL,80.0,9600,Pave,0,NAmes,1996,AsbShng,AsbShng,None,0.0,CBlock,3.0,1661,0,0,1661,1,0,1,8,8,BuiltIn,3.0,Y,0,WD ,9,36,13701.0,GasAGasAGasAGasA,4,3.0,2262.0,206,53
+719,30,RL,118.0,21299,Pave,0,NAmes,1963,BrkFace,BrkFace,None,0.0,CBlock,3.0,2039,0,0,2039,1,0,1,7,7,2Types,3.0,Y,0,COD,12,35,5574.0,GasAGasAGasAGasAGasA,3,12.0,7119.0,0,65
+720,20,RL,65.0,8450,Pave,0,CollgCr,2004,VinylSd,VinylSd,BrkFace,266.0,PConc,3.0,1436,0,0,1436,1,0,2,8,8,Attchd,3.0,Y,139,WD ,12,35,21084.0,GasAGasAGasAGasAGasA,4,0.0,2904.0,98,4
+721,60,FV,75.0,9375,Pave,0,Somerst,2004,VinylSd,VinylSd,BrkFace,768.0,PConc,3.0,1053,939,0,1992,0,0,2,9,8,Attchd,3.0,Y,140,WD ,12,40,10530.0,GasAGasAGasAGasAGasA,4,4.0,7776.0,45,5
+722,80,RL,65.0,8385,Pave,0,CollgCr,1977,HdBoard,HdBoard,BrkFace,220.0,CBlock,4.0,985,0,0,985,0,0,2,6,8,Attchd,3.0,Y,210,WD ,12,40,20070.0,GasAGasAGasA,3,0.0,984.0,0,31
+723,160,RM,21.0,1680,Pave,0,BrDale,1972,CemntBd,CmentBd,BrkFace,268.0,CBlock,3.0,630,672,0,1302,0,0,2,6,8,Detchd,3.0,Y,185,WD ,9,35,4242.0,GasAGasAGasA,3,0.0,792.0,0,37
+724,60,RL,84.0,14260,Pave,0,NoRidge,2000,VinylSd,VinylSd,BrkFace,350.0,PConc,3.0,1145,1053,0,2198,1,0,2,9,8,Attchd,3.0,Y,192,WD ,12,40,23550.0,GasAGasAGasAGasAGasA,4,3.0,15048.0,84,8
+725,20,RL,80.0,10000,Pave,0,Mitchel,2002,VinylSd,VinylSd,BrkFace,166.0,PConc,3.0,1392,0,0,1392,0,0,2,6,8,Attchd,3.0,Y,168,WD ,12,25,12698.0,GasAGasAGasAGasAGasA,4,4.0,17550.0,49,5
+726,20,RL,85.0,11900,Pave,0,NWAmes,1977,Plywood,Plywood,BrkFace,209.0,CBlock,3.0,1411,0,0,1411,0,0,2,6,8,Attchd,3.0,Y,192,WD ,12,35,9960.0,GasAGasAGasA,3,3.0,9792.0,0,32
+727,20,RL,68.0,9724,Pave,0,NAmes,1950,BrkFace,BrkFace,None,0.0,CBlock,3.0,1043,0,0,1043,0,0,1,5,8,Detchd,3.0,Y,125,WD ,9,35,5628.0,GasAGasAGasAGasAGasA,3,4.0,819.0,48,59
+728,20,RL,110.0,16163,Pave,0,NridgHt,2004,VinylSd,VinylSd,BrkFace,232.0,PConc,3.0,1618,0,0,1618,0,0,2,6,8,Attchd,3.0,Y,0,WD ,12,40,38832.0,GasAGasAGasAGasAGasA,4,4.0,23760.0,0,2
+729,50,RM,50.0,5925,Pave,0,OldTown,1950,MetalSd,MetalSd,None,0.0,BrkTil,3.0,761,380,0,1141,0,0,1,6,8,Detchd,2.0,Y,0,ConLw,9,24,2728.0,GasAGasAGasAGasA,3,0.0,504.0,0,107
+730,20,FV,72.0,8640,Pave,0,Somerst,2009,CemntBd,CmentBd,Stone,72.0,PConc,3.0,1314,0,0,1314,1,0,2,6,8,Attchd,3.0,Y,135,New,12,40,18928.0,GasAGasAGasAGasAGasA,4,0.0,6624.0,112,0
+731,60,RL,93.0,10261,Pave,0,Gilbert,2000,VinylSd,VinylSd,BrkFace,318.0,PConc,3.0,962,830,0,1792,1,0,2,8,8,Attchd,3.0,Y,0,WD ,9,30,7488.0,GasAGasAGasAGasAGasA,3,3.0,8118.0,0,8
+732,60,RL,0.0,12334,Pave,0,CollgCr,2003,VinylSd,VinylSd,BrkFace,198.0,PConc,3.0,1068,1116,0,2184,0,0,2,8,8,BuiltIn,3.0,Y,192,WD ,12,40,25632.0,GasAGasAGasAGasAGasA,4,4.0,6840.0,132,6
+733,90,RL,78.0,10530,Pave,0,Mitchel,1977,Plywood,ImStucc,BrkFace,90.0,CBlock,3.0,1004,0,0,1004,1,0,1,4,8,Attchd,3.0,Y,0,WD ,9,30,21450.0,GasAGasAGasA,3,0.0,3024.0,0,29
+734,20,RL,0.0,11765,Pave,0,NAmes,1957,Wd Sdng,Wd Sdng,Stone,302.0,CBlock,3.0,1797,0,0,1797,0,0,1,7,8,Attchd,3.0,Y,0,WD ,9,25,16023.0,GasAGasA,3,3.0,8667.0,0,49
+735,50,RL,85.0,14115,Pave,0,Mitchel,1995,VinylSd,VinylSd,None,0.0,Wood,3.0,796,566,0,1362,1,0,1,5,8,Attchd,3.0,Y,40,WD ,9,25,7832.0,GasAGasAGasAGasAGasA,3,0.0,2880.0,350,16
+736,50,RM,75.0,9000,Pave,0,OldTown,1950,MetalSd,MetalSd,None,0.0,CBlock,3.0,904,595,0,1499,0,0,1,5,8,Detchd,4.0,Y,0,WD ,9,30,5424.0,GasAGasAGasAGasAGasA,3,1.0,7821.0,20,62
+737,60,RL,0.0,12936,Pave,0,NWAmes,1972,HdBoard,Plywood,None,0.0,CBlock,4.0,735,660,0,1395,0,1,1,6,8,Attchd,3.0,Y,294,WD ,9,36,4931.0,GasAGasAGasA,3,3.0,2982.0,116,37
+738,20,RL,70.0,8414,Pave,0,Sawyer,2003,HdBoard,HdBoard,None,0.0,CBlock,3.0,1068,0,0,1068,0,1,1,6,8,Attchd,3.0,Y,192,WD ,9,48,8343.0,GasAGasAGasA,3,0.0,1584.0,0,43
+739,20,RL,87.0,10725,Pave,0,NAmes,1959,MetalSd,MetalSd,BrkFace,91.0,CBlock,3.0,1206,0,0,1206,0,0,1,6,8,Attchd,3.0,Y,0,WD ,9,25,7236.0,GasAGasA,3,0.0,1872.0,21,51
+740,20,RL,88.0,12803,Pave,0,CollgCr,2002,VinylSd,VinylSd,BrkFace,99.0,PConc,3.0,1494,0,0,1494,1,0,2,6,8,Attchd,3.0,Y,192,WD ,12,35,22060.0,GasAGasAGasAGasAGasA,4,3.0,6360.0,36,6
+741,60,RL,0.0,10304,Pave,0,NWAmes,1976,Plywood,Plywood,BrkFace,44.0,CBlock,3.0,1088,780,0,1868,1,0,2,9,8,Attchd,3.0,Y,448,WD ,12,35,5442.0,GasAGasAGasAGasAGasA,4,3.0,2904.0,96,33
+742,20,RL,68.0,8562,Pave,0,Edwards,2002,HdBoard,HdBoard,Stone,145.0,CBlock,3.0,1526,0,0,1526,0,0,1,7,6,Basment,3.0,Y,116,WD ,9,30,19590.0,GasAGasAGasAGasAGasA,3,4.0,1092.0,78,53
+743,50,RM,0.0,8239,Pave,0,OldTown,1962,MetalSd,MetalSd,None,0.0,BrkTil,3.0,1060,185,0,1245,0,0,1,6,8,Detchd,3.0,Y,0,WD ,9,30,6048.0,GasAGasAGasA,3,0.0,945.0,0,90
+744,60,RL,0.0,9765,Pave,0,Gilbert,1993,VinylSd,VinylSd,BrkFace,68.0,PConc,4.0,680,790,0,1470,0,0,2,6,8,BuiltIn,3.0,Y,232,WD ,20,48,5750.0,GasAGasAGasAGasA,3,3.0,7560.0,63,16
+745,80,RL,0.0,15584,Pave,0,ClearCr,1956,Wd Sdng,Wd Sdng,BrkFace,366.0,CBlock,3.0,2071,0,0,2071,0,1,1,9,8,Attchd,3.0,Y,131,WD ,9,25,9900.0,GasAGasAGasAGasAGasA,3,3.0,1008.0,28,53
+746,60,RL,0.0,9337,Pave,0,CollgCr,1998,VinylSd,VinylSd,None,0.0,PConc,3.0,892,800,0,1692,0,0,2,8,8,Attchd,3.0,Y,0,WD ,9,35,7377.0,GasAGasAGasAGasAGasA,3,3.0,6156.0,39,13
+747,60,RL,80.0,8000,Pave,0,NWAmes,1970,VinylSd,VinylSd,BrkFace,525.0,CBlock,3.0,1403,1008,0,2411,1,0,2,8,8,Attchd,3.0,Y,0,WD ,9,36,6048.0,GasAGasAGasA,3,1.0,6840.0,192,37
+748,50,RM,0.0,3950,Pave,Grvl,OldTown,2004,MetalSd,MetalSd,None,0.0,CBlock,3.0,818,406,0,1224,0,0,1,5,8,Detchd,3.0,N,0,WD ,9,48,4908.0,GasAGasAGasA,3,0.0,630.0,0,83
+749,20,RL,88.0,11443,Pave,0,Timber,2006,VinylSd,VinylSd,BrkFace,208.0,PConc,3.0,2028,0,0,2028,1,0,2,7,8,Attchd,3.0,Y,326,New,12,40,54280.0,GasAGasAGasAGasAGasA,4,8.0,15840.0,66,1
+750,20,RL,86.0,11194,Pave,0,Somerst,2008,VinylSd,VinylSd,Stone,240.0,PConc,3.0,1696,0,0,1696,0,0,2,7,8,Attchd,3.0,Y,120,WD ,12,40,27136.0,GasAGasAGasAGasAGasA,4,0.0,17496.0,56,1
+751,50,RM,60.0,9600,Pave,Grvl,OldTown,1950,MetalSd,MetalSd,Stone,264.0,CBlock,3.0,1226,442,0,1668,1,0,1,6,8,Detchd,3.0,Y,0,WD ,9,30,7272.0,GasAGasAGasAGasA,3,0.0,720.0,0,58
+752,160,RL,24.0,2280,Pave,0,NPkVill,1978,Plywood,Brk Cmn,None,0.0,CBlock,3.0,855,601,0,1456,0,0,2,7,8,Attchd,3.0,Y,26,WD ,9,30,7151.0,GasAGasA,3,3.0,2640.0,0,32
+753,80,RL,0.0,12095,Pave,0,NAmes,1964,MetalSd,HdBoard,BrkFace,115.0,CBlock,3.0,1445,0,0,1445,0,0,1,7,8,Attchd,3.0,Y,180,WD ,12,36,21972.0,GasAGasAGasA,3,2.0,7740.0,0,45
+754,20,RL,94.0,25286,Pave,0,Mitchel,1963,HdBoard,Plywood,None,0.0,PConc,3.0,1040,0,0,1040,1,0,1,5,8,Attchd,3.0,Y,0,WD ,9,20,21105.0,GasAGasAGasAGasA,3,0.0,3888.0,0,44
+755,160,RM,21.0,2058,Pave,0,BrDale,1973,HdBoard,HdBoard,BrkFace,265.0,CBlock,3.0,672,546,0,1218,0,0,1,7,8,Detchd,3.0,Y,0,WD ,9,30,4032.0,GasAGasAGasAGasAGasA,5,0.0,792.0,28,34
+756,20,RL,107.0,13891,Pave,0,NridgHt,2007,VinylSd,VinylSd,Stone,456.0,PConc,3.0,2552,0,0,2552,1,0,2,8,8,Attchd,3.0,Y,130,New,15,45,76712.0,GasAGasAGasAGasAGasA,5,10.0,25164.0,28,0
+757,50,C (all),52.0,5150,Pave,0,IDOTRR,2000,Plywood,Plywood,None,0.0,PConc,3.0,671,378,0,1049,0,0,1,5,8,Detchd,2.0,N,0,WD ,9,28,712.0,GasAGasAGasA,3,0.0,195.0,0,98
+758,60,RL,60.0,7023,Pave,0,Edwards,2006,VinylSd,VinylSd,None,0.0,PConc,4.0,734,674,0,1408,1,0,2,6,8,BuiltIn,3.0,Y,0,WD ,9,25,7094.0,GasAGasAGasAGasA,3,0.0,8802.0,85,2
+759,120,RL,48.0,6240,Pave,0,NridgHt,2006,MetalSd,MetalSd,BrkFace,176.0,PConc,3.0,1324,0,0,1324,0,0,2,6,8,Attchd,3.0,Y,0,New,12,40,10640.0,GasAGasAGasAGasAGasA,4,4.0,9900.0,38,1
+760,85,RL,75.0,9750,Pave,0,Mitchel,1977,Plywood,Plywood,None,0.0,CBlock,3.0,926,0,0,926,1,0,1,5,8,Attchd,3.0,Y,319,WD ,9,36,13168.0,GasAGasAGasAGasAGasA,3,3.0,1053.0,0,32
+761,60,RL,75.0,9375,Pave,0,CollgCr,1997,VinylSd,VinylSd,None,0.0,PConc,3.0,1044,1054,0,2098,0,0,2,9,8,Attchd,3.0,Y,331,WD ,12,35,8320.0,GasAGasAGasAGasAGasA,4,3.0,11178.0,38,13
+762,20,RL,75.0,11235,Pave,0,Sawyer,1979,HdBoard,HdBoard,BrkFace,51.0,CBlock,3.0,1382,0,0,1382,0,0,1,6,8,Attchd,3.0,Y,0,WD ,9,20,6306.0,GasAGasAGasAGasA,3,1.0,2754.0,82,43
+763,20,RL,110.0,14442,Pave,0,Crawfor,2004,CemntBd,CmentBd,BrkFace,106.0,PConc,3.0,1839,0,0,1839,1,0,2,7,8,Attchd,3.0,Y,0,WD ,9,42,12420.0,GasAGasAGasAGasAGasA,4,6.0,7488.0,287,50
+764,60,RM,57.0,8094,Pave,Grvl,OldTown,1983,Wd Sdng,Wd Sdng,None,0.0,PConc,3.0,1242,742,0,1984,0,0,2,8,8,Detchd,0.0,Y,64,WD ,9,48,14316.0,GasAGasAGasAGasA,3,0.0,0.0,0,98
+765,20,RL,95.0,13618,Pave,0,Timber,2006,VinylSd,VinylSd,Stone,198.0,PConc,4.0,1960,0,0,1960,1,0,2,8,8,Attchd,3.0,Y,172,New,12,40,39690.0,GasAGasAGasAGasAGasA,4,8.0,19278.0,38,1
+766,80,RL,60.0,8400,Pave,0,Gilbert,1997,HdBoard,HdBoard,BrkFace,32.0,PConc,3.0,958,670,0,1628,0,0,2,7,8,BuiltIn,3.0,Y,48,WD ,9,35,3640.0,GasAGasAGasAGasA,3,3.0,7020.0,72,13
+767,20,RL,65.0,8769,Pave,0,CollgCr,2005,VinylSd,VinylSd,None,0.0,PConc,3.0,1190,0,0,1190,1,0,2,5,8,Attchd,3.0,Y,100,WD ,12,35,23802.0,GasAGasAGasAGasAGasA,4,0.0,6936.0,41,2
+768,60,RL,85.0,12244,Pave,0,Timber,2003,VinylSd,VinylSd,Stone,226.0,PConc,3.0,1482,780,0,2262,1,0,2,10,8,Attchd,3.0,Y,168,WD ,12,40,38714.0,GasAGasAGasAGasAGasA,4,8.0,20223.0,0,5
+769,20,RL,58.0,7250,Pave,0,Gilbert,1993,HdBoard,HdBoard,BrkFace,45.0,PConc,3.0,1190,0,0,1190,0,0,2,6,8,Attchd,3.0,Y,0,WD ,9,30,9448.0,GasAGasAGasAGasAGasA,4,3.0,2580.0,21,16
+770,60,RL,92.0,9920,Pave,0,NoRidge,1997,MetalSd,MetalSd,None,0.0,PConc,3.0,1127,886,0,2013,1,0,2,8,8,Attchd,3.0,Y,180,WD ,12,35,21636.0,GasAGasAGasAGasAGasA,3,3.0,2730.0,130,11
+771,20,RL,86.0,11650,Pave,0,NAmes,1959,Plywood,Plywood,BrkCmn,58.0,Slab,0.0,1472,0,0,1472,0,0,2,5,8,Attchd,3.0,Y,0,WD ,9,35,0.0,GasAGasAGasAGasA,4,4.0,2904.0,295,47
+772,90,RL,0.0,10624,Pave,0,NAmes,1964,HdBoard,HdBoard,BrkFace,84.0,CBlock,3.0,1728,0,0,1728,0,1,2,10,8,Detchd,3.0,Y,155,WD ,9,20,10488.0,GasAGasAGasA,6,0.0,1056.0,0,43
+773,20,RL,0.0,12925,Pave,0,NAmes,1970,BrkFace,Plywood,None,0.0,CBlock,3.0,2117,0,0,2117,0,0,2,7,8,Attchd,3.0,Y,0,WD ,9,42,12730.0,GasAGasAGasAGasAGasA,3,8.0,9900.0,42,38
+774,50,RL,0.0,9260,Pave,Grvl,Crawfor,1950,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,932,442,0,1374,0,0,1,6,8,Detchd,3.0,Y,64,WD ,9,20,5304.0,GasAGasAGasA,3,0.0,675.0,100,70
+775,90,RL,75.0,9750,Pave,0,NWAmes,1965,MetalSd,MetalSd,None,0.0,CBlock,3.0,1625,0,0,1625,0,0,2,8,8,Detchd,3.0,Y,0,ConLD,9,30,9750.0,GasAGasAGasAGasAGasA,6,0.0,2904.0,0,43
+776,60,RL,81.0,12018,Pave,0,Timber,2008,VinylSd,VinylSd,Stone,60.0,PConc,3.0,796,816,0,1612,0,0,2,6,8,Attchd,3.0,Y,0,New,12,35,19104.0,GasAGasAGasAGasAGasA,4,0.0,17982.0,64,0
+777,20,RL,0.0,12772,Pave,0,NAmes,1998,MetalSd,MetalSd,None,0.0,CBlock,3.0,958,0,0,958,0,0,1,5,8,Attchd,3.0,Y,0,WD ,12,48,10500.0,GasAGasAGasA,3,0.0,1806.0,0,47
+778,50,RL,60.0,8172,Pave,0,Edwards,1972,MetalSd,MetalSd,None,0.0,PConc,3.0,997,473,0,1470,0,0,2,7,8,Detchd,3.0,Y,0,WD ,9,24,5646.0,GasAGasAGasAGasAGasA,3,0.0,1644.0,156,54
+779,90,RL,60.0,10890,Pave,0,SWISU,1950,Wd Sdng,Plywood,None,0.0,PConc,3.0,1296,1296,0,2592,2,0,2,12,6,0,0.0,Y,0,WD ,9,30,14439.0,GravGrav,6,0.0,0.0,742,84
+780,160,FV,0.0,2117,Pave,0,Somerst,2000,MetalSd,MetalSd,BrkFace,513.0,PConc,3.0,756,756,0,1512,0,0,2,4,8,Detchd,3.0,Y,0,WD ,12,30,6888.0,GasAGasAGasAGasAGasA,4,3.0,2640.0,32,7
+781,60,RL,92.0,15922,Pave,0,StoneBr,2006,VinylSd,VinylSd,BrkFace,550.0,PConc,3.0,1390,1405,0,2795,0,0,3,10,8,BuiltIn,3.0,Y,272,New,12,45,41700.0,GasAGasAGasAGasAGasA,5,4.0,17820.0,102,1
+782,70,RM,60.0,6402,Pave,0,IDOTRR,1950,Wd Sdng,Wd Shng,None,0.0,PConc,3.0,596,596,0,1192,0,0,1,6,8,Detchd,2.0,N,0,WD ,9,25,7152.0,GasAGasAGasA,3,0.0,378.0,0,89
+783,85,RL,60.0,7200,Pave,0,CollgCr,2003,WdShing,HdBoard,None,0.0,CBlock,3.0,768,0,0,768,0,1,1,5,8,Detchd,3.0,Y,192,WD ,12,40,14472.0,GasAGasAGasAGasA,3,0.0,3564.0,0,37
+784,50,RL,51.0,4712,Pave,0,BrkSide,1950,MetalSd,MetalSd,None,0.0,CBlock,3.0,774,456,0,1230,1,0,1,5,8,Detchd,3.0,Y,0,WD ,9,28,5250.0,GasAGasAGasA,3,0.0,915.0,120,60
+785,20,RL,0.0,13284,Pave,0,Sawyer,1954,Wd Sdng,Plywood,None,0.0,PConc,3.0,1383,0,0,1383,1,0,1,6,8,Attchd,3.0,Y,511,WD ,9,25,17872.0,GasAGasAGasA,3,4.0,1062.0,116,54
+786,20,RL,71.0,9178,Pave,0,CollgCr,2007,VinylSd,VinylSd,Stone,306.0,PConc,3.0,1651,0,0,1651,0,0,2,7,8,Attchd,3.0,Y,204,New,12,40,39432.0,GasAGasAGasAGasAGasA,4,4.0,23490.0,64,0
+787,160,RM,24.0,1879,Pave,0,Blueste,1980,MetalSd,MetalSd,None,0.0,CBlock,3.0,516,516,0,1032,0,0,1,5,8,Detchd,3.0,Y,213,WD ,9,36,4860.0,GasAGasAGasA,3,3.0,2772.0,0,28
+788,50,RL,48.0,12822,Pave,0,Mitchel,2003,VinylSd,VinylSd,None,0.0,PConc,3.0,1518,631,0,2149,1,0,1,6,8,Attchd,3.0,Y,168,WD ,12,35,15691.0,GasAGasAGasAGasAGasA,4,5.0,8040.0,241,6
+789,20,RL,82.0,9840,Pave,0,NAmes,1998,HdBoard,HdBoard,None,0.0,CBlock,3.0,1440,0,0,1440,1,0,2,7,8,Attchd,3.0,Y,150,WD ,9,35,9594.0,GasAGasAGasA,4,0.0,2880.0,256,49
+790,85,RL,85.0,10625,Pave,0,NWAmes,1974,Plywood,Plywood,BrkFace,81.0,CBlock,3.0,1173,0,0,1173,1,0,2,6,8,Attchd,3.0,Y,0,WD ,9,42,22494.0,GasAGasAGasA,4,6.0,6336.0,120,36
+791,20,RL,0.0,8125,Pave,0,CollgCr,2002,VinylSd,VinylSd,Stone,295.0,PConc,3.0,1654,0,0,1654,1,0,2,6,8,Attchd,3.0,Y,0,WD ,12,35,15204.0,GasAGasAGasAGasAGasA,4,0.0,8100.0,136,4
+792,20,RL,0.0,11200,Pave,0,SawyerW,1985,Wd Sdng,Wd Shng,BrkFace,85.0,CBlock,3.0,1298,0,0,1298,1,0,2,5,8,Attchd,3.0,Y,165,WD ,12,30,12900.0,GasAGasAGasA,4,3.0,2418.0,26,21
+793,60,RL,85.0,13143,Pave,0,NoRidge,1993,HdBoard,ImStucc,BrkFace,504.0,PConc,3.0,1251,1098,0,2349,1,0,2,9,8,Attchd,3.0,Y,32,WD ,12,40,11310.0,GasAGasAGasAGasAGasA,4,3.0,13716.0,130,17
+794,20,RL,100.0,15263,Pave,0,ClearCr,1959,HdBoard,HdBoard,BrkFace,90.0,CBlock,3.0,1675,0,0,1675,0,0,2,8,8,Attchd,3.0,Y,0,WD ,9,25,10610.0,GasAGasAGasAGasA,3,8.0,1095.0,132,51
+795,120,RL,40.0,3840,Pave,0,Greens,1998,Wd Sdng,Plywood,None,0.0,CBlock,3.0,1295,0,0,1295,1,0,1,4,8,Attchd,3.0,Y,133,WD ,12,48,22550.0,GasAGasAGasA,4,6.0,10278.0,89,29
+796,120,RM,35.0,3907,Pave,0,Blueste,1988,HdBoard,HdBoard,None,0.0,CBlock,3.0,1020,0,0,1020,1,0,1,4,8,Attchd,3.0,Y,135,WD ,9,40,26358.0,GasAGasAGasAGasA,3,0.0,3054.0,0,19
+797,20,RL,79.0,9541,Pave,0,NridgHt,2009,VinylSd,VinylSd,Stone,268.0,PConc,3.0,1502,0,0,1502,0,0,2,7,8,Attchd,3.0,Y,0,New,12,35,12016.0,GasAGasAGasAGasAGasA,4,0.0,7728.0,114,0
+798,20,RL,68.0,8814,Pave,0,CollgCr,2006,VinylSd,VinylSd,Stone,180.0,PConc,3.0,1604,0,0,1604,1,0,2,8,8,Attchd,3.0,Y,123,WD ,12,35,15500.0,GasAGasAGasAGasAGasA,4,4.0,7920.0,110,3
+799,60,RL,61.0,11339,Pave,0,NWAmes,1979,HdBoard,Plywood,BrkFace,549.0,CBlock,3.0,1085,845,0,1930,1,0,2,9,8,Attchd,3.0,Y,192,WD ,9,35,6998.0,GasAGasAGasA,4,3.0,8658.0,72,28
+800,20,RL,70.0,7560,Pave,0,NAmes,1965,BrkFace,Plywood,None,0.0,CBlock,3.0,1339,0,0,1339,0,0,1,6,7,Attchd,3.0,Y,0,COD,9,30,5670.0,GasAGasAGasA,3,0.0,882.0,0,51
+801,30,RM,60.0,7200,Pave,0,IDOTRR,1950,VinylSd,VinylSd,None,0.0,BrkTil,3.0,984,0,0,984,0,0,1,6,8,Detchd,3.0,N,0,ConLI,9,36,5561.0,GasAGasAGasA,3,0.0,924.0,0,76
+802,80,RL,64.0,7848,Pave,0,Gilbert,1999,VinylSd,VinylSd,None,0.0,PConc,3.0,774,656,0,1430,0,0,2,7,8,BuiltIn,3.0,Y,0,WD ,9,42,2304.0,GasAGasAGasAGasAGasA,3,3.0,7380.0,0,10
+803,70,C (all),0.0,6449,Pave,0,SWISU,1950,Wd Sdng,Stucco,None,0.0,CBlock,3.0,942,942,0,1884,0,0,1,7,8,0,0.0,N,0,WD ,9,4,4242.0,GasWGasWGasW,3,0.0,0.0,0,103
+804,60,RL,0.0,12104,Pave,0,Gilbert,2006,VinylSd,VinylSd,None,0.0,PConc,3.0,1082,1240,0,2322,0,0,3,8,8,Attchd,3.0,Y,400,New,12,35,8280.0,GasAGasAGasAGasA,4,0.0,11106.0,45,0
+805,30,RM,51.0,6120,Pave,0,BrkSide,1950,MetalSd,MetalSd,None,0.0,BrkTil,3.0,1015,0,0,1015,0,0,1,6,7,Detchd,3.0,Y,0,WD ,9,35,4608.0,GasAGasAGasA,3,0.0,1350.0,120,81
+806,30,RM,50.0,6000,Pave,0,BrkSide,2003,Wd Sdng,Wd Sdng,None,0.0,BrkTil,2.0,949,0,0,949,0,0,1,5,8,Detchd,3.0,Y,0,WD ,6,35,5694.0,GasAGasAGasAGasAGasA,3,2.0,2220.0,0,84
+807,60,RL,63.0,10928,Pave,0,Gilbert,2005,VinylSd,VinylSd,None,0.0,PConc,4.0,728,728,0,1456,0,0,2,8,8,Attchd,3.0,Y,100,WD ,12,35,5824.0,GasAGasAGasAGasAGasA,4,4.0,7020.0,0,4
+808,70,RL,66.0,8969,Pave,0,Crawfor,1950,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,672,644,0,1316,1,0,1,6,8,Detchd,3.0,P,0,WD ,9,36,4243.0,GasAGasAGasAGasAGasA,3,4.0,1107.0,192,82
+809,20,RL,70.0,9100,Pave,0,NAmes,1958,VinylSd,VinylSd,None,0.0,CBlock,3.0,864,0,0,864,1,0,1,5,8,Detchd,3.0,Y,0,WD ,9,25,5531.0,GasAGasAGasA,3,0.0,3744.0,0,48
+810,20,RL,73.0,8760,Pave,0,NAmes,1956,Wd Sdng,Wd Sdng,BrkFace,164.0,CBlock,3.0,1144,0,0,1144,1,0,1,6,8,Attchd,3.0,Y,257,WD ,12,35,8726.0,GasAGasAGasA,3,0.0,1716.0,0,53
+811,60,RL,0.0,10236,Pave,0,NoRidge,1995,VinylSd,VinylSd,BrkFace,501.0,PConc,3.0,1305,1189,0,2494,1,0,2,9,8,Attchd,3.0,Y,200,WD ,12,40,35464.0,GasAGasAGasAGasAGasA,4,3.0,21681.0,95,12
+812,60,RL,0.0,11616,Pave,0,Sawyer,1978,HdBoard,HdBoard,BrkCmn,328.0,CBlock,3.0,672,714,0,1386,0,0,2,6,8,Attchd,3.0,Y,335,WD ,9,30,6750.0,GasAGasAGasA,3,3.0,7920.0,0,32
+813,90,RL,98.0,13260,Pave,0,NAmes,2001,HdBoard,HdBoard,BrkFace,144.0,CBlock,3.0,1728,0,0,1728,2,0,2,10,8,0,0.0,Y,0,Oth,9,30,11868.0,GasAGasAGasA,6,0.0,0.0,0,48
+814,120,RL,55.0,7301,Pave,0,NridgHt,2008,VinylSd,VinylSd,Stone,176.0,PConc,3.0,1358,0,0,1358,1,0,2,6,8,Attchd,3.0,Y,192,New,12,42,12552.0,GasAGasAGasAGasAGasA,4,4.0,5808.0,26,1
+815,20,FV,72.0,8640,Pave,0,Somerst,2008,VinylSd,VinylSd,None,0.0,PConc,3.0,1372,0,0,1372,0,0,2,6,8,Attchd,3.0,Y,0,New,12,35,13720.0,GasAGasAGasAGasAGasA,4,0.0,9522.0,140,1
+816,20,RL,100.0,17500,Pave,0,Crawfor,1954,HdBoard,HdBoard,Stone,420.0,PConc,3.0,1906,0,0,1906,1,0,1,6,8,Basment,3.0,Y,0,WD ,9,30,15917.0,GasAGasAGasAGasAGasA,3,8.0,3456.0,201,55
+817,30,RM,60.0,10800,Pave,Grvl,OldTown,1995,VinylSd,VinylSd,None,0.0,BrkTil,3.0,1047,0,0,1047,0,0,1,6,8,Detchd,2.0,N,0,WD ,9,28,2564.0,GasAGasAGasAGasA,3,0.0,546.0,0,122
+818,20,RL,73.0,10921,Pave,0,Edwards,1965,HdBoard,HdBoard,BrkFace,48.0,CBlock,3.0,960,0,0,960,1,0,1,6,8,Attchd,3.0,P,120,WD ,9,20,5760.0,GasAGasAGasA,3,0.0,3888.0,0,42
+819,60,RL,0.0,10274,Pave,0,SawyerW,1986,VinylSd,VinylSd,BrkFace,141.0,CBlock,3.0,698,702,0,1400,0,0,2,6,8,Attchd,3.0,Y,0,WD ,12,42,5077.0,GasAGasAGasA,3,0.0,5580.0,48,23
+820,20,RL,80.0,12000,Pave,0,ClearCr,1968,Plywood,Plywood,None,0.0,CBlock,2.0,1388,0,0,1388,1,0,2,6,8,Attchd,3.0,Y,0,COD,6,30,9398.0,GasAGasAGasAGasA,3,1.0,6264.0,58,38
+821,20,RL,99.0,7094,Pave,0,Sawyer,1966,VinylSd,VinylSd,None,0.0,CBlock,3.0,894,0,0,894,0,0,1,5,8,Detchd,3.0,Y,0,WD ,9,25,4990.0,GasAGasAGasA,3,0.0,2304.0,0,41
+822,60,RL,105.0,11025,Pave,0,NoRidge,1994,Wd Sdng,Wd Sdng,BrkFace,568.0,PConc,3.0,1827,959,0,2786,1,0,2,10,8,Attchd,3.0,Y,294,WD ,12,45,52896.0,GasAGasAGasAGasAGasA,4,5.0,11448.0,49,15
+823,190,RM,56.0,7745,Pave,Grvl,OldTown,1950,MetalSd,MetalSd,None,0.0,PConc,3.0,1084,867,0,1951,0,0,2,9,8,Detchd,3.0,P,0,WD ,12,24,5628.0,GasAGasAGasAGasA,4,0.0,3456.0,6,106
+824,160,FV,24.0,2160,Pave,Pave,Somerst,2000,VinylSd,VinylSd,BrkFace,216.0,PConc,3.0,684,720,0,1404,1,0,2,5,8,Detchd,3.0,Y,20,WD ,12,35,6576.0,GasAGasAGasAGasAGasA,4,0.0,2772.0,0,9
+825,50,RL,44.0,13758,Pave,0,Timber,1991,HdBoard,HdBoard,BrkFace,117.0,CBlock,3.0,1187,530,0,1717,0,0,2,7,8,Attchd,3.0,Y,168,WD ,16,35,13084.0,GasAGasAGasAGasAGasA,4,3.0,4800.0,36,17
+826,60,FV,100.0,13162,Pave,0,Somerst,2006,VinylSd,VinylSd,None,0.0,PConc,3.0,2036,604,0,2640,1,0,3,11,8,Attchd,3.0,Y,0,New,12,45,22196.0,GasAGasAGasAGasAGasA,5,4.0,14256.0,265,0
+827,20,RL,0.0,11332,Pave,0,NAmes,2000,Wd Sdng,Wd Sdng,None,0.0,CBlock,3.0,1118,0,0,1118,1,0,1,6,8,Attchd,3.0,Y,290,WD ,9,35,7236.0,GasAGasAGasAGasAGasA,4,0.0,1584.0,0,48
+828,90,RL,55.0,12640,Pave,0,Mitchel,1976,Plywood,Plywood,None,0.0,CBlock,3.0,1728,0,0,1728,0,0,2,8,8,Attchd,3.0,Y,40,WD ,9,30,29088.0,GasAGasAGasA,6,0.0,3444.0,0,30
+829,20,RL,80.0,9600,Pave,0,NAmes,1966,VinylSd,VinylSd,BrkFace,172.0,CBlock,3.0,1232,0,0,1232,1,0,1,6,8,Attchd,3.0,Y,0,WD ,9,25,7392.0,GasAGasAGasA,3,0.0,5880.0,224,44
+830,120,RL,43.0,3182,Pave,0,Blmngtn,2006,VinylSd,VinylSd,BrkFace,11.0,PConc,3.0,1145,0,0,1145,0,0,2,5,8,Attchd,3.0,Y,100,WD ,12,35,9192.0,GasAGasAGasAGasAGasA,4,4.0,7146.0,16,4
+831,20,RL,80.0,11600,Pave,0,NAmes,1960,Wd Sdng,Wd Sdng,BrkFace,175.0,CBlock,3.0,1383,0,0,1383,0,0,1,7,8,Attchd,3.0,Y,0,WD ,9,30,8298.0,GasAGasAGasA,3,0.0,1752.0,45,46
+832,20,RL,0.0,12782,Pave,0,CollgCr,2003,HdBoard,HdBoard,BrkFace,164.0,PConc,3.0,1828,0,0,1828,1,0,2,7,8,Attchd,3.0,Y,194,WD ,12,40,53840.0,GasAGasAGasAGasAGasA,4,4.0,9414.0,144,7
+833,120,RL,48.0,6240,Pave,0,NridgHt,2007,MetalSd,MetalSd,BrkFace,196.0,PConc,3.0,1342,0,0,1342,0,0,2,6,8,Attchd,3.0,Y,0,WD ,12,40,10784.0,GasAGasAGasAGasAGasA,4,4.0,6600.0,35,2
+834,20,RL,79.0,7801,Pave,0,Crawfor,1951,WdShing,Plywood,BrkFace,88.0,PConc,3.0,1091,0,0,1091,0,1,1,5,8,Attchd,3.0,Y,66,WD ,6,30,6546.0,GasAGasA,3,3.0,3096.0,326,57
+835,20,RL,70.0,9100,Pave,0,Sawyer,1963,Wd Sdng,Wd Sdng,None,0.0,PConc,4.0,984,0,0,984,1,0,1,5,8,Attchd,3.0,Y,145,WD ,9,25,7555.0,GasAGasAGasA,3,3.0,2304.0,56,45
+836,20,RL,69.0,11302,Pave,0,StoneBr,2006,VinylSd,Other,BrkFace,238.0,PConc,3.0,1826,0,0,1826,1,0,2,7,8,Attchd,3.0,Y,180,New,12,40,43828.0,GasAGasAGasAGasAGasA,4,3.0,20466.0,195,1
+837,20,RL,60.0,11556,Pave,0,NAmes,2006,VinylSd,MetalSd,None,0.0,CBlock,3.0,1154,0,0,1154,0,0,1,6,8,Detchd,3.0,Y,63,WD ,15,45,5592.0,GasAGasAGasAGasA,5,0.0,1008.0,0,54
+838,20,RL,69.0,9920,Pave,0,CollgCr,1969,HdBoard,Plywood,None,0.0,CBlock,3.0,971,0,0,971,0,0,1,5,8,Attchd,3.0,Y,0,WD ,9,30,25319.0,GasAGasAGasA,3,1.0,900.0,0,37
+839,20,RL,0.0,9759,Pave,0,NAmes,1966,Plywood,Plywood,None,0.0,CBlock,3.0,1051,0,0,1051,1,0,1,6,8,Attchd,3.0,Y,182,WD ,9,25,7105.0,GasAGasAGasA,3,0.0,1584.0,88,40
+840,60,RL,80.0,9600,Pave,0,NWAmes,1974,Plywood,Plywood,BrkFace,252.0,CBlock,3.0,1165,896,0,2061,0,1,2,8,8,Attchd,3.0,Y,0,COD,9,35,8386.0,GasAGasAGasAGasA,3,3.0,5976.0,273,35
+841,160,RL,36.0,2268,Pave,0,NridgHt,2004,VinylSd,Wd Shng,Stone,106.0,PConc,3.0,764,862,0,1626,0,0,2,6,8,BuiltIn,3.0,Y,0,WD ,12,35,7246.0,GasAGasAGasAGasAGasA,4,0.0,5688.0,27,6
+842,40,RL,0.0,23595,Pave,0,ClearCr,1979,Plywood,Plywood,None,0.0,PConc,3.0,1332,192,0,1524,2,0,0,4,8,Attchd,3.0,Y,268,WD ,12,42,30044.0,GasAGasAGasA,4,3.0,10548.0,0,31
+843,85,RL,75.0,9825,Pave,0,Edwards,1967,HdBoard,HdBoard,BrkFace,162.0,CBlock,3.0,936,0,0,936,1,0,1,4,8,Attchd,3.0,Y,405,WD ,9,25,19656.0,GasAGasAGasAGasA,3,2.0,1152.0,0,40
+844,60,RL,57.0,10021,Pave,0,CollgCr,2006,VinylSd,VinylSd,None,0.0,PConc,3.0,646,662,0,1308,1,0,2,6,8,Attchd,3.0,Y,142,WD ,12,36,6158.0,GasAGasAGasAGasAGasA,4,0.0,5964.0,54,10
+845,20,RL,130.0,11700,Pave,0,NWAmes,1968,HdBoard,HdBoard,BrkFace,196.0,PConc,3.0,1295,0,0,1295,1,0,1,6,8,Attchd,3.0,Y,0,WD ,9,30,11270.0,GasAGasA,3,0.0,9504.0,394,39
+846,20,RL,0.0,19900,Pave,0,NAmes,1989,Plywood,Plywood,BrkFace,287.0,CBlock,3.0,2207,0,0,2207,1,0,2,7,7,Attchd,3.0,Y,301,WD ,9,35,53184.0,GasAGasAGasA,3,4.0,6912.0,0,40
+847,60,FV,72.0,8640,Pave,0,Somerst,2009,VinylSd,VinylSd,None,0.0,PConc,3.0,932,920,0,1852,1,0,2,7,8,Attchd,3.0,Y,168,New,9,35,8844.0,GasAGasAGasAGasAGasA,4,3.0,7728.0,108,0
+848,160,RM,24.0,1733,Pave,0,Blueste,1980,MetalSd,MetalSd,None,0.0,CBlock,3.0,516,516,0,1032,0,0,1,5,8,Detchd,3.0,Y,279,WD ,9,36,3096.0,GasAGasAGasA,3,3.0,2712.0,0,29
+849,80,RL,42.0,10385,Pave,0,CollgCr,1978,HdBoard,HdBoard,BrkFace,123.0,CBlock,4.0,1282,0,0,1282,0,1,2,6,8,Detchd,3.0,Y,386,WD ,9,36,12730.0,GasAGasAGasA,3,0.0,4032.0,0,28
+850,120,RM,32.0,4500,Pave,0,Mitchel,1998,VinylSd,VinylSd,BrkFace,320.0,PConc,3.0,1204,0,0,1204,1,0,2,5,8,Attchd,3.0,Y,0,WD ,9,30,12906.0,GasAGasAGasAGasAGasA,3,0.0,7416.0,247,11
+851,20,RL,0.0,9790,Pave,0,NWAmes,1967,BrkFace,Wd Sdng,None,0.0,CBlock,3.0,1342,0,0,1342,0,0,2,7,8,Attchd,3.0,Y,0,WD ,9,30,7602.0,GasAGasAGasA,3,4.0,2742.0,197,42
+852,20,RL,60.0,7332,Pave,0,NAmes,1959,WdShing,Wd Shng,BrkFace,207.0,CBlock,3.0,864,0,0,864,1,0,1,4,8,Attchd,3.0,Y,168,WD ,9,36,5598.0,GasAGasAGasAGasAGasA,4,0.0,864.0,0,47
+853,90,RL,0.0,7032,Pave,0,NAmes,1979,MetalSd,MetalSd,None,0.0,CBlock,3.0,943,0,0,943,1,0,1,4,8,Detchd,3.0,Y,42,WD ,9,25,20746.0,GasAGasAGasA,3,6.0,3600.0,0,27
+854,50,RL,66.0,21780,Pave,0,Edwards,1950,Wd Sdng,Wd Sdng,None,0.0,BrkTil,3.0,1163,511,0,1674,0,0,2,8,8,Detchd,3.0,N,72,WD ,9,42,18608.0,GasAGasAGasAGasAGasA,3,4.0,7128.0,180,90
+855,50,RM,60.0,5790,Pave,0,OldTown,1950,VinylSd,VinylSd,None,0.0,CBlock,3.0,840,765,0,1605,0,0,2,8,8,Detchd,3.0,Y,0,WD ,16,18,3360.0,GasAGasAGasAGasA,6,0.0,1137.0,0,95
+856,120,RL,61.0,7380,Pave,0,StoneBr,1998,CemntBd,CmentBd,None,0.0,PConc,3.0,1478,0,0,1478,1,0,2,5,8,Attchd,3.0,Y,168,WD ,9,40,31986.0,GasAGasAGasAGasAGasA,3,0.0,8910.0,43,11
+857,180,RM,21.0,1526,Pave,0,MeadowV,2002,CemntBd,CmentBd,None,0.0,CBlock,3.0,630,0,0,630,1,0,1,3,8,Attchd,3.0,Y,0,WD ,12,32,12030.0,GasAGasAGasA,4,0.0,858.0,0,39
+858,60,RL,72.0,11317,Pave,0,CollgCr,2003,VinylSd,VinylSd,BrkFace,101.0,PConc,3.0,840,828,0,1668,0,0,2,8,8,Attchd,3.0,Y,144,WD ,12,35,6720.0,GasAGasAGasAGasAGasA,4,0.0,6000.0,68,4
+859,20,RL,0.0,8780,Pave,0,Mitchel,1985,HdBoard,Plywood,None,0.0,CBlock,3.0,833,0,0,833,1,0,1,5,8,0,0.0,Y,0,WD ,9,25,6248.0,GasAGasAGasAGasAGasA,3,0.0,0.0,0,24
+860,20,RL,90.0,12378,Pave,0,NridgHt,2004,VinylSd,VinylSd,None,0.0,PConc,3.0,1944,0,0,1944,1,0,2,8,8,Attchd,3.0,Y,208,WD ,12,45,58004.0,GasAGasAGasAGasAGasA,5,15.0,19116.0,175,3
+861,120,RH,34.0,4058,Pave,0,NAmes,1998,MetalSd,MetalSd,BrkFace,182.0,PConc,3.0,767,0,0,767,1,0,1,4,8,Attchd,3.0,Y,120,WD ,9,35,12458.0,GasAGasAGasAGasAGasA,3,0.0,3303.0,40,9
+862,160,RM,24.0,2368,Pave,0,BrDale,1970,HdBoard,HdBoard,None,312.0,CBlock,3.0,765,600,0,1365,0,0,1,7,7,Attchd,3.0,Y,0,WD ,9,30,3825.0,GasAGasAGasA,3,0.0,2640.0,36,39
+863,20,RL,85.0,9350,Pave,0,NAmes,1995,Wd Sdng,Wd Sdng,BrkFace,217.0,CBlock,3.0,1313,0,0,1313,1,0,1,6,8,Attchd,3.0,Y,172,WD ,9,30,9010.0,GasAGasAGasA,4,3.0,7320.0,149,48
+864,90,RL,64.0,7040,Pave,0,SawyerW,1979,Plywood,Plywood,BrkFace,216.0,CBlock,3.0,1229,0,0,1229,2,0,0,6,8,Detchd,3.0,Y,120,WD ,9,25,19692.0,GasAGasAGasA,8,6.0,4032.0,0,30
+865,60,RL,70.0,8749,Pave,0,CollgCr,2002,VinylSd,VinylSd,0,0.0,PConc,3.0,840,885,0,1725,0,0,2,6,8,Attchd,3.0,Y,0,WD ,12,35,6720.0,GasAGasAGasAGasAGasA,4,0.0,6600.0,48,7
+866,20,RL,0.0,7777,Pave,0,Timber,1996,VinylSd,VinylSd,BrkFace,203.0,PConc,3.0,1491,0,0,1491,0,0,2,7,8,Attchd,3.0,Y,0,WD ,12,30,14910.0,GasAGasAGasAGasAGasA,3,3.0,10278.0,35,11
+867,160,RL,0.0,5062,Pave,0,StoneBr,1984,HdBoard,HdBoard,None,0.0,CBlock,3.0,1190,900,0,2090,1,0,2,6,7,Attchd,3.0,Y,219,WD ,12,35,16292.0,GasAGasAGasAGasA,4,3.0,10386.0,0,23
+868,90,RL,70.0,7700,Pave,0,Mitchel,1986,HdBoard,HdBoard,None,0.0,PConc,3.0,1216,1216,0,2432,0,0,4,10,8,Attchd,2.0,Y,200,WD ,3,10,7296.0,GasAGasAGasAGasA,6,0.0,3696.0,0,25
+869,20,RL,0.0,36500,Pave,0,ClearCr,1964,Wd Sdng,Wd Sdng,BrkCmn,621.0,CBlock,3.0,1582,0,0,1582,0,1,2,7,8,Attchd,3.0,N,168,WD ,12,25,24360.0,GasAGasA,3,0.0,2340.0,198,42
+870,20,RL,182.0,14572,Pave,0,Gilbert,2004,VinylSd,VinylSd,None,0.0,PConc,3.0,1530,0,0,1530,1,0,2,7,8,Attchd,3.0,Y,144,WD ,12,35,28920.0,GasAGasAGasAGasAGasA,4,4.0,17010.0,36,3
+871,20,RL,80.0,11844,Pave,0,StoneBr,2008,VinylSd,VinylSd,Stone,464.0,PConc,3.0,2046,0,0,2046,0,0,2,7,8,Attchd,3.0,Y,322,New,12,40,40920.0,GasAGasAGasAGasAGasA,4,4.0,22518.0,82,1
+872,20,RL,70.0,8810,Pave,0,CollgCr,2003,VinylSd,VinylSd,None,0.0,PConc,3.0,1390,0,0,1390,1,0,2,7,8,Attchd,3.0,Y,0,WD ,12,35,13120.0,GasAGasAGasAGasAGasA,4,0.0,6540.0,68,3
+873,60,RL,80.0,8000,Pave,0,NWAmes,1974,HdBoard,HdBoard,None,0.0,CBlock,3.0,1084,793,0,1877,1,0,2,8,8,Attchd,3.0,Y,0,WD ,9,36,8213.0,GasAGasAGasA,3,3.0,2928.0,96,33
+874,60,RL,90.0,14670,Pave,0,NAmes,1999,VinylSd,VinylSd,BrkFace,410.0,CBlock,3.0,1104,884,0,1988,0,0,2,9,8,Attchd,3.0,Y,0,WD ,16,42,7199.0,GasAGasAGasAGasAGasA,4,4.0,5760.0,230,42
+875,20,RL,55.0,8250,Pave,0,Sawyer,1968,HdBoard,HdBoard,None,0.0,CBlock,3.0,1211,0,0,1211,0,0,1,5,8,Attchd,3.0,Y,0,WD ,9,25,5470.0,GasAGasAGasAGasAGasA,3,3.0,966.0,63,40
+876,20,RL,60.0,9000,Pave,0,NAmes,1971,HdBoard,HdBoard,None,0.0,PConc,3.0,864,0,0,864,0,0,1,5,8,Detchd,3.0,Y,0,WD ,9,24,6416.0,GasAGasAGasA,3,0.0,3168.0,0,36
+877,20,RL,70.0,8400,Pave,0,NAmes,1955,MetalSd,MetalSd,None,0.0,CBlock,3.0,925,0,0,925,1,0,1,5,8,Attchd,3.0,Y,81,WD ,12,25,6331.0,GasAGasAGasA,3,6.0,1170.0,0,52
