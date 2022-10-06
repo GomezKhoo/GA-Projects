@@ -95,11 +95,21 @@ Metrics:
 |CNN|0.879|0.894|0.50|
 |XGBoost|0.940|0.948|0.975|
 
+
+Our primary metric will be recall since correctly predicting the positive class (a sleeping driver) is more crucial to us than correctly predicting the negative class (an awake driver) (sensitivity). The model incorrectly anticipates fewer sleeping drivers to be awake the greater the recall (false negatives). The main issue here is that our negative class outnumbers our positive class by a large margin. Due to this, it is preferable to utilize the F1 score or Precision-Recall AUC score because they also account for the instances when we mistakenly believe a driver to be asleep when they are actually awake (precision). If not, our model will always assume that we are asleep and will be useless. We did not use image augmentation as a solution for coping with unbalanced image data.
+
+The key of the final model decision is down to the primary metric that we choose to focus. Our primary metric will be recall since correctly guessing the positive class (a sleeping driver) is more crucial to us than correctly predicting the negative class (an awake driver) (sensitivity). The higher the recall, the smaller amount of sleeping drivers the model mistakenly predicts are awake (false negatives). We also utilize F1 scores, which also account for the instances when we assume a driver is asleep but is actually awake (precision).If not, our model will always assume that we are asleep and will be useless.
+
+Logistic Regression and Naive Bayes although they yield good result they are basic models. We rule out random forest, decision tree and xg boost since we think they might be overfitting. Because the present data videos only show people sitting down in a generalized environment. This is could be the cause of why models like random forest, xgb boost, and decision tree are showing very good performance and could be deem as overfitting. But thanks to that finding, we can see that we would need more different video data. (Next slide):
+
+We then chose to use MLP as the final model based on the best ROC and reasonable recall rate which we re-emphasis that we want to be able to predict the positive class( a sleepy user ) than correctly predicting the negative class (an awake user).
+
+
 The final model selected for final evaluation were:
 
-|Vectoriser|Model|train|test|
+|Model|Accuracy|F1 Score|ROC|
 |---|---|---|---|
-|KNN|0.877|0.892|0.936|
+|MLP|0.881|0.895|0.941|
 
 
 Our primary metric will be recall since correctly guessing the positive class (a sleeping driver) is more crucial to us than correctly predicting the negative class (an awake driver) (sensitivity). The algorithm incorrectly anticipates fewer sleeping drivers to be awake the greater the recall (false negatives).
@@ -111,8 +121,9 @@ The main issue here is that our negative class outnumbers our positive class by 
 Through the final model, we are able to conclude :
 - Everyone's baseline for the eye and mouth aspect ratios is different which was why normalization was crucial to our performance.
 - When performing tasks, less complicated models can be just as effective as more complex ones.But ultimately, it is better to employ the more sophisticated model with a lower false-negative rate than a simpler model.
+- Flexibility of the system. Finally, the simplicity of the system allows us to explore more models. The model’s output appears useful, and applying it to a device appears feasible. This system might be applied in real-world settings and possibly save lives but of course with a few additional adjustments and export to a different device.
 
 ## Suggestion for further enhancement:
 - For the models, more diverse images taken in a range of seating arrangements and lighting conditions would have been desirable.
-- How the false-negative rate for kNN and other straightforward models can be reduced.
+- How the false-negative rate for MLP and other straightforward models can be reduced.
 - Incorporate behavior feature like sudden head movements, hand motions, head tilting (posture), or even monitoring eye movements, these are new, distinct signs of tiredness.
